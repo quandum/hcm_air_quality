@@ -1,0 +1,15 @@
+DATA_DIRECTORY EXISTED AT "d:\HCMUS\Data Engineer\project\data"! 
+Found location 'Ap Xuan Thoi Dong 2' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/ap-xuan-thoi-dong-2'
+Found location 'SimCity Premier District 9' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/simcity-premier-district-9'
+Found location 'Saigon South International School' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/saigon-south-international-school'
+Found location 'IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/iqair-showroom-saigon-pearl-outdoor-air-quality-monitoring-station'
+Found location 'Mam non Hai Au Bay' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/mam-non-hai-au-bay'
+Found location 'US Consulate in Ho Chi Minh City' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/us-consulate-in-ho-chi-minh-city'
+Found location 'SSIS OUTDOOR 3' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/ssis-outdoor-3'
+Found location 'Diamond Island' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/diamond-island'
+Found location 'VSTARSCHOOL' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/vstarschool'
+Found location 'THCS Thanh My Loi' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/thcs-thanh-my-loi'
+Clicked button agree!
+Folder 'd:\HCMUS\Data Engineer\project\data\VSTARSCHOOL' was found!
+Unable to click the button agree, or not found button!
+Folder 'd:\HCMUS\Data Engineer\project\data\VSTARSCHOOL' was found!
