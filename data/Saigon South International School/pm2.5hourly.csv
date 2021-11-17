@@ -42,3 +42,6 @@ timestamp,value,rating
 "16 Nov, 2:00 PM",16.9,PM2.5 µg/m³ - Tốt
 "16 Nov, 3:00 PM",9,PM2.5 µg/m³ - Tốt
 "16 Nov, 4:00 PM",11,PM2.5 µg/m³ - Tốt
+"17 Nov, 7:00 AM",44.1,PM2.5 µg/m³ - Tốt
+"17 Nov, 8:00 AM",56.5,PM2.5 µg/m³ - Trung bình
+"17 Nov, 9:00 AM",57.5,PM2.5 µg/m³ - Trung bình
