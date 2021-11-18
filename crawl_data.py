@@ -139,7 +139,7 @@ for SOURCE_NAME, url in CRAWLING_SITE_URLS.items():
             bars=chart.find_elements(By.TAG_NAME,"rect")
             for b in bars:
                 browser_actions.move_to_element(b).perform() 
-                time.sleep(0.25)
+                time.sleep(0.0025)
                 all_texts=browser.find_elements(By.TAG_NAME,"text")
                 bar_info_found=False
                 for t in all_texts:
