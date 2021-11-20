@@ -1,7 +1,7 @@
-
-### I/O and OS functions
+# -*- coding: utf-8 -*-
+7### I/O and OS functions
 from pprint import pprint
-import os,sys,time
+import os,sys,time,platform
 
 import json,csv
 
@@ -16,13 +16,18 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 from unidecode import unidecode ## chuyển tiếng việt thành không dấu.
-#CURRENT_WORKING_DIRECTORY = os.path.dirname(os.path.abspath(__file__))
-CURRENT_WORKING_DIRECTORY = r'd:\HCMUS\Data Engineer\project'
+CURRENT_WORKING_DIRECTORY = os.path.dirname(os.path.abspath(__file__))
+# CURRENT_WORKING_DIRECTORY = r'd:\HCMUS\Data Engineer\project'
+
+CHROMEDRIVER_PATH =  os.path.join(CURRENT_WORKING_DIRECTORY,("chromedriver.exe" if 'windows' in platform.system().lower() else "chromedriver" ))
+print("CHROMEDRIVER_PATH: " + CHROMEDRIVER_PATH)
+
 DATA_DIRECTORY = os.path.join(CURRENT_WORKING_DIRECTORY,'data')
     
     
 print("working directory: " + CURRENT_WORKING_DIRECTORY)
 print("data directory: " + DATA_DIRECTORY)
+
 log_file = open("crawl_log.txt",'w',encoding='utf8')
 def log_print(string, CONSOLE = True):
     log_file.write("%s\n"%string)
@@ -38,9 +43,12 @@ else:
 
 
 
-browser = webdriver.Chrome(executable_path=os.path.join(CURRENT_WORKING_DIRECTORY,"chromedriver.exe"))
+if (os.path.exists(CHROMEDRIVER_PATH)==False):
+    print("File not found at '%s'" %CHROMEDRIVER_PATH)
+    print("Pleáse put in the correct file chromedriver")
+    exit(0)
 
-
+browser = webdriver.Chrome(executable_path=CHROMEDRIVER_PATH)
 
 
 browser.get(r"https://www.iqair.com/vi/vietnam/ho-chi-minh-city")
@@ -54,7 +62,7 @@ loc_table=browser.find_element(By.XPATH,r"/html/body/app-root/app-portal-contain
 locs=loc_table.find_elements_by_tag_name("tr")
 print("Table locations detected")
 
-f=open(DATA_DIRECTORY+"locations_link.csv","w")
+f=open(os.path.join(DATA_DIRECTORY,"locations_link.csv"),"w")
 CRAWLING_SITE_URLS={}
 writer=csv.DictWriter(f,fieldnames=['location','url',"vn_no_accent"])
 writer.writeheader()
