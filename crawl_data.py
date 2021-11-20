@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 7### I/O and OS functions
 from pprint import pprint
-import os,sys,time,platform
+import os,sys,platform
 
 import json,csv
-
 
 ### Selenium
 from selenium import webdriver
@@ -78,9 +77,6 @@ f.close()
 pprint(CRAWLING_SITE_URLS)
 
 
-# In[ ]:
-
-
 
 def find_button_by_text(text,strictly_matched=False):
     global browser
@@ -129,7 +125,7 @@ for SOURCE_NAME, url in CRAWLING_SITE_URLS.items():
                 find_button_by_text('HẰNG NGÀY').click()
             else:
                 find_button_by_text('HẰNG GIỜ').click()
-
+            browser.implicitly_wait(0.25)
             if (mode2=='AQI'):
                 find_button_by_text('AQI').click()
             else:
@@ -142,19 +138,14 @@ for SOURCE_NAME, url in CRAWLING_SITE_URLS.items():
                 for rec in csv.DictReader(f):
                     data.append(dict(rec))
                 f.close()
-            try:
-                WebDriverWait(browser, 3).until(EC.presence_of_element_located((By.CLASS_NAME,'highcharts-series-group')))
-            except:
-                pass
+            
+            browser.implicitly_wait(0.25)
             chart=browser.find_element(By.CLASS_NAME,'highcharts-series-group')
-            try:
-                WebDriverWait(browser, 3).until(EC.presence_of_all_elements_located((By.TAG_NAME,'rect')))
-            except:
-                pass
             bars=chart.find_elements(By.TAG_NAME,"rect")
             for b in bars:
                 browser_actions.move_to_element(b).perform() 
-                time.sleep(0.025)
+                browser.implicitly_wait(0.025)
+
                 all_texts=browser.find_elements(By.TAG_NAME,"text")
                 bar_info_found=False
                 for t in all_texts:
