@@ -47,7 +47,9 @@ if (os.path.exists(CHROMEDRIVER_PATH)==False):
     print("Pleáse put in the correct file chromedriver")
     exit(0)
 
-browser = webdriver.Chrome(executable_path=CHROMEDRIVER_PATH)
+browser_options = webdriver.ChromeOptions()
+browser_options.add_argument("--start-maximized")
+browser = webdriver.Chrome(chrome_options=browser_options,executable_path=CHROMEDRIVER_PATH)
 
 
 browser.get(r"https://www.iqair.com/vi/vietnam/ho-chi-minh-city")
@@ -80,6 +82,10 @@ pprint(CRAWLING_SITE_URLS)
 
 def find_button_by_text(text,strictly_matched=False):
     global browser
+    try:
+        WebDriverWait(browser,1).until(EC.visibility_of_all_elements_located((By.TAG_NAME,'button')))
+    except:
+        pass
     all_buttons=browser.find_elements(By.TAG_NAME,"button")
     for bt in all_buttons:
         if (strictly_matched==False):
@@ -125,7 +131,7 @@ for SOURCE_NAME, url in CRAWLING_SITE_URLS.items():
                 find_button_by_text('HẰNG NGÀY').click()
             else:
                 find_button_by_text('HẰNG GIỜ').click()
-            browser.implicitly_wait(0.25)
+            browser.implicitly_wait(1)
             if (mode2=='AQI'):
                 find_button_by_text('AQI').click()
             else:
@@ -139,13 +145,25 @@ for SOURCE_NAME, url in CRAWLING_SITE_URLS.items():
                     data.append(dict(rec))
                 f.close()
             
-            browser.implicitly_wait(0.25)
+            browser.implicitly_wait(1)
+            
+            try:
+                WebDriverWait(browser,1).until(EC.presence_of_element_located((By.CLASS_NAME,'highcharts-series-group')))
+            except:
+                pass
+            
             chart=browser.find_element(By.CLASS_NAME,'highcharts-series-group')
+
+
+            try:
+                WebDriverWait(browser,1).until(EC.EC.presence_of_all_elements_located((By.TAG_NAME,'rect')))
+            except:
+                pass
+
             bars=chart.find_elements(By.TAG_NAME,"rect")
             for b in bars:
                 browser_actions.move_to_element(b).perform() 
-                browser.implicitly_wait(0.025)
-
+                browser.implicitly_wait(0.05)
                 all_texts=browser.find_elements(By.TAG_NAME,"text")
                 bar_info_found=False
                 for t in all_texts:
