@@ -142,12 +142,19 @@ for SOURCE_NAME, url in CRAWLING_SITE_URLS.items():
                 for rec in csv.DictReader(f):
                     data.append(dict(rec))
                 f.close()
-
+            try:
+                WebDriverWait(browser, 3).until(EC.presence_of_element_located((By.CLASS_NAME,'highcharts-series-group')))
+            except:
+                pass
             chart=browser.find_element(By.CLASS_NAME,'highcharts-series-group')
+            try:
+                WebDriverWait(browser, 3).until(EC.presence_of_all_elements_located((By.TAG_NAME,'rect')))
+            except:
+                pass
             bars=chart.find_elements(By.TAG_NAME,"rect")
             for b in bars:
                 browser_actions.move_to_element(b).perform() 
-                time.sleep(0.0025)
+                time.sleep(0.025)
                 all_texts=browser.find_elements(By.TAG_NAME,"text")
                 bar_info_found=False
                 for t in all_texts:
