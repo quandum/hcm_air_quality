@@ -31,4 +31,5 @@ timestamp,value,rating
 "Mon, 15 November",42,AQI US - Tốt
 "Tue, 16 November",43,AQI US - Tốt
 "Wed, 17 November",69,AQI US - Trung bình
-"Thu, 18 November",63,AQI US - Trung bình
+"Thu, 18 November",69,AQI US - Trung bình
+"Fri, 19 November",60,AQI US - Trung bình
