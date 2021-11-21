@@ -51,8 +51,8 @@ if (os.path.exists(CHROMEDRIVER_PATH)==False):
     print("Pleáse put in the correct file chromedriver")
     exit(0)
 
-# browser = webdriver.Chrome(executable_path=CHROMEDRIVER_PATH)
-browser = webdriver.Firefox(executable_path=FIREFOX_DRIVER_PATH)
+browser = webdriver.Chrome(executable_path=CHROMEDRIVER_PATH)
+# browser = webdriver.Firefox(executable_path=FIREFOX_DRIVER_PATH)
 
 
 browser.get(r"https://www.iqair.com/vi/vietnam/ho-chi-minh-city")
@@ -86,7 +86,7 @@ pprint(CRAWLING_SITE_URLS)
 def find_button_by_text(text,strictly_matched=False):
     global browser
     try:
-        WebDriverWait(browser,0.025).until(EC.visibility_of_all_elements_located((By.TAG_NAME,'button')))
+        WebDriverWait(browser,0.25).until(EC.visibility_of_all_elements_located((By.TAG_NAME,'button')))
     except:
         pass
     all_buttons=browser.find_elements(By.TAG_NAME,"button")
@@ -156,7 +156,7 @@ for SOURCE_NAME, url in CRAWLING_SITE_URLS.items():
             
             chart=browser.find_element(By.CLASS_NAME,'highcharts-series-group')
             try:
-                WebDriverWait(browser,1).until(EC.EC.presence_of_all_elements_located((By.TAG_NAME,'rect')))
+                WebDriverWait(browser,0.25).until(EC.EC.presence_of_all_elements_located((By.TAG_NAME,'rect')))
             except:
                 pass
             browser_actions=ActionChains(browser)
