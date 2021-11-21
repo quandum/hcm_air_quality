@@ -58,3 +58,6 @@ timestamp,value,rating
 "19 Nov, 1:00 AM",73,AQI US - Trung bình
 "19 Nov, 2:00 AM",73,AQI US - Trung bình
 "19 Nov, 10:00 AM",78,AQI US - Trung bình
+"21 Nov, 10:00 AM",121,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"21 Nov, 11:00 AM",126,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"21 Nov, 12:00 PM",92,AQI US - Trung bình

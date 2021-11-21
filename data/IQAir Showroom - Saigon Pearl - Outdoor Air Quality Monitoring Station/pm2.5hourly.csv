@@ -146,3 +146,18 @@ timestamp,value,rating
 "20 Nov, 7:00 PM",24.8,PM2.5 µg/m³ - Tốt
 "20 Nov, 8:00 PM",31.7,PM2.5 µg/m³ - Tốt
 "20 Nov, 9:00 PM",37.5,PM2.5 µg/m³ - Tốt
+"20 Nov, 10:00 PM",32.7,PM2.5 µg/m³ - Tốt
+"20 Nov, 11:00 PM",33.7,PM2.5 µg/m³ - Tốt
+"21 Nov, 12:00 AM",38.5,PM2.5 µg/m³ - Tốt
+"21 Nov, 1:00 AM",42.4,PM2.5 µg/m³ - Tốt
+"21 Nov, 2:00 AM",69.4,PM2.5 µg/m³ - Trung bình
+"21 Nov, 3:00 AM",101.5,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
+"21 Nov, 4:00 AM",101,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
+"21 Nov, 5:00 AM",94.6,PM2.5 µg/m³ - Trung bình
+"21 Nov, 6:00 AM",105.7,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
+"21 Nov, 7:00 AM",110.3,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
+"21 Nov, 8:00 AM",105,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
+"21 Nov, 9:00 AM",85.2,PM2.5 µg/m³ - Trung bình
+"21 Nov, 10:00 AM",75.9,PM2.5 µg/m³ - Trung bình
+"21 Nov, 11:00 AM",71.1,PM2.5 µg/m³ - Trung bình
+"21 Nov, 12:00 PM",41.8,PM2.5 µg/m³ - Tốt

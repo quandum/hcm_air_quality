@@ -1,5 +1,5 @@
-chromedriver
-chromedriver.exe
-geckodriver.log
+chromedriver*
+geckodriver*
 .dist
 .ipynb_checkpoints
+crawl_data.py

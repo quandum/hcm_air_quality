@@ -21,7 +21,9 @@ CURRENT_WORKING_DIRECTORY = os.path.dirname(os.path.abspath(__file__))
 # CURRENT_WORKING_DIRECTORY = r'd:\HCMUS\Data Engineer\project'
 
 CHROMEDRIVER_PATH =  os.path.join(CURRENT_WORKING_DIRECTORY,("chromedriver.exe" if 'windows' in platform.system().lower() else "chromedriver" ))
+FIREFOX_DRIVER_PATH =  os.path.join(CURRENT_WORKING_DIRECTORY,("geckodriver.exe" if 'windows' in platform.system().lower() else "geckodriver" ))
 print("CHROMEDRIVER_PATH: " + CHROMEDRIVER_PATH)
+print("FIREFOX_DRIVER_PATH: " + FIREFOX_DRIVER_PATH)
 
 DATA_DIRECTORY = os.path.join(CURRENT_WORKING_DIRECTORY,'data')
     
@@ -49,9 +51,8 @@ if (os.path.exists(CHROMEDRIVER_PATH)==False):
     print("Pleáse put in the correct file chromedriver")
     exit(0)
 
-browser_options = webdriver.ChromeOptions()
-browser_options.add_argument("--start-maximized")
-browser = webdriver.Chrome(chrome_options=browser_options,executable_path=CHROMEDRIVER_PATH)
+# browser = webdriver.Chrome(executable_path=CHROMEDRIVER_PATH)
+browser = webdriver.Firefox(executable_path=FIREFOX_DRIVER_PATH)
 
 
 browser.get(r"https://www.iqair.com/vi/vietnam/ho-chi-minh-city")
@@ -85,7 +86,7 @@ pprint(CRAWLING_SITE_URLS)
 def find_button_by_text(text,strictly_matched=False):
     global browser
     try:
-        WebDriverWait(browser,1).until(EC.visibility_of_all_elements_located((By.TAG_NAME,'button')))
+        WebDriverWait(browser,0.025).until(EC.visibility_of_all_elements_located((By.TAG_NAME,'button')))
     except:
         pass
     all_buttons=browser.find_elements(By.TAG_NAME,"button")
@@ -124,7 +125,7 @@ for SOURCE_NAME, url in CRAWLING_SITE_URLS.items():
     for mode1 in ['daily','hourly']:
         for mode2 in ["AQI","PM2.5"]:
             try:
-                WebDriverWait(browser, 3).until(EC.presence_of_element_located((By.XPATH,r"/html/body/app-root/app-site-cookie-dialog/div/div/div[2]/button")))
+                WebDriverWait(browser, 0.5).until(EC.presence_of_element_located((By.XPATH,r"/html/body/app-root/app-site-cookie-dialog/div/div/div[2]/button")))
             except:
                 pass
 
@@ -149,7 +150,7 @@ for SOURCE_NAME, url in CRAWLING_SITE_URLS.items():
             browser.implicitly_wait(1)
             
             try:
-                WebDriverWait(browser,1).until(EC.presence_of_element_located((By.CLASS_NAME,'highcharts-series-group')))
+                WebDriverWait(browser,0.5).until(EC.presence_of_element_located((By.CLASS_NAME,'highcharts-series-group')))
             except:
                 pass
             
@@ -161,7 +162,7 @@ for SOURCE_NAME, url in CRAWLING_SITE_URLS.items():
             browser_actions=ActionChains(browser)
             bars=chart.find_elements(By.TAG_NAME,"rect")
             for b in bars:
-                browser_actions.click(b).perform() 
+                browser_actions.move_to_element(b).perform() 
                 browser.implicitly_wait(0.025)
                 all_texts=browser.find_elements(By.TAG_NAME,"text")
                 bar_info_found=False
