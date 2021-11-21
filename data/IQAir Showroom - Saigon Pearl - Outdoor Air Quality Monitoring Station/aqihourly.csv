@@ -169,3 +169,6 @@ timestamp,value,rating
 "21 Nov, 6:00 PM",50,AQI US - Tốt
 "21 Nov, 7:00 PM",55,AQI US - Trung bình
 "21 Nov, 8:00 PM",61,AQI US - Trung bình
+"21 Nov, 9:00 PM",67,AQI US - Trung bình
+"21 Nov, 10:00 PM",74,AQI US - Trung bình
+"21 Nov, 11:00 PM",72,AQI US - Trung bình
