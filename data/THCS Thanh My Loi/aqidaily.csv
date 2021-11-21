@@ -1,35 +1,35 @@
-timestamp,value,rating
-"Sun, 17 October",44,AQI US - Tốt
-"Mon, 18 October",27,AQI US - Tốt
-"Tue, 19 October",31,AQI US - Tốt
-"Wed, 20 October",67,AQI US - Trung bình
-"Thu, 21 October",44,AQI US - Tốt
-"Fri, 22 October",55,AQI US - Trung bình
-"Sat, 23 October",52,AQI US - Trung bình
-"Sun, 24 October",49,AQI US - Tốt
-"Mon, 25 October",47,AQI US - Tốt
-"Tue, 26 October",57,AQI US - Trung bình
-"Wed, 27 October",46,AQI US - Tốt
-"Thu, 28 October",29,AQI US - Tốt
-"Fri, 29 October",52,AQI US - Trung bình
-"Sat, 30 October",44,AQI US - Tốt
-"Sun, 31 October",48,AQI US - Tốt
-"Mon, 01 November",52,AQI US - Trung bình
-"Tue, 02 November",60,AQI US - Trung bình
-"Wed, 03 November",36,AQI US - Tốt
-"Thu, 04 November",34,AQI US - Tốt
-"Fri, 05 November",59,AQI US - Trung bình
-"Sat, 06 November",39,AQI US - Tốt
-"Sun, 07 November",39,AQI US - Tốt
-"Mon, 08 November",26,AQI US - Tốt
-"Tue, 09 November",59,AQI US - Trung bình
-"Wed, 10 November",38,AQI US - Tốt
-"Thu, 11 November",40,AQI US - Tốt
-"Fri, 12 November",29,AQI US - Tốt
-"Sat, 13 November",45,AQI US - Tốt
-"Sun, 14 November",59,AQI US - Trung bình
-"Mon, 15 November",42,AQI US - Tốt
-"Tue, 16 November",43,AQI US - Tốt
-"Wed, 17 November",69,AQI US - Trung bình
-"Thu, 18 November",69,AQI US - Trung bình
-"Fri, 19 November",60,AQI US - Trung bình
+timestamp,value,rating
+"Sun, 17 October",44,AQI US - Tốt
+"Mon, 18 October",27,AQI US - Tốt
+"Tue, 19 October",31,AQI US - Tốt
+"Wed, 20 October",67,AQI US - Trung bình
+"Thu, 21 October",44,AQI US - Tốt
+"Fri, 22 October",55,AQI US - Trung bình
+"Sat, 23 October",52,AQI US - Trung bình
+"Sun, 24 October",49,AQI US - Tốt
+"Mon, 25 October",47,AQI US - Tốt
+"Tue, 26 October",57,AQI US - Trung bình
+"Wed, 27 October",46,AQI US - Tốt
+"Thu, 28 October",29,AQI US - Tốt
+"Fri, 29 October",52,AQI US - Trung bình
+"Sat, 30 October",44,AQI US - Tốt
+"Sun, 31 October",48,AQI US - Tốt
+"Mon, 01 November",52,AQI US - Trung bình
+"Tue, 02 November",60,AQI US - Trung bình
+"Wed, 03 November",36,AQI US - Tốt
+"Thu, 04 November",34,AQI US - Tốt
+"Fri, 05 November",59,AQI US - Trung bình
+"Sat, 06 November",39,AQI US - Tốt
+"Sun, 07 November",39,AQI US - Tốt
+"Mon, 08 November",26,AQI US - Tốt
+"Tue, 09 November",59,AQI US - Trung bình
+"Wed, 10 November",38,AQI US - Tốt
+"Thu, 11 November",40,AQI US - Tốt
+"Fri, 12 November",29,AQI US - Tốt
+"Sat, 13 November",45,AQI US - Tốt
+"Sun, 14 November",59,AQI US - Trung bình
+"Mon, 15 November",42,AQI US - Tốt
+"Tue, 16 November",43,AQI US - Tốt
+"Wed, 17 November",69,AQI US - Trung bình
+"Thu, 18 November",69,AQI US - Trung bình
+"Fri, 19 November",60,AQI US - Trung bình

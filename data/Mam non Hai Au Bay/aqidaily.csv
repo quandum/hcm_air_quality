@@ -1,35 +1,36 @@
-timestamp,value,rating
-"Sun, 17 October",72,AQI US - Trung bình
-"Mon, 18 October",32,AQI US - Tốt
-"Tue, 19 October",48,AQI US - Tốt
-"Wed, 20 October",127,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"Thu, 21 October",86,AQI US - Trung bình
-"Fri, 22 October",85,AQI US - Trung bình
-"Sat, 23 October",90,AQI US - Trung bình
-"Sun, 24 October",86,AQI US - Trung bình
-"Mon, 25 October",77,AQI US - Trung bình
-"Tue, 26 October",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"Wed, 27 October",78,AQI US - Trung bình
-"Thu, 28 October",53,AQI US - Trung bình
-"Fri, 29 October",75,AQI US - Trung bình
-"Sat, 30 October",79,AQI US - Trung bình
-"Sun, 31 October",81,AQI US - Trung bình
-"Mon, 01 November",99,AQI US - Trung bình
-"Tue, 02 November",93,AQI US - Trung bình
-"Wed, 03 November",78,AQI US - Trung bình
-"Thu, 04 November",58,AQI US - Trung bình
-"Fri, 05 November",125,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"Sun, 07 November",63,AQI US - Trung bình
-"Mon, 08 November",56,AQI US - Trung bình
-"Tue, 09 November",113,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"Wed, 10 November",64,AQI US - Trung bình
-"Thu, 11 November",74,AQI US - Trung bình
-"Fri, 12 November",79,AQI US - Trung bình
-"Sat, 13 November",155,AQI US - Không lành mạnh
-"Sun, 14 November",89,AQI US - Trung bình
-"Mon, 15 November",82,AQI US - Trung bình
-"Tue, 16 November",81,AQI US - Trung bình
-"Wed, 17 November",131,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"Thu, 18 November",139,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"Fri, 19 November",94,AQI US - Trung bình
-"Sat, 20 November",152,AQI US - Không lành mạnh
+timestamp,value,rating
+"Sun, 17 October",72,AQI US - Trung bình
+"Mon, 18 October",32,AQI US - Tốt
+"Tue, 19 October",48,AQI US - Tốt
+"Wed, 20 October",127,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"Thu, 21 October",86,AQI US - Trung bình
+"Fri, 22 October",85,AQI US - Trung bình
+"Sat, 23 October",90,AQI US - Trung bình
+"Sun, 24 October",86,AQI US - Trung bình
+"Mon, 25 October",77,AQI US - Trung bình
+"Tue, 26 October",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"Wed, 27 October",78,AQI US - Trung bình
+"Thu, 28 October",53,AQI US - Trung bình
+"Fri, 29 October",75,AQI US - Trung bình
+"Sat, 30 October",79,AQI US - Trung bình
+"Sun, 31 October",81,AQI US - Trung bình
+"Mon, 01 November",99,AQI US - Trung bình
+"Tue, 02 November",93,AQI US - Trung bình
+"Wed, 03 November",78,AQI US - Trung bình
+"Thu, 04 November",58,AQI US - Trung bình
+"Fri, 05 November",125,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"Sun, 07 November",63,AQI US - Trung bình
+"Mon, 08 November",56,AQI US - Trung bình
+"Tue, 09 November",113,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"Wed, 10 November",64,AQI US - Trung bình
+"Thu, 11 November",74,AQI US - Trung bình
+"Fri, 12 November",79,AQI US - Trung bình
+"Sat, 13 November",155,AQI US - Không lành mạnh
+"Sun, 14 November",89,AQI US - Trung bình
+"Mon, 15 November",82,AQI US - Trung bình
+"Tue, 16 November",81,AQI US - Trung bình
+"Wed, 17 November",131,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"Thu, 18 November",139,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"Fri, 19 November",94,AQI US - Trung bình
+"Sat, 20 November",152,AQI US - Không lành mạnh
+"Sun, 21 November",63,AQI US - Trung bình

@@ -1,163 +1,168 @@
-timestamp,value,rating
-"14 Nov, 7:00 PM",53,AQI US - Trung bình
-"14 Nov, 8:00 PM",63,AQI US - Trung bình
-"14 Nov, 9:00 PM",118,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"14 Nov, 10:00 PM",125,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"14 Nov, 11:00 PM",151,AQI US - Không lành mạnh
-"15 Nov, 12:00 AM",139,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"15 Nov, 1:00 AM",153,AQI US - Không lành mạnh
-"15 Nov, 2:00 AM",146,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"15 Nov, 3:00 AM",152,AQI US - Không lành mạnh
-"15 Nov, 4:00 AM",108,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"15 Nov, 5:00 AM",137,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"15 Nov, 6:00 AM",158,AQI US - Không lành mạnh
-"15 Nov, 7:00 AM",154,AQI US - Không lành mạnh
-"15 Nov, 8:00 AM",137,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"15 Nov, 9:00 AM",130,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"15 Nov, 10:00 AM",80,AQI US - Trung bình
-"15 Nov, 11:00 AM",80,AQI US - Trung bình
-"15 Nov, 12:00 PM",69,AQI US - Trung bình
-"15 Nov, 1:00 PM",37,AQI US - Tốt
-"15 Nov, 2:00 PM",33,AQI US - Tốt
-"15 Nov, 3:00 PM",25,AQI US - Tốt
-"15 Nov, 4:00 PM",37,AQI US - Tốt
-"15 Nov, 5:00 PM",57,AQI US - Trung bình
-"15 Nov, 6:00 PM",61,AQI US - Trung bình
-"15 Nov, 7:00 PM",67,AQI US - Trung bình
-"15 Nov, 8:00 PM",57,AQI US - Trung bình
-"15 Nov, 9:00 PM",67,AQI US - Trung bình
-"15 Nov, 10:00 PM",76,AQI US - Trung bình
-"15 Nov, 11:00 PM",74,AQI US - Trung bình
-"16 Nov, 12:00 AM",82,AQI US - Trung bình
-"16 Nov, 1:00 AM",88,AQI US - Trung bình
-"16 Nov, 2:00 AM",121,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"16 Nov, 3:00 AM",113,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"16 Nov, 4:00 AM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"16 Nov, 5:00 AM",130,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"16 Nov, 6:00 AM",130,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"16 Nov, 7:00 AM",132,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"16 Nov, 8:00 AM",123,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"16 Nov, 9:00 AM",113,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"16 Nov, 10:00 AM",88,AQI US - Trung bình
-"16 Nov, 11:00 AM",67,AQI US - Trung bình
-"16 Nov, 12:00 PM",57,AQI US - Trung bình
-"16 Nov, 1:00 PM",37,AQI US - Tốt
-"16 Nov, 2:00 PM",45,AQI US - Tốt
-"16 Nov, 3:00 PM",33,AQI US - Tốt
-"16 Nov, 4:00 PM",37,AQI US - Tốt
-"16 Nov, 5:00 PM",21,AQI US - Tốt
-"16 Nov, 6:00 PM",37,AQI US - Tốt
-"16 Nov, 7:00 PM",69,AQI US - Trung bình
-"16 Nov, 8:00 PM",90,AQI US - Trung bình
-"16 Nov, 9:00 PM",76,AQI US - Trung bình
-"16 Nov, 10:00 PM",57,AQI US - Trung bình
-"16 Nov, 11:00 PM",57,AQI US - Trung bình
-"17 Nov, 12:00 AM",65,AQI US - Trung bình
-"17 Nov, 1:00 AM",63,AQI US - Trung bình
-"17 Nov, 2:00 AM",69,AQI US - Trung bình
-"17 Nov, 3:00 AM",67,AQI US - Trung bình
-"17 Nov, 4:00 AM",90,AQI US - Trung bình
-"17 Nov, 5:00 AM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"17 Nov, 6:00 AM",158,AQI US - Không lành mạnh
-"17 Nov, 7:00 AM",164,AQI US - Không lành mạnh
-"17 Nov, 8:00 AM",165,AQI US - Không lành mạnh
-"17 Nov, 9:00 AM",166,AQI US - Không lành mạnh
-"17 Nov, 10:00 AM",159,AQI US - Không lành mạnh
-"17 Nov, 11:00 AM",156,AQI US - Không lành mạnh
-"17 Nov, 12:00 PM",82,AQI US - Trung bình
-"17 Nov, 1:00 PM",107,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"17 Nov, 2:00 PM",88,AQI US - Trung bình
-"17 Nov, 3:00 PM",119,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"17 Nov, 4:00 PM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"17 Nov, 5:00 PM",69,AQI US - Trung bình
-"17 Nov, 6:00 PM",82,AQI US - Trung bình
-"17 Nov, 7:00 PM",65,AQI US - Trung bình
-"17 Nov, 8:00 PM",61,AQI US - Trung bình
-"17 Nov, 9:00 PM",120,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"17 Nov, 10:00 PM",154,AQI US - Không lành mạnh
-"17 Nov, 11:00 PM",157,AQI US - Không lành mạnh
-"18 Nov, 12:00 AM",163,AQI US - Không lành mạnh
-"18 Nov, 1:00 AM",156,AQI US - Không lành mạnh
-"18 Nov, 2:00 AM",156,AQI US - Không lành mạnh
-"18 Nov, 3:00 AM",118,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"18 Nov, 4:00 AM",120,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"18 Nov, 5:00 AM",154,AQI US - Không lành mạnh
-"18 Nov, 6:00 AM",158,AQI US - Không lành mạnh
-"18 Nov, 7:00 AM",154,AQI US - Không lành mạnh
-"18 Nov, 8:00 AM",159,AQI US - Không lành mạnh
-"18 Nov, 9:00 AM",158,AQI US - Không lành mạnh
-"18 Nov, 10:00 AM",160,AQI US - Không lành mạnh
-"18 Nov, 11:00 AM",142,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"18 Nov, 12:00 PM",80,AQI US - Trung bình
-"18 Nov, 1:00 PM",61,AQI US - Trung bình
-"18 Nov, 2:00 PM",80,AQI US - Trung bình
-"18 Nov, 3:00 PM",55,AQI US - Trung bình
-"18 Nov, 4:00 PM",49,AQI US - Tốt
-"18 Nov, 5:00 PM",45,AQI US - Tốt
-"18 Nov, 6:00 PM",53,AQI US - Trung bình
-"18 Nov, 7:00 PM",65,AQI US - Trung bình
-"18 Nov, 8:00 PM",74,AQI US - Trung bình
-"18 Nov, 9:00 PM",94,AQI US - Trung bình
-"18 Nov, 10:00 PM",72,AQI US - Trung bình
-"18 Nov, 11:00 PM",94,AQI US - Trung bình
-"19 Nov, 12:00 AM",188,AQI US - Không lành mạnh
-"19 Nov, 1:00 AM",171,AQI US - Không lành mạnh
-"19 Nov, 2:00 AM",161,AQI US - Không lành mạnh
-"19 Nov, 3:00 AM",173,AQI US - Không lành mạnh
-"19 Nov, 4:00 AM",171,AQI US - Không lành mạnh
-"19 Nov, 5:00 AM",153,AQI US - Không lành mạnh
-"19 Nov, 6:00 AM",155,AQI US - Không lành mạnh
-"19 Nov, 7:00 AM",152,AQI US - Không lành mạnh
-"19 Nov, 8:00 AM",141,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"19 Nov, 9:00 AM",120,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"19 Nov, 10:00 AM",76,AQI US - Trung bình
-"19 Nov, 11:00 AM",76,AQI US - Trung bình
-"19 Nov, 12:00 PM",78,AQI US - Trung bình
-"19 Nov, 1:00 PM",92,AQI US - Trung bình
-"19 Nov, 2:00 PM",99,AQI US - Trung bình
-"19 Nov, 3:00 PM",82,AQI US - Trung bình
-"19 Nov, 4:00 PM",92,AQI US - Trung bình
-"19 Nov, 5:00 PM",140,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"19 Nov, 6:00 PM",114,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"19 Nov, 7:00 PM",63,AQI US - Trung bình
-"19 Nov, 8:00 PM",53,AQI US - Trung bình
-"19 Nov, 9:00 PM",57,AQI US - Trung bình
-"19 Nov, 10:00 PM",63,AQI US - Trung bình
-"19 Nov, 11:00 PM",69,AQI US - Trung bình
-"20 Nov, 12:00 AM",76,AQI US - Trung bình
-"20 Nov, 1:00 AM",69,AQI US - Trung bình
-"20 Nov, 2:00 AM",82,AQI US - Trung bình
-"20 Nov, 3:00 AM",84,AQI US - Trung bình
-"20 Nov, 4:00 AM",151,AQI US - Không lành mạnh
-"20 Nov, 5:00 AM",146,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"20 Nov, 6:00 AM",132,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"20 Nov, 7:00 AM",104,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"20 Nov, 8:00 AM",88,AQI US - Trung bình
-"20 Nov, 9:00 AM",157,AQI US - Không lành mạnh
-"20 Nov, 10:00 AM",174,AQI US - Không lành mạnh
-"20 Nov, 11:00 AM",170,AQI US - Không lành mạnh
-"20 Nov, 12:00 PM",163,AQI US - Không lành mạnh
-"20 Nov, 1:00 PM",161,AQI US - Không lành mạnh
-"20 Nov, 2:00 PM",161,AQI US - Không lành mạnh
-"20 Nov, 3:00 PM",159,AQI US - Không lành mạnh
-"20 Nov, 4:00 PM",153,AQI US - Không lành mạnh
-"20 Nov, 5:00 PM",77,AQI US - Trung bình
-"20 Nov, 6:00 PM",86,AQI US - Trung bình
-"20 Nov, 7:00 PM",78,AQI US - Trung bình
-"20 Nov, 8:00 PM",92,AQI US - Trung bình
-"20 Nov, 9:00 PM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"20 Nov, 10:00 PM",94,AQI US - Trung bình
-"20 Nov, 11:00 PM",96,AQI US - Trung bình
-"21 Nov, 12:00 AM",108,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"21 Nov, 1:00 AM",118,AQI US - Không lành mạnh cho các nhóm nhạy cảm
-"21 Nov, 2:00 AM",158,AQI US - Không lành mạnh
-"21 Nov, 3:00 AM",175,AQI US - Không lành mạnh
-"21 Nov, 4:00 AM",174,AQI US - Không lành mạnh
-"21 Nov, 5:00 AM",171,AQI US - Không lành mạnh
-"21 Nov, 6:00 AM",177,AQI US - Không lành mạnh
-"21 Nov, 7:00 AM",179,AQI US - Không lành mạnh
-"21 Nov, 8:00 AM",177,AQI US - Không lành mạnh
-"21 Nov, 9:00 AM",166,AQI US - Không lành mạnh
-"21 Nov, 10:00 AM",162,AQI US - Không lành mạnh
-"21 Nov, 11:00 AM",159,AQI US - Không lành mạnh
-"21 Nov, 12:00 PM",116,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+timestamp,value,rating
+"14 Nov, 7:00 PM",53,AQI US - Trung bình
+"14 Nov, 8:00 PM",63,AQI US - Trung bình
+"14 Nov, 9:00 PM",118,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"14 Nov, 10:00 PM",125,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"14 Nov, 11:00 PM",151,AQI US - Không lành mạnh
+"15 Nov, 12:00 AM",139,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"15 Nov, 1:00 AM",153,AQI US - Không lành mạnh
+"15 Nov, 2:00 AM",146,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"15 Nov, 3:00 AM",152,AQI US - Không lành mạnh
+"15 Nov, 4:00 AM",108,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"15 Nov, 5:00 AM",137,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"15 Nov, 6:00 AM",158,AQI US - Không lành mạnh
+"15 Nov, 7:00 AM",154,AQI US - Không lành mạnh
+"15 Nov, 8:00 AM",137,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"15 Nov, 9:00 AM",130,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"15 Nov, 10:00 AM",80,AQI US - Trung bình
+"15 Nov, 11:00 AM",80,AQI US - Trung bình
+"15 Nov, 12:00 PM",69,AQI US - Trung bình
+"15 Nov, 1:00 PM",37,AQI US - Tốt
+"15 Nov, 2:00 PM",33,AQI US - Tốt
+"15 Nov, 3:00 PM",25,AQI US - Tốt
+"15 Nov, 4:00 PM",37,AQI US - Tốt
+"15 Nov, 5:00 PM",57,AQI US - Trung bình
+"15 Nov, 6:00 PM",61,AQI US - Trung bình
+"15 Nov, 7:00 PM",67,AQI US - Trung bình
+"15 Nov, 8:00 PM",57,AQI US - Trung bình
+"15 Nov, 9:00 PM",67,AQI US - Trung bình
+"15 Nov, 10:00 PM",76,AQI US - Trung bình
+"15 Nov, 11:00 PM",74,AQI US - Trung bình
+"16 Nov, 12:00 AM",82,AQI US - Trung bình
+"16 Nov, 1:00 AM",88,AQI US - Trung bình
+"16 Nov, 2:00 AM",121,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"16 Nov, 3:00 AM",113,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"16 Nov, 4:00 AM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"16 Nov, 5:00 AM",130,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"16 Nov, 6:00 AM",130,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"16 Nov, 7:00 AM",132,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"16 Nov, 8:00 AM",123,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"16 Nov, 9:00 AM",113,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"16 Nov, 10:00 AM",88,AQI US - Trung bình
+"16 Nov, 11:00 AM",67,AQI US - Trung bình
+"16 Nov, 12:00 PM",57,AQI US - Trung bình
+"16 Nov, 1:00 PM",37,AQI US - Tốt
+"16 Nov, 2:00 PM",45,AQI US - Tốt
+"16 Nov, 3:00 PM",33,AQI US - Tốt
+"16 Nov, 4:00 PM",37,AQI US - Tốt
+"16 Nov, 5:00 PM",21,AQI US - Tốt
+"16 Nov, 6:00 PM",37,AQI US - Tốt
+"16 Nov, 7:00 PM",69,AQI US - Trung bình
+"16 Nov, 8:00 PM",90,AQI US - Trung bình
+"16 Nov, 9:00 PM",76,AQI US - Trung bình
+"16 Nov, 10:00 PM",57,AQI US - Trung bình
+"16 Nov, 11:00 PM",57,AQI US - Trung bình
+"17 Nov, 12:00 AM",65,AQI US - Trung bình
+"17 Nov, 1:00 AM",63,AQI US - Trung bình
+"17 Nov, 2:00 AM",69,AQI US - Trung bình
+"17 Nov, 3:00 AM",67,AQI US - Trung bình
+"17 Nov, 4:00 AM",90,AQI US - Trung bình
+"17 Nov, 5:00 AM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"17 Nov, 6:00 AM",158,AQI US - Không lành mạnh
+"17 Nov, 7:00 AM",164,AQI US - Không lành mạnh
+"17 Nov, 8:00 AM",165,AQI US - Không lành mạnh
+"17 Nov, 9:00 AM",166,AQI US - Không lành mạnh
+"17 Nov, 10:00 AM",159,AQI US - Không lành mạnh
+"17 Nov, 11:00 AM",156,AQI US - Không lành mạnh
+"17 Nov, 12:00 PM",82,AQI US - Trung bình
+"17 Nov, 1:00 PM",107,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"17 Nov, 2:00 PM",88,AQI US - Trung bình
+"17 Nov, 3:00 PM",119,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"17 Nov, 4:00 PM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"17 Nov, 5:00 PM",69,AQI US - Trung bình
+"17 Nov, 6:00 PM",82,AQI US - Trung bình
+"17 Nov, 7:00 PM",65,AQI US - Trung bình
+"17 Nov, 8:00 PM",61,AQI US - Trung bình
+"17 Nov, 9:00 PM",120,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"17 Nov, 10:00 PM",154,AQI US - Không lành mạnh
+"17 Nov, 11:00 PM",157,AQI US - Không lành mạnh
+"18 Nov, 12:00 AM",163,AQI US - Không lành mạnh
+"18 Nov, 1:00 AM",156,AQI US - Không lành mạnh
+"18 Nov, 2:00 AM",156,AQI US - Không lành mạnh
+"18 Nov, 3:00 AM",118,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"18 Nov, 4:00 AM",120,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"18 Nov, 5:00 AM",154,AQI US - Không lành mạnh
+"18 Nov, 6:00 AM",158,AQI US - Không lành mạnh
+"18 Nov, 7:00 AM",154,AQI US - Không lành mạnh
+"18 Nov, 8:00 AM",159,AQI US - Không lành mạnh
+"18 Nov, 9:00 AM",158,AQI US - Không lành mạnh
+"18 Nov, 10:00 AM",160,AQI US - Không lành mạnh
+"18 Nov, 11:00 AM",142,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"18 Nov, 12:00 PM",80,AQI US - Trung bình
+"18 Nov, 1:00 PM",61,AQI US - Trung bình
+"18 Nov, 2:00 PM",80,AQI US - Trung bình
+"18 Nov, 3:00 PM",55,AQI US - Trung bình
+"18 Nov, 4:00 PM",49,AQI US - Tốt
+"18 Nov, 5:00 PM",45,AQI US - Tốt
+"18 Nov, 6:00 PM",53,AQI US - Trung bình
+"18 Nov, 7:00 PM",65,AQI US - Trung bình
+"18 Nov, 8:00 PM",74,AQI US - Trung bình
+"18 Nov, 9:00 PM",94,AQI US - Trung bình
+"18 Nov, 10:00 PM",72,AQI US - Trung bình
+"18 Nov, 11:00 PM",94,AQI US - Trung bình
+"19 Nov, 12:00 AM",188,AQI US - Không lành mạnh
+"19 Nov, 1:00 AM",171,AQI US - Không lành mạnh
+"19 Nov, 2:00 AM",161,AQI US - Không lành mạnh
+"19 Nov, 3:00 AM",173,AQI US - Không lành mạnh
+"19 Nov, 4:00 AM",171,AQI US - Không lành mạnh
+"19 Nov, 5:00 AM",153,AQI US - Không lành mạnh
+"19 Nov, 6:00 AM",155,AQI US - Không lành mạnh
+"19 Nov, 7:00 AM",152,AQI US - Không lành mạnh
+"19 Nov, 8:00 AM",141,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"19 Nov, 9:00 AM",120,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"19 Nov, 10:00 AM",76,AQI US - Trung bình
+"19 Nov, 11:00 AM",76,AQI US - Trung bình
+"19 Nov, 12:00 PM",78,AQI US - Trung bình
+"19 Nov, 1:00 PM",92,AQI US - Trung bình
+"19 Nov, 2:00 PM",99,AQI US - Trung bình
+"19 Nov, 3:00 PM",82,AQI US - Trung bình
+"19 Nov, 4:00 PM",92,AQI US - Trung bình
+"19 Nov, 5:00 PM",140,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"19 Nov, 6:00 PM",114,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"19 Nov, 7:00 PM",63,AQI US - Trung bình
+"19 Nov, 8:00 PM",53,AQI US - Trung bình
+"19 Nov, 9:00 PM",57,AQI US - Trung bình
+"19 Nov, 10:00 PM",63,AQI US - Trung bình
+"19 Nov, 11:00 PM",69,AQI US - Trung bình
+"20 Nov, 12:00 AM",76,AQI US - Trung bình
+"20 Nov, 1:00 AM",69,AQI US - Trung bình
+"20 Nov, 2:00 AM",82,AQI US - Trung bình
+"20 Nov, 3:00 AM",84,AQI US - Trung bình
+"20 Nov, 4:00 AM",151,AQI US - Không lành mạnh
+"20 Nov, 5:00 AM",146,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"20 Nov, 6:00 AM",132,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"20 Nov, 7:00 AM",104,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"20 Nov, 8:00 AM",88,AQI US - Trung bình
+"20 Nov, 9:00 AM",157,AQI US - Không lành mạnh
+"20 Nov, 10:00 AM",174,AQI US - Không lành mạnh
+"20 Nov, 11:00 AM",170,AQI US - Không lành mạnh
+"20 Nov, 12:00 PM",163,AQI US - Không lành mạnh
+"20 Nov, 1:00 PM",161,AQI US - Không lành mạnh
+"20 Nov, 2:00 PM",161,AQI US - Không lành mạnh
+"20 Nov, 3:00 PM",159,AQI US - Không lành mạnh
+"20 Nov, 4:00 PM",153,AQI US - Không lành mạnh
+"20 Nov, 5:00 PM",77,AQI US - Trung bình
+"20 Nov, 6:00 PM",86,AQI US - Trung bình
+"20 Nov, 7:00 PM",78,AQI US - Trung bình
+"20 Nov, 8:00 PM",92,AQI US - Trung bình
+"20 Nov, 9:00 PM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"20 Nov, 10:00 PM",94,AQI US - Trung bình
+"20 Nov, 11:00 PM",96,AQI US - Trung bình
+"21 Nov, 12:00 AM",108,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"21 Nov, 1:00 AM",118,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"21 Nov, 2:00 AM",158,AQI US - Không lành mạnh
+"21 Nov, 3:00 AM",175,AQI US - Không lành mạnh
+"21 Nov, 4:00 AM",174,AQI US - Không lành mạnh
+"21 Nov, 5:00 AM",171,AQI US - Không lành mạnh
+"21 Nov, 6:00 AM",177,AQI US - Không lành mạnh
+"21 Nov, 7:00 AM",179,AQI US - Không lành mạnh
+"21 Nov, 8:00 AM",177,AQI US - Không lành mạnh
+"21 Nov, 9:00 AM",166,AQI US - Không lành mạnh
+"21 Nov, 10:00 AM",162,AQI US - Không lành mạnh
+"21 Nov, 11:00 AM",159,AQI US - Không lành mạnh
+"21 Nov, 12:00 PM",116,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"21 Nov, 1:00 PM",86,AQI US - Trung bình
+"21 Nov, 2:00 PM",82,AQI US - Trung bình
+"21 Nov, 3:00 PM",70,AQI US - Trung bình
+"21 Nov, 4:00 PM",50,AQI US - Tốt
+"21 Nov, 5:00 PM",57,AQI US - Trung bình

@@ -1,24 +1,24 @@
-timestamp,value,rating
-"Sun, 17 October",20,PM2.5 µg/m³ - Tốt
-"Mon, 18 October",5.8,PM2.5 µg/m³ - Tốt
-"Tue, 19 October",15.2,PM2.5 µg/m³ - Tốt
-"Wed, 20 October",38.7,PM2.5 µg/m³ - Tốt
-"Thu, 21 October",25.4,PM2.5 µg/m³ - Tốt
-"Fri, 22 October",25.8,PM2.5 µg/m³ - Tốt
-"Sat, 23 October",32.6,PM2.5 µg/m³ - Tốt
-"Sun, 24 October",29.3,PM2.5 µg/m³ - Tốt
-"Mon, 25 October",21.1,PM2.5 µg/m³ - Tốt
-"Tue, 26 October",32.7,PM2.5 µg/m³ - Tốt
-"Wed, 27 October",24.6,PM2.5 µg/m³ - Tốt
-"Thu, 28 October",13.9,PM2.5 µg/m³ - Tốt
-"Fri, 29 October",22.2,PM2.5 µg/m³ - Tốt
-"Sat, 30 October",27.6,PM2.5 µg/m³ - Tốt
-"Sat, 13 November",16.3,PM2.5 µg/m³ - Tốt
-"Sun, 14 November",30.1,PM2.5 µg/m³ - Tốt
-"Mon, 15 November",23.1,PM2.5 µg/m³ - Tốt
-"Tue, 16 November",21.7,PM2.5 µg/m³ - Tốt
-"Wed, 17 November",38.6,PM2.5 µg/m³ - Tốt
-"Thu, 18 November",39.9,PM2.5 µg/m³ - Tốt
-"Fri, 19 November",27.2,PM2.5 µg/m³ - Tốt
-"Sat, 20 November",53.1,PM2.5 µg/m³ - Trung bình
-"Sun, 21 November",65.7,PM2.5 µg/m³ - Trung bình
+timestamp,value,rating
+"Sun, 17 October",20,PM2.5 µg/m³ - Tốt
+"Mon, 18 October",5.8,PM2.5 µg/m³ - Tốt
+"Tue, 19 October",15.2,PM2.5 µg/m³ - Tốt
+"Wed, 20 October",38.7,PM2.5 µg/m³ - Tốt
+"Thu, 21 October",25.4,PM2.5 µg/m³ - Tốt
+"Fri, 22 October",25.8,PM2.5 µg/m³ - Tốt
+"Sat, 23 October",32.6,PM2.5 µg/m³ - Tốt
+"Sun, 24 October",29.3,PM2.5 µg/m³ - Tốt
+"Mon, 25 October",21.1,PM2.5 µg/m³ - Tốt
+"Tue, 26 October",32.7,PM2.5 µg/m³ - Tốt
+"Wed, 27 October",24.6,PM2.5 µg/m³ - Tốt
+"Thu, 28 October",13.9,PM2.5 µg/m³ - Tốt
+"Fri, 29 October",22.2,PM2.5 µg/m³ - Tốt
+"Sat, 30 October",27.6,PM2.5 µg/m³ - Tốt
+"Sat, 13 November",16.3,PM2.5 µg/m³ - Tốt
+"Sun, 14 November",30.1,PM2.5 µg/m³ - Tốt
+"Mon, 15 November",23.1,PM2.5 µg/m³ - Tốt
+"Tue, 16 November",21.7,PM2.5 µg/m³ - Tốt
+"Wed, 17 November",38.6,PM2.5 µg/m³ - Tốt
+"Thu, 18 November",39.9,PM2.5 µg/m³ - Tốt
+"Fri, 19 November",27.2,PM2.5 µg/m³ - Tốt
+"Sat, 20 November",53.1,PM2.5 µg/m³ - Trung bình
+"Sun, 21 November",45.1,PM2.5 µg/m³ - Tốt

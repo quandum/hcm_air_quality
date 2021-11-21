@@ -1,30 +1,30 @@
-timestamp,value,rating
-"Thu, 21 October",28.6,PM2.5 µg/m³ - Tốt
-"Mon, 25 October",19.6,PM2.5 µg/m³ - Tốt
-"Tue, 26 October",31.1,PM2.5 µg/m³ - Tốt
-"Wed, 27 October",26,PM2.5 µg/m³ - Tốt
-"Thu, 28 October",15.3,PM2.5 µg/m³ - Tốt
-"Fri, 29 October",27.6,PM2.5 µg/m³ - Tốt
-"Sat, 30 October",28.8,PM2.5 µg/m³ - Tốt
-"Sun, 31 October",28.2,PM2.5 µg/m³ - Tốt
-"Mon, 01 November",35.3,PM2.5 µg/m³ - Tốt
-"Tue, 02 November",33.8,PM2.5 µg/m³ - Tốt
-"Wed, 03 November",23.5,PM2.5 µg/m³ - Tốt
-"Thu, 04 November",17.7,PM2.5 µg/m³ - Tốt
-"Fri, 05 November",33.7,PM2.5 µg/m³ - Tốt
-"Sat, 06 November",20,PM2.5 µg/m³ - Tốt
-"Sun, 07 November",25.7,PM2.5 µg/m³ - Tốt
-"Mon, 08 November",15.8,PM2.5 µg/m³ - Tốt
-"Tue, 09 November",42.6,PM2.5 µg/m³ - Tốt
-"Wed, 10 November",18,PM2.5 µg/m³ - Tốt
-"Thu, 11 November",25.3,PM2.5 µg/m³ - Tốt
-"Fri, 12 November",17.9,PM2.5 µg/m³ - Tốt
-"Sat, 13 November",24.9,PM2.5 µg/m³ - Tốt
-"Sun, 14 November",41.6,PM2.5 µg/m³ - Tốt
-"Mon, 15 November",28,PM2.5 µg/m³ - Tốt
-"Tue, 16 November",23.8,PM2.5 µg/m³ - Tốt
-"Wed, 17 November",51.6,PM2.5 µg/m³ - Trung bình
-"Thu, 18 November",49.3,PM2.5 µg/m³ - Tốt
-"Fri, 19 November",32.7,PM2.5 µg/m³ - Tốt
-"Sat, 20 November",60.3,PM2.5 µg/m³ - Trung bình
-"Sun, 21 November",81.5,PM2.5 µg/m³ - Trung bình
+timestamp,value,rating
+"Thu, 21 October",28.6,PM2.5 µg/m³ - Tốt
+"Mon, 25 October",19.6,PM2.5 µg/m³ - Tốt
+"Tue, 26 October",31.1,PM2.5 µg/m³ - Tốt
+"Wed, 27 October",26,PM2.5 µg/m³ - Tốt
+"Thu, 28 October",15.3,PM2.5 µg/m³ - Tốt
+"Fri, 29 October",27.6,PM2.5 µg/m³ - Tốt
+"Sat, 30 October",28.8,PM2.5 µg/m³ - Tốt
+"Sun, 31 October",28.2,PM2.5 µg/m³ - Tốt
+"Mon, 01 November",35.3,PM2.5 µg/m³ - Tốt
+"Tue, 02 November",33.8,PM2.5 µg/m³ - Tốt
+"Wed, 03 November",23.5,PM2.5 µg/m³ - Tốt
+"Thu, 04 November",17.7,PM2.5 µg/m³ - Tốt
+"Fri, 05 November",33.7,PM2.5 µg/m³ - Tốt
+"Sat, 06 November",20,PM2.5 µg/m³ - Tốt
+"Sun, 07 November",25.7,PM2.5 µg/m³ - Tốt
+"Mon, 08 November",15.8,PM2.5 µg/m³ - Tốt
+"Tue, 09 November",42.6,PM2.5 µg/m³ - Tốt
+"Wed, 10 November",18,PM2.5 µg/m³ - Tốt
+"Thu, 11 November",25.3,PM2.5 µg/m³ - Tốt
+"Fri, 12 November",17.9,PM2.5 µg/m³ - Tốt
+"Sat, 13 November",24.9,PM2.5 µg/m³ - Tốt
+"Sun, 14 November",41.6,PM2.5 µg/m³ - Tốt
+"Mon, 15 November",28,PM2.5 µg/m³ - Tốt
+"Tue, 16 November",23.8,PM2.5 µg/m³ - Tốt
+"Wed, 17 November",51.6,PM2.5 µg/m³ - Trung bình
+"Thu, 18 November",49.3,PM2.5 µg/m³ - Tốt
+"Fri, 19 November",32.7,PM2.5 µg/m³ - Tốt
+"Sat, 20 November",60.3,PM2.5 µg/m³ - Trung bình
+"Sun, 21 November",53.9,PM2.5 µg/m³ - Trung bình

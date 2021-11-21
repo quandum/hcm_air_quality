@@ -1,153 +1,158 @@
-timestamp,value,rating
-"14 Nov, 6:00 PM",34.6,PM2.5 µg/m³ - Tốt
-"14 Nov, 7:00 PM",41.4,PM2.5 µg/m³ - Tốt
-"14 Nov, 8:00 PM",44.3,PM2.5 µg/m³ - Tốt
-"14 Nov, 9:00 PM",42.3,PM2.5 µg/m³ - Tốt
-"14 Nov, 10:00 PM",41.3,PM2.5 µg/m³ - Tốt
-"14 Nov, 11:00 PM",48.9,PM2.5 µg/m³ - Tốt
-"15 Nov, 12:00 AM",51.8,PM2.5 µg/m³ - Trung bình
-"15 Nov, 1:00 AM",23.7,PM2.5 µg/m³ - Tốt
-"15 Nov, 2:00 AM",32.5,PM2.5 µg/m³ - Tốt
-"15 Nov, 3:00 AM",24.7,PM2.5 µg/m³ - Tốt
-"15 Nov, 4:00 AM",21.8,PM2.5 µg/m³ - Tốt
-"15 Nov, 5:00 AM",24.7,PM2.5 µg/m³ - Tốt
-"15 Nov, 6:00 AM",46.9,PM2.5 µg/m³ - Tốt
-"15 Nov, 7:00 AM",65,PM2.5 µg/m³ - Trung bình
-"15 Nov, 8:00 AM",69.8,PM2.5 µg/m³ - Trung bình
-"15 Nov, 9:00 AM",67.1,PM2.5 µg/m³ - Trung bình
-"15 Nov, 10:00 AM",38.5,PM2.5 µg/m³ - Tốt
-"15 Nov, 11:00 AM",29.8,PM2.5 µg/m³ - Tốt
-"15 Nov, 12:00 PM",17.9,PM2.5 µg/m³ - Tốt
-"15 Nov, 1:00 PM",17.9,PM2.5 µg/m³ - Tốt
-"15 Nov, 2:00 PM",23,PM2.5 µg/m³ - Tốt
-"15 Nov, 3:00 PM",34.7,PM2.5 µg/m³ - Tốt
-"15 Nov, 4:00 PM",42.6,PM2.5 µg/m³ - Tốt
-"15 Nov, 5:00 PM",62.2,PM2.5 µg/m³ - Trung bình
-"15 Nov, 6:00 PM",63,PM2.5 µg/m³ - Trung bình
-"15 Nov, 7:00 PM",64,PM2.5 µg/m³ - Trung bình
-"15 Nov, 8:00 PM",65.9,PM2.5 µg/m³ - Trung bình
-"15 Nov, 9:00 PM",24.8,PM2.5 µg/m³ - Tốt
-"15 Nov, 10:00 PM",17.9,PM2.5 µg/m³ - Tốt
-"15 Nov, 11:00 PM",22.8,PM2.5 µg/m³ - Tốt
-"16 Nov, 12:00 AM",35.5,PM2.5 µg/m³ - Tốt
-"16 Nov, 1:00 AM",43.3,PM2.5 µg/m³ - Tốt
-"16 Nov, 2:00 AM",53.9,PM2.5 µg/m³ - Trung bình
-"16 Nov, 3:00 AM",40.4,PM2.5 µg/m³ - Tốt
-"16 Nov, 4:00 AM",36.5,PM2.5 µg/m³ - Tốt
-"16 Nov, 5:00 AM",31.5,PM2.5 µg/m³ - Tốt
-"16 Nov, 6:00 AM",36.4,PM2.5 µg/m³ - Tốt
-"16 Nov, 7:00 AM",64,PM2.5 µg/m³ - Trung bình
-"16 Nov, 8:00 AM",62.7,PM2.5 µg/m³ - Trung bình
-"16 Nov, 9:00 AM",56.3,PM2.5 µg/m³ - Trung bình
-"16 Nov, 10:00 AM",73.1,PM2.5 µg/m³ - Trung bình
-"16 Nov, 11:00 AM",62.7,PM2.5 µg/m³ - Trung bình
-"16 Nov, 12:00 PM",26.8,PM2.5 µg/m³ - Tốt
-"16 Nov, 1:00 PM",26.8,PM2.5 µg/m³ - Tốt
-"16 Nov, 2:00 PM",16.9,PM2.5 µg/m³ - Tốt
-"16 Nov, 3:00 PM",13,PM2.5 µg/m³ - Tốt
-"16 Nov, 4:00 PM",16.9,PM2.5 µg/m³ - Tốt
-"16 Nov, 5:00 PM",17.9,PM2.5 µg/m³ - Tốt
-"16 Nov, 6:00 PM",48.5,PM2.5 µg/m³ - Tốt
-"16 Nov, 7:00 PM",78.6,PM2.5 µg/m³ - Trung bình
-"16 Nov, 8:00 PM",67.9,PM2.5 µg/m³ - Trung bình
-"16 Nov, 9:00 PM",69.5,PM2.5 µg/m³ - Trung bình
-"16 Nov, 10:00 PM",96.1,PM2.5 µg/m³ - Trung bình
-"16 Nov, 11:00 PM",122.2,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
-"17 Nov, 12:00 AM",130.4,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
-"17 Nov, 1:00 AM",138.6,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
-"17 Nov, 2:00 AM",144.2,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
-"17 Nov, 3:00 AM",125.3,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
-"17 Nov, 4:00 AM",90.1,PM2.5 µg/m³ - Trung bình
-"17 Nov, 5:00 AM",79,PM2.5 µg/m³ - Trung bình
-"17 Nov, 6:00 AM",106.3,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
-"17 Nov, 7:00 AM",97.6,PM2.5 µg/m³ - Trung bình
-"17 Nov, 8:00 AM",90.7,PM2.5 µg/m³ - Trung bình
-"17 Nov, 9:00 AM",53.5,PM2.5 µg/m³ - Trung bình
-"17 Nov, 10:00 AM",28.8,PM2.5 µg/m³ - Tốt
-"17 Nov, 11:00 AM",33.7,PM2.5 µg/m³ - Tốt
-"17 Nov, 12:00 PM",43.5,PM2.5 µg/m³ - Tốt
-"17 Nov, 1:00 PM",38.7,PM2.5 µg/m³ - Tốt
-"17 Nov, 2:00 PM",41.7,PM2.5 µg/m³ - Tốt
-"17 Nov, 3:00 PM",47.6,PM2.5 µg/m³ - Tốt
-"17 Nov, 4:00 PM",76,PM2.5 µg/m³ - Trung bình
-"17 Nov, 5:00 PM",41.3,PM2.5 µg/m³ - Tốt
-"17 Nov, 6:00 PM",76.4,PM2.5 µg/m³ - Trung bình
-"17 Nov, 7:00 PM",128.2,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
-"17 Nov, 8:00 PM",95.1,PM2.5 µg/m³ - Trung bình
-"17 Nov, 9:00 PM",68,PM2.5 µg/m³ - Trung bình
-"17 Nov, 10:00 PM",78.3,PM2.5 µg/m³ - Trung bình
-"17 Nov, 11:00 PM",69.9,PM2.5 µg/m³ - Trung bình
-"18 Nov, 12:00 AM",66.2,PM2.5 µg/m³ - Trung bình
-"18 Nov, 1:00 AM",53.1,PM2.5 µg/m³ - Trung bình
-"18 Nov, 2:00 AM",48.5,PM2.5 µg/m³ - Tốt
-"18 Nov, 3:00 AM",37.1,PM2.5 µg/m³ - Tốt
-"18 Nov, 4:00 AM",32.3,PM2.5 µg/m³ - Tốt
-"18 Nov, 5:00 AM",56.9,PM2.5 µg/m³ - Trung bình
-"18 Nov, 6:00 AM",65.9,PM2.5 µg/m³ - Trung bình
-"18 Nov, 7:00 AM",84.2,PM2.5 µg/m³ - Trung bình
-"18 Nov, 8:00 AM",69.8,PM2.5 µg/m³ - Trung bình
-"18 Nov, 9:00 AM",59.1,PM2.5 µg/m³ - Trung bình
-"18 Nov, 10:00 AM",51,PM2.5 µg/m³ - Trung bình
-"18 Nov, 11:00 AM",39.5,PM2.5 µg/m³ - Tốt
-"18 Nov, 12:00 PM",42.4,PM2.5 µg/m³ - Tốt
-"18 Nov, 1:00 PM",30.8,PM2.5 µg/m³ - Tốt
-"18 Nov, 2:00 PM",19.9,PM2.5 µg/m³ - Tốt
-"18 Nov, 3:00 PM",27.8,PM2.5 µg/m³ - Tốt
-"18 Nov, 4:00 PM",39.6,PM2.5 µg/m³ - Tốt
-"18 Nov, 5:00 PM",21.9,PM2.5 µg/m³ - Tốt
-"18 Nov, 6:00 PM",26.8,PM2.5 µg/m³ - Tốt
-"18 Nov, 7:00 PM",91.4,PM2.5 µg/m³ - Trung bình
-"18 Nov, 9:00 PM",140.5,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
-"18 Nov, 10:00 PM",110.9,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
-"18 Nov, 11:00 PM",209.8,PM2.5 µg/m³ - Rất không lành mạnh
-"19 Nov, 12:00 AM",138.6,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
-"19 Nov, 1:00 AM",130.2,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
-"19 Nov, 2:00 AM",98.9,PM2.5 µg/m³ - Trung bình
-"19 Nov, 3:00 AM",104.3,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
-"19 Nov, 4:00 AM",80.4,PM2.5 µg/m³ - Trung bình
-"19 Nov, 5:00 AM",55.9,PM2.5 µg/m³ - Trung bình
-"19 Nov, 6:00 AM",56.9,PM2.5 µg/m³ - Trung bình
-"19 Nov, 7:00 AM",55,PM2.5 µg/m³ - Trung bình
-"19 Nov, 8:00 AM",45.8,PM2.5 µg/m³ - Tốt
-"19 Nov, 9:00 AM",26.6,PM2.5 µg/m³ - Tốt
-"19 Nov, 10:00 AM",15.9,PM2.5 µg/m³ - Tốt
-"19 Nov, 11:00 AM",14,PM2.5 µg/m³ - Tốt
-"19 Nov, 12:00 PM",11,PM2.5 µg/m³ - Tốt
-"19 Nov, 1:00 PM",11,PM2.5 µg/m³ - Tốt
-"19 Nov, 2:00 PM",18.9,PM2.5 µg/m³ - Tốt
-"19 Nov, 3:00 PM",28.9,PM2.5 µg/m³ - Tốt
-"19 Nov, 4:00 PM",31.8,PM2.5 µg/m³ - Tốt
-"19 Nov, 5:00 PM",50.4,PM2.5 µg/m³ - Tốt
-"19 Nov, 6:00 PM",78.4,PM2.5 µg/m³ - Trung bình
-"19 Nov, 7:00 PM",95.5,PM2.5 µg/m³ - Trung bình
-"19 Nov, 8:00 PM",69.7,PM2.5 µg/m³ - Trung bình
-"19 Nov, 9:00 PM",25.8,PM2.5 µg/m³ - Tốt
-"19 Nov, 10:00 PM",24.8,PM2.5 µg/m³ - Tốt
-"19 Nov, 11:00 PM",36.6,PM2.5 µg/m³ - Tốt
-"20 Nov, 4:00 AM",73.5,PM2.5 µg/m³ - Trung bình
-"20 Nov, 5:00 AM",43,PM2.5 µg/m³ - Tốt
-"20 Nov, 6:00 AM",62.2,PM2.5 µg/m³ - Trung bình
-"20 Nov, 7:00 AM",94.7,PM2.5 µg/m³ - Trung bình
-"20 Nov, 8:00 AM",91.6,PM2.5 µg/m³ - Trung bình
-"20 Nov, 9:00 AM",78.9,PM2.5 µg/m³ - Trung bình
-"20 Nov, 10:00 AM",94.3,PM2.5 µg/m³ - Trung bình
-"20 Nov, 11:00 AM",84.1,PM2.5 µg/m³ - Trung bình
-"20 Nov, 12:00 PM",72.8,PM2.5 µg/m³ - Trung bình
-"20 Nov, 1:00 PM",45.5,PM2.5 µg/m³ - Tốt
-"20 Nov, 2:00 PM",33.7,PM2.5 µg/m³ - Tốt
-"20 Nov, 3:00 PM",59.9,PM2.5 µg/m³ - Trung bình
-"20 Nov, 4:00 PM",49,PM2.5 µg/m³ - Tốt
-"20 Nov, 5:00 PM",42.1,PM2.5 µg/m³ - Tốt
-"20 Nov, 6:00 PM",53.4,PM2.5 µg/m³ - Trung bình
-"20 Nov, 10:00 PM",108.3,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
-"21 Nov, 2:00 AM",191.3,PM2.5 µg/m³ - Không lành mạnh
-"21 Nov, 3:00 AM",183.7,PM2.5 µg/m³ - Không lành mạnh
-"21 Nov, 4:00 AM",170.3,PM2.5 µg/m³ - Không lành mạnh
-"21 Nov, 5:00 AM",152.1,PM2.5 µg/m³ - Không lành mạnh
-"21 Nov, 6:00 AM",160.3,PM2.5 µg/m³ - Không lành mạnh
-"21 Nov, 7:00 AM",152.1,PM2.5 µg/m³ - Không lành mạnh
-"21 Nov, 8:00 AM",156.2,PM2.5 µg/m³ - Không lành mạnh
-"21 Nov, 9:00 AM",106.8,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
-"21 Nov, 10:00 AM",35.7,PM2.5 µg/m³ - Tốt
-"21 Nov, 11:00 AM",36.7,PM2.5 µg/m³ - Tốt
-"21 Nov, 12:00 PM",46.6,PM2.5 µg/m³ - Tốt
+timestamp,value,rating
+"14 Nov, 6:00 PM",34.6,PM2.5 µg/m³ - Tốt
+"14 Nov, 7:00 PM",41.4,PM2.5 µg/m³ - Tốt
+"14 Nov, 8:00 PM",44.3,PM2.5 µg/m³ - Tốt
+"14 Nov, 9:00 PM",42.3,PM2.5 µg/m³ - Tốt
+"14 Nov, 10:00 PM",41.3,PM2.5 µg/m³ - Tốt
+"14 Nov, 11:00 PM",48.9,PM2.5 µg/m³ - Tốt
+"15 Nov, 12:00 AM",51.8,PM2.5 µg/m³ - Trung bình
+"15 Nov, 1:00 AM",23.7,PM2.5 µg/m³ - Tốt
+"15 Nov, 2:00 AM",32.5,PM2.5 µg/m³ - Tốt
+"15 Nov, 3:00 AM",24.7,PM2.5 µg/m³ - Tốt
+"15 Nov, 4:00 AM",21.8,PM2.5 µg/m³ - Tốt
+"15 Nov, 5:00 AM",24.7,PM2.5 µg/m³ - Tốt
+"15 Nov, 6:00 AM",46.9,PM2.5 µg/m³ - Tốt
+"15 Nov, 7:00 AM",65,PM2.5 µg/m³ - Trung bình
+"15 Nov, 8:00 AM",69.8,PM2.5 µg/m³ - Trung bình
+"15 Nov, 9:00 AM",67.1,PM2.5 µg/m³ - Trung bình
+"15 Nov, 10:00 AM",38.5,PM2.5 µg/m³ - Tốt
+"15 Nov, 11:00 AM",29.8,PM2.5 µg/m³ - Tốt
+"15 Nov, 12:00 PM",17.9,PM2.5 µg/m³ - Tốt
+"15 Nov, 1:00 PM",17.9,PM2.5 µg/m³ - Tốt
+"15 Nov, 2:00 PM",23,PM2.5 µg/m³ - Tốt
+"15 Nov, 3:00 PM",34.7,PM2.5 µg/m³ - Tốt
+"15 Nov, 4:00 PM",42.6,PM2.5 µg/m³ - Tốt
+"15 Nov, 5:00 PM",62.2,PM2.5 µg/m³ - Trung bình
+"15 Nov, 6:00 PM",63,PM2.5 µg/m³ - Trung bình
+"15 Nov, 7:00 PM",64,PM2.5 µg/m³ - Trung bình
+"15 Nov, 8:00 PM",65.9,PM2.5 µg/m³ - Trung bình
+"15 Nov, 9:00 PM",24.8,PM2.5 µg/m³ - Tốt
+"15 Nov, 10:00 PM",17.9,PM2.5 µg/m³ - Tốt
+"15 Nov, 11:00 PM",22.8,PM2.5 µg/m³ - Tốt
+"16 Nov, 12:00 AM",35.5,PM2.5 µg/m³ - Tốt
+"16 Nov, 1:00 AM",43.3,PM2.5 µg/m³ - Tốt
+"16 Nov, 2:00 AM",53.9,PM2.5 µg/m³ - Trung bình
+"16 Nov, 3:00 AM",40.4,PM2.5 µg/m³ - Tốt
+"16 Nov, 4:00 AM",36.5,PM2.5 µg/m³ - Tốt
+"16 Nov, 5:00 AM",31.5,PM2.5 µg/m³ - Tốt
+"16 Nov, 6:00 AM",36.4,PM2.5 µg/m³ - Tốt
+"16 Nov, 7:00 AM",64,PM2.5 µg/m³ - Trung bình
+"16 Nov, 8:00 AM",62.7,PM2.5 µg/m³ - Trung bình
+"16 Nov, 9:00 AM",56.3,PM2.5 µg/m³ - Trung bình
+"16 Nov, 10:00 AM",73.1,PM2.5 µg/m³ - Trung bình
+"16 Nov, 11:00 AM",62.7,PM2.5 µg/m³ - Trung bình
+"16 Nov, 12:00 PM",26.8,PM2.5 µg/m³ - Tốt
+"16 Nov, 1:00 PM",26.8,PM2.5 µg/m³ - Tốt
+"16 Nov, 2:00 PM",16.9,PM2.5 µg/m³ - Tốt
+"16 Nov, 3:00 PM",13,PM2.5 µg/m³ - Tốt
+"16 Nov, 4:00 PM",16.9,PM2.5 µg/m³ - Tốt
+"16 Nov, 5:00 PM",17.9,PM2.5 µg/m³ - Tốt
+"16 Nov, 6:00 PM",48.5,PM2.5 µg/m³ - Tốt
+"16 Nov, 7:00 PM",78.6,PM2.5 µg/m³ - Trung bình
+"16 Nov, 8:00 PM",67.9,PM2.5 µg/m³ - Trung bình
+"16 Nov, 9:00 PM",69.5,PM2.5 µg/m³ - Trung bình
+"16 Nov, 10:00 PM",96.1,PM2.5 µg/m³ - Trung bình
+"16 Nov, 11:00 PM",122.2,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
+"17 Nov, 12:00 AM",130.4,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
+"17 Nov, 1:00 AM",138.6,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
+"17 Nov, 2:00 AM",144.2,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
+"17 Nov, 3:00 AM",125.3,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
+"17 Nov, 4:00 AM",90.1,PM2.5 µg/m³ - Trung bình
+"17 Nov, 5:00 AM",79,PM2.5 µg/m³ - Trung bình
+"17 Nov, 6:00 AM",106.3,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
+"17 Nov, 7:00 AM",97.6,PM2.5 µg/m³ - Trung bình
+"17 Nov, 8:00 AM",90.7,PM2.5 µg/m³ - Trung bình
+"17 Nov, 9:00 AM",53.5,PM2.5 µg/m³ - Trung bình
+"17 Nov, 10:00 AM",28.8,PM2.5 µg/m³ - Tốt
+"17 Nov, 11:00 AM",33.7,PM2.5 µg/m³ - Tốt
+"17 Nov, 12:00 PM",43.5,PM2.5 µg/m³ - Tốt
+"17 Nov, 1:00 PM",38.7,PM2.5 µg/m³ - Tốt
+"17 Nov, 2:00 PM",41.7,PM2.5 µg/m³ - Tốt
+"17 Nov, 3:00 PM",47.6,PM2.5 µg/m³ - Tốt
+"17 Nov, 4:00 PM",76,PM2.5 µg/m³ - Trung bình
+"17 Nov, 5:00 PM",41.3,PM2.5 µg/m³ - Tốt
+"17 Nov, 6:00 PM",76.4,PM2.5 µg/m³ - Trung bình
+"17 Nov, 7:00 PM",128.2,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
+"17 Nov, 8:00 PM",95.1,PM2.5 µg/m³ - Trung bình
+"17 Nov, 9:00 PM",68,PM2.5 µg/m³ - Trung bình
+"17 Nov, 10:00 PM",78.3,PM2.5 µg/m³ - Trung bình
+"17 Nov, 11:00 PM",69.9,PM2.5 µg/m³ - Trung bình
+"18 Nov, 12:00 AM",66.2,PM2.5 µg/m³ - Trung bình
+"18 Nov, 1:00 AM",53.1,PM2.5 µg/m³ - Trung bình
+"18 Nov, 2:00 AM",48.5,PM2.5 µg/m³ - Tốt
+"18 Nov, 3:00 AM",37.1,PM2.5 µg/m³ - Tốt
+"18 Nov, 4:00 AM",32.3,PM2.5 µg/m³ - Tốt
+"18 Nov, 5:00 AM",56.9,PM2.5 µg/m³ - Trung bình
+"18 Nov, 6:00 AM",65.9,PM2.5 µg/m³ - Trung bình
+"18 Nov, 7:00 AM",84.2,PM2.5 µg/m³ - Trung bình
+"18 Nov, 8:00 AM",69.8,PM2.5 µg/m³ - Trung bình
+"18 Nov, 9:00 AM",59.1,PM2.5 µg/m³ - Trung bình
+"18 Nov, 10:00 AM",51,PM2.5 µg/m³ - Trung bình
+"18 Nov, 11:00 AM",39.5,PM2.5 µg/m³ - Tốt
+"18 Nov, 12:00 PM",42.4,PM2.5 µg/m³ - Tốt
+"18 Nov, 1:00 PM",30.8,PM2.5 µg/m³ - Tốt
+"18 Nov, 2:00 PM",19.9,PM2.5 µg/m³ - Tốt
+"18 Nov, 3:00 PM",27.8,PM2.5 µg/m³ - Tốt
+"18 Nov, 4:00 PM",39.6,PM2.5 µg/m³ - Tốt
+"18 Nov, 5:00 PM",21.9,PM2.5 µg/m³ - Tốt
+"18 Nov, 6:00 PM",26.8,PM2.5 µg/m³ - Tốt
+"18 Nov, 7:00 PM",91.4,PM2.5 µg/m³ - Trung bình
+"18 Nov, 9:00 PM",140.5,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
+"18 Nov, 10:00 PM",110.9,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
+"18 Nov, 11:00 PM",209.8,PM2.5 µg/m³ - Rất không lành mạnh
+"19 Nov, 12:00 AM",138.6,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
+"19 Nov, 1:00 AM",130.2,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
+"19 Nov, 2:00 AM",98.9,PM2.5 µg/m³ - Trung bình
+"19 Nov, 3:00 AM",104.3,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
+"19 Nov, 4:00 AM",80.4,PM2.5 µg/m³ - Trung bình
+"19 Nov, 5:00 AM",55.9,PM2.5 µg/m³ - Trung bình
+"19 Nov, 6:00 AM",56.9,PM2.5 µg/m³ - Trung bình
+"19 Nov, 7:00 AM",55,PM2.5 µg/m³ - Trung bình
+"19 Nov, 8:00 AM",45.8,PM2.5 µg/m³ - Tốt
+"19 Nov, 9:00 AM",26.6,PM2.5 µg/m³ - Tốt
+"19 Nov, 10:00 AM",15.9,PM2.5 µg/m³ - Tốt
+"19 Nov, 11:00 AM",14,PM2.5 µg/m³ - Tốt
+"19 Nov, 12:00 PM",11,PM2.5 µg/m³ - Tốt
+"19 Nov, 1:00 PM",11,PM2.5 µg/m³ - Tốt
+"19 Nov, 2:00 PM",18.9,PM2.5 µg/m³ - Tốt
+"19 Nov, 3:00 PM",28.9,PM2.5 µg/m³ - Tốt
+"19 Nov, 4:00 PM",31.8,PM2.5 µg/m³ - Tốt
+"19 Nov, 5:00 PM",50.4,PM2.5 µg/m³ - Tốt
+"19 Nov, 6:00 PM",78.4,PM2.5 µg/m³ - Trung bình
+"19 Nov, 7:00 PM",95.5,PM2.5 µg/m³ - Trung bình
+"19 Nov, 8:00 PM",69.7,PM2.5 µg/m³ - Trung bình
+"19 Nov, 9:00 PM",25.8,PM2.5 µg/m³ - Tốt
+"19 Nov, 10:00 PM",24.8,PM2.5 µg/m³ - Tốt
+"19 Nov, 11:00 PM",36.6,PM2.5 µg/m³ - Tốt
+"20 Nov, 4:00 AM",73.5,PM2.5 µg/m³ - Trung bình
+"20 Nov, 5:00 AM",43,PM2.5 µg/m³ - Tốt
+"20 Nov, 6:00 AM",62.2,PM2.5 µg/m³ - Trung bình
+"20 Nov, 7:00 AM",94.7,PM2.5 µg/m³ - Trung bình
+"20 Nov, 8:00 AM",91.6,PM2.5 µg/m³ - Trung bình
+"20 Nov, 9:00 AM",78.9,PM2.5 µg/m³ - Trung bình
+"20 Nov, 10:00 AM",94.3,PM2.5 µg/m³ - Trung bình
+"20 Nov, 11:00 AM",84.1,PM2.5 µg/m³ - Trung bình
+"20 Nov, 12:00 PM",72.8,PM2.5 µg/m³ - Trung bình
+"20 Nov, 1:00 PM",45.5,PM2.5 µg/m³ - Tốt
+"20 Nov, 2:00 PM",33.7,PM2.5 µg/m³ - Tốt
+"20 Nov, 3:00 PM",59.9,PM2.5 µg/m³ - Trung bình
+"20 Nov, 4:00 PM",49,PM2.5 µg/m³ - Tốt
+"20 Nov, 5:00 PM",42.1,PM2.5 µg/m³ - Tốt
+"20 Nov, 6:00 PM",53.4,PM2.5 µg/m³ - Trung bình
+"20 Nov, 10:00 PM",108.3,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
+"21 Nov, 2:00 AM",191.3,PM2.5 µg/m³ - Không lành mạnh
+"21 Nov, 3:00 AM",183.7,PM2.5 µg/m³ - Không lành mạnh
+"21 Nov, 4:00 AM",170.3,PM2.5 µg/m³ - Không lành mạnh
+"21 Nov, 5:00 AM",152.1,PM2.5 µg/m³ - Không lành mạnh
+"21 Nov, 6:00 AM",160.3,PM2.5 µg/m³ - Không lành mạnh
+"21 Nov, 7:00 AM",152.1,PM2.5 µg/m³ - Không lành mạnh
+"21 Nov, 8:00 AM",156.2,PM2.5 µg/m³ - Không lành mạnh
+"21 Nov, 9:00 AM",106.8,PM2.5 µg/m³ - Không lành mạnh cho các nhóm nhạy cảm
+"21 Nov, 10:00 AM",35.7,PM2.5 µg/m³ - Tốt
+"21 Nov, 11:00 AM",36.7,PM2.5 µg/m³ - Tốt
+"21 Nov, 12:00 PM",46.6,PM2.5 µg/m³ - Tốt
+"21 Nov, 1:00 PM",43.7,PM2.5 µg/m³ - Tốt
+"21 Nov, 2:00 PM",40.7,PM2.5 µg/m³ - Tốt
+"21 Nov, 3:00 PM",46.6,PM2.5 µg/m³ - Tốt
+"21 Nov, 4:00 PM",51.5,PM2.5 µg/m³ - Trung bình
+"21 Nov, 5:00 PM",41.7,PM2.5 µg/m³ - Tốt
