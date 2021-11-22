@@ -1,4 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+DATA_DIRECTORY EXISTED AT "D:\HCMUS\Data Engineer\project\data"! 
+=======
+>>>>>>> 2df148e92b91e4757350461cd01dcd5d28609349
 DATA_DIRECTORY EXISTED AT "D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data"! 
 Found location 'Ap Xuan Thoi Dong 2' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/ap-xuan-thoi-dong-2'
 Found location 'IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/iqair-showroom-saigon-pearl-outdoor-air-quality-monitoring-station'
@@ -81,6 +86,10 @@ The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\h
 The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Vo Thi Sau High School\aqihourly.csv' now has 6 rows.
 The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Vo Thi Sau High School\pm2.5hourly.csv' now has 6 rows.
 ALL DONE!
+<<<<<<< HEAD
 =======
 DATA_DIRECTORY EXISTED AT "D:\HCMUS\Data Engineer\project\data"! 
 >>>>>>> 90a8e76febfa4f8e304ecb22ccd4aa2044aa3ec2
+=======
+>>>>>>> b40bc34d376aba170e84b21153303adf61674eea
+>>>>>>> 2df148e92b91e4757350461cd01dcd5d28609349
