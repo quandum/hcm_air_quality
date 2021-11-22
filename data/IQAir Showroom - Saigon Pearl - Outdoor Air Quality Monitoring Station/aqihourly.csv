@@ -195,3 +195,5 @@ timestamp,value,rating
 "22 Nov, 6:00 PM",49,AQI US - Tốt
 "22 Nov, 7:00 PM",73,AQI US - Trung bình
 "22 Nov, 8:00 PM",101,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"22 Nov, 10:00 PM",82,AQI US - Trung bình
+"22 Nov, 11:00 PM",65,AQI US - Trung bình
