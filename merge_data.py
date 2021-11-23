@@ -67,8 +67,8 @@ writer.writeheader()
 for location in location_data:
     station=location['location']
     station_directory=os.path.join(DATA_DIRECTORY,location['vn_no_accent'])
-    aqi=[dict(x) for  x in csv.DictReader(open(os.path.join(station_directory,'aqidaily.csv'),'r'))]
-    pm25=[dict(x) for  x in csv.DictReader(open(os.path.join(station_directory,'pm2.5daily.csv'),'r'))]
+    aqi=[dict(x) for  x in csv.DictReader(open(os.path.join(station_directory,'aqidaily.csv'),'r',encoding='utf8'))]
+    pm25=[dict(x) for  x in csv.DictReader(open(os.path.join(station_directory,'pm2.5daily.csv'),'r',encoding='utf8'))]
     data=[]
     for rec in aqi:
         data.append({
