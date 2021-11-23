@@ -1,16 +1,82 @@
 DATA_DIRECTORY EXISTED AT "D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data"! 
+Found location 'Vo Thi Sau High School' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/vo-thi-sau-high-school'
 Found location 'Mam non Hai Au Bay' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/mam-non-hai-au-bay'
 Found location 'IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/iqair-showroom-saigon-pearl-outdoor-air-quality-monitoring-station'
 Found location 'US Consulate in Ho Chi Minh City' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/us-consulate-in-ho-chi-minh-city'
-Found location 'Vo Thi Sau High School' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/vo-thi-sau-high-school'
 Found location 'Ap Xuan Thoi Dong 2' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/ap-xuan-thoi-dong-2'
 Found location 'SSIS OUTDOOR 3' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/ssis-outdoor-3'
 Found location 'Saigon South International School' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/saigon-south-international-school'
-Found location 'VSTARSCHOOL' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/vstarschool'
-Found location 'Diamond Island' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/diamond-island'
 Found location 'SimCity Premier District 9' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/simcity-premier-district-9'
-LOADING PAGE 'Mam non Hai Au Bay' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/mam-non-hai-au-bay
+Found location 'Diamond Island' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/diamond-island'
+Found location 'VSTARSCHOOL' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/vstarschool'
+LOADING PAGE 'Vo Thi Sau High School' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/vo-thi-sau-high-school
 Clicked button agree!
+Folder 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Vo Thi Sau High School' was found!
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Vo Thi Sau High School\aqidaily.csv' now has 2 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Vo Thi Sau High School\pm2.5daily.csv' now has 2 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Vo Thi Sau High School\aqihourly.csv' now has 20 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Vo Thi Sau High School\pm2.5hourly.csv' now has 20 rows.
+LOADING PAGE 'Mam non Hai Au Bay' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/mam-non-hai-au-bay
+Unable to click the button agree, or not found button!
 Folder 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Mam non Hai Au Bay' was found!
-The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Mam non Hai Au Bay\aqidaily.csv' now has 37 rows.
-The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Mam non Hai Au Bay\pm2.5daily.csv' now has 37 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Mam non Hai Au Bay\aqidaily.csv' now has 41 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Mam non Hai Au Bay\pm2.5daily.csv' now has 41 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Mam non Hai Au Bay\aqihourly.csv' now has 178 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Mam non Hai Au Bay\pm2.5hourly.csv' now has 178 rows.
+LOADING PAGE 'IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/iqair-showroom-saigon-pearl-outdoor-air-quality-monitoring-station
+Unable to click the button agree, or not found button!
+Folder 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station' was found!
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station\aqidaily.csv' now has 31 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station\pm2.5daily.csv' now has 31 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station\aqihourly.csv' now has 211 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station\pm2.5hourly.csv' now has 210 rows.
+LOADING PAGE 'US Consulate in Ho Chi Minh City' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/us-consulate-in-ho-chi-minh-city
+Unable to click the button agree, or not found button!
+Folder 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\US Consulate in Ho Chi Minh City' was found!
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\US Consulate in Ho Chi Minh City\aqidaily.csv' now has 35 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\US Consulate in Ho Chi Minh City\pm2.5daily.csv' now has 35 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\US Consulate in Ho Chi Minh City\aqihourly.csv' now has 206 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\US Consulate in Ho Chi Minh City\pm2.5hourly.csv' now has 206 rows.
+LOADING PAGE 'Ap Xuan Thoi Dong 2' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/ap-xuan-thoi-dong-2
+Unable to click the button agree, or not found button!
+Folder 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Ap Xuan Thoi Dong 2' was found!
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Ap Xuan Thoi Dong 2\aqidaily.csv' now has 38 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Ap Xuan Thoi Dong 2\pm2.5daily.csv' now has 38 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Ap Xuan Thoi Dong 2\aqihourly.csv' now has 201 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Ap Xuan Thoi Dong 2\pm2.5hourly.csv' now has 200 rows.
+LOADING PAGE 'SSIS OUTDOOR 3' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/ssis-outdoor-3
+Unable to click the button agree, or not found button!
+Folder 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\SSIS OUTDOOR 3' was found!
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\SSIS OUTDOOR 3\aqidaily.csv' now has 25 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\SSIS OUTDOOR 3\pm2.5daily.csv' now has 25 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\SSIS OUTDOOR 3\aqihourly.csv' now has 210 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\SSIS OUTDOOR 3\pm2.5hourly.csv' now has 210 rows.
+LOADING PAGE 'Saigon South International School' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/saigon-south-international-school
+Unable to click the button agree, or not found button!
+Folder 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Saigon South International School' was found!
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Saigon South International School\aqidaily.csv' now has 37 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Saigon South International School\pm2.5daily.csv' now has 37 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Saigon South International School\aqihourly.csv' now has 110 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Saigon South International School\pm2.5hourly.csv' now has 110 rows.
+LOADING PAGE 'SimCity Premier District 9' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/simcity-premier-district-9
+Unable to click the button agree, or not found button!
+Folder 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\SimCity Premier District 9' was found!
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\SimCity Premier District 9\aqidaily.csv' now has 38 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\SimCity Premier District 9\pm2.5daily.csv' now has 38 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\SimCity Premier District 9\aqihourly.csv' now has 206 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\SimCity Premier District 9\pm2.5hourly.csv' now has 206 rows.
+LOADING PAGE 'Diamond Island' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/diamond-island
+Unable to click the button agree, or not found button!
+Folder 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Diamond Island' was found!
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Diamond Island\aqidaily.csv' now has 38 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Diamond Island\pm2.5daily.csv' now has 38 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Diamond Island\aqihourly.csv' now has 211 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\Diamond Island\pm2.5hourly.csv' now has 210 rows.
+LOADING PAGE 'VSTARSCHOOL' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/vstarschool
+Unable to click the button agree, or not found button!
+Folder 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\VSTARSCHOOL' was found!
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\VSTARSCHOOL\aqidaily.csv' now has 40 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\VSTARSCHOOL\pm2.5daily.csv' now has 40 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\VSTARSCHOOL\aqihourly.csv' now has 255 rows.
+The file 'D:\XaBan\ThacSiChinhThuc\HocKy4\KyThuatXuLyDuLieu\DeTaiCuoiKy\Source\hcm_air_quality\data\VSTARSCHOOL\pm2.5hourly.csv' now has 255 rows.
+ALL DONE!
