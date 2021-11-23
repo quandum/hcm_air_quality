@@ -66,7 +66,7 @@ loc_table=browser.find_element(By.XPATH,r"/html/body/app-root/app-portal-contain
 locs=loc_table.find_elements_by_tag_name("tr")
 print("Table locations detected")
 
-f=open(os.path.join(DATA_DIRECTORY,"locations_link.csv"),"w")
+f=open(os.path.join(DATA_DIRECTORY,"locations_link.csv"),"w",encoding='utf8')
 CRAWLING_SITE_URLS={}
 writer=csv.DictWriter(f,fieldnames=['location','url',"vn_no_accent"])
 writer.writeheader()

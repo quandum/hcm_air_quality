@@ -25,8 +25,8 @@ writer.writeheader()
 for location in location_data:
     station=location['location']
     station_directory=os.path.join(DATA_DIRECTORY,location['vn_no_accent'])
-    aqi=[dict(x) for  x in csv.DictReader(open(os.path.join(station_directory,'aqihourly.csv'),'r'))]
-    pm25=[dict(x) for  x in csv.DictReader(open(os.path.join(station_directory,'pm2.5hourly.csv'),'r'))]
+    aqi=[dict(x) for  x in csv.DictReader(open(os.path.join(station_directory,'aqihourly.csv'),'r',encoding='utf8'))]
+    pm25=[dict(x) for  x in csv.DictReader(open(os.path.join(station_directory,'pm2.5hourly.csv'),'r',encoding='utf8'))]
     data=[]
     for rec in aqi:
         data.append({
@@ -59,9 +59,6 @@ for location in location_data:
         writer.writerow(row)
         
 hourly_data_csv.close() 
-
-
-# In[21]:
 
 
 daily_data_csv=open(os.path.join(DATA_DIRECTORY,'daily_data.csv'),'w',encoding='utf8')
@@ -106,6 +103,3 @@ for location in location_data:
 daily_data_csv.close() 
 
 print('MERGED DONE!')
-
-
-
