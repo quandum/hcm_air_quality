@@ -72,7 +72,10 @@ CRAWLING_SITE_URLS={}
 writer=csv.DictWriter(f,fieldnames=['location','url',"vn_no_accent"])
 writer.writeheader()
 for loc in locs:
-    loc_name=loc.text.strip()
+    spane=loc.find_element(By.TAG_NAME, 'span')
+    numer=spane.get_attribute("innerText").strip()
+    loc_name=loc.get_attribute("innerText").strip()
+    loc_name=loc_name[:(len(loc_name)-len(numer))]
     loc_url=loc.get_attribute("href").strip()
     no_accent=unidecode(loc_name).strip()
     writer.writerow({'location':loc_name,'url':loc_url,"vn_no_accent":no_accent})
@@ -84,7 +87,7 @@ pprint(CRAWLING_SITE_URLS)
 def find_button_by_text(text,strictly_matched=False):
     global browser
     try:
-        WebDriverWait(browser,0.25).until(EC.visibility_of_all_elements_located((By.TAG_NAME,'button')))
+        WebDriverWait(browser,1).until(EC.presence_of_all_elements_located((By.TAG_NAME,'button')))
     except:
         pass
     all_buttons=browser.find_elements(By.TAG_NAME,"button")
@@ -118,8 +121,8 @@ for SOURCE_NAME, url in CRAWLING_SITE_URLS.items():
         log_print("Folder '%s' was created"%BRAND_DATA_DIRECTORY)
     else:
         log_print("Folder '%s' was found!"%BRAND_DATA_DIRECTORY)
-
-
+    bt1=None
+    bt2=None
     for mode1 in ['daily','hourly']:
         for mode2 in ["AQI","PM2.5"]:
             try:
@@ -128,15 +131,19 @@ for SOURCE_NAME, url in CRAWLING_SITE_URLS.items():
                 pass
 
             if (mode1 == 'daily'):
-                find_button_by_text('HẰNG NGÀY').click()
+                bt1=find_button_by_text('HẰNG NGÀY')
             else:
-                find_button_by_text('HẰNG GIỜ').click()
+                bt1=find_button_by_text('HẰNG GIỜ')
+            if ('is-active' not in bt1.get_attribute('class')):
+                bt1.click()
             browser.implicitly_wait(1)
+            
             if (mode2=='AQI'):
-                find_button_by_text('AQI').click()
+                bt2=find_button_by_text('AQI')
             else:
-                find_button_by_text('PM2.5').click()
-
+                bt2=find_button_by_text('PM2.5')
+            if ('is-active' not in bt2.get_attribute('class').strip()):
+                bt2.click()
             data_file_path=os.path.join(BRAND_DATA_DIRECTORY,"%s%s.csv"%(mode2.lower(),mode1))
             data=[]
             if (os.path.exists(data_file_path)==True):
@@ -184,7 +191,7 @@ for SOURCE_NAME, url in CRAWLING_SITE_URLS.items():
                             bar_info_found=True
                     except:
                         pass
-                assert (bar_info_found==True)
+                # assert (bar_info_found==True)
             f=open(data_file_path,"w",encoding='utf8')
             writer=csv.DictWriter(f,fieldnames=["timestamp","value",'rating'])
             writer.writeheader()

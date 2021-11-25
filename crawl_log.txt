@@ -1,27 +1,106 @@
 DATA_DIRECTORY EXISTED AT "d:\HCMUS\Data Engineer\project\data"! 
-Found location 'Long Phuoc, District 94' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/long-phuoc-district-9'
-Found location 'THCS Thanh My Loi37' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/thcs-thanh-my-loi'
-Found location 'Vo Thi Sau High School37' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/vo-thi-sau-high-school'
-Found location 'Mam non Hai Au Bay45' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/mam-non-hai-au-bay'
-Found location 'IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station49' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/iqair-showroom-saigon-pearl-outdoor-air-quality-monitoring-station'
-Found location 'VSTARSCHOOL57' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/vstarschool'
-Found location 'Ap Xuan Thoi Dong 259' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/ap-xuan-thoi-dong-2'
-Found location 'Saigon South International School61' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/saigon-south-international-school'
-Found location 'US Consulate in Ho Chi Minh City61' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/us-consulate-in-ho-chi-minh-city'
-Found location 'SimCity Premier District 965' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/simcity-premier-district-9'
-Found location 'Lycee Francais International Marguerite Duras69' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/lycee-francais-international-marguerite-duras'
-Found location 'Diamond Island71' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/diamond-island'
-Found location 'SSIS OUTDOOR 378' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/ssis-outdoor-3'
-Found location 'Long Phuoc, District 94' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/long-phuoc-district-9'
-Found location 'THCS Thanh My Loi37' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/thcs-thanh-my-loi'
-Found location 'Vo Thi Sau High School37' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/vo-thi-sau-high-school'
-Found location 'Mam non Hai Au Bay45' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/mam-non-hai-au-bay'
-Found location 'IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station49' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/iqair-showroom-saigon-pearl-outdoor-air-quality-monitoring-station'
-Found location 'VSTARSCHOOL57' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/vstarschool'
-Found location 'Ap Xuan Thoi Dong 259' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/ap-xuan-thoi-dong-2'
-Found location 'Saigon South International School61' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/saigon-south-international-school'
-Found location 'US Consulate in Ho Chi Minh City61' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/us-consulate-in-ho-chi-minh-city'
-Found location 'SimCity Premier District 965' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/simcity-premier-district-9'
-Found location 'Lycee Francais International Marguerite Duras69' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/lycee-francais-international-marguerite-duras'
-Found location 'Diamond Island71' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/diamond-island'
-Found location 'SSIS OUTDOOR 378' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/ssis-outdoor-3'
+Found location 'Long Phuoc, District 9' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/long-phuoc-district-9'
+Found location 'Vo Thi Sau High School' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/vo-thi-sau-high-school'
+Found location 'IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/iqair-showroom-saigon-pearl-outdoor-air-quality-monitoring-station'
+Found location 'Mam non Hai Au Bay' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/mam-non-hai-au-bay'
+Found location 'THCS Thanh My Loi' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/thcs-thanh-my-loi'
+Found location 'US Consulate in Ho Chi Minh City' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/us-consulate-in-ho-chi-minh-city'
+Found location 'VSTARSCHOOL' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/vstarschool'
+Found location 'Lycee Francais International Marguerite Duras' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/lycee-francais-international-marguerite-duras'
+Found location 'Ap Xuan Thoi Dong 2' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/ap-xuan-thoi-dong-2'
+Found location 'Diamond Island' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/diamond-island'
+Found location 'SSIS OUTDOOR 3' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/ssis-outdoor-3'
+Found location 'SimCity Premier District 9' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/simcity-premier-district-9'
+Found location 'Saigon South International School' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/saigon-south-international-school'
+LOADING PAGE 'Long Phuoc, District 9' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/long-phuoc-district-9
+Clicked button agree!
+Folder 'd:\HCMUS\Data Engineer\project\data\Long Phuoc, District 9' was found!
+The file 'd:\HCMUS\Data Engineer\project\data\Long Phuoc, District 9\aqidaily.csv' now has 30 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\Long Phuoc, District 9\pm2.5daily.csv' now has 23 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\Long Phuoc, District 9\aqihourly.csv' now has 19 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\Long Phuoc, District 9\pm2.5hourly.csv' now has 19 rows.
+LOADING PAGE 'Vo Thi Sau High School' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/vo-thi-sau-high-school
+Unable to click the button agree, or not found button!
+Folder 'd:\HCMUS\Data Engineer\project\data\Vo Thi Sau High School' was found!
+The file 'd:\HCMUS\Data Engineer\project\data\Vo Thi Sau High School\aqidaily.csv' now has 4 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\Vo Thi Sau High School\pm2.5daily.csv' now has 4 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\Vo Thi Sau High School\aqihourly.csv' now has 76 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\Vo Thi Sau High School\pm2.5hourly.csv' now has 76 rows.
+LOADING PAGE 'IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/iqair-showroom-saigon-pearl-outdoor-air-quality-monitoring-station
+Unable to click the button agree, or not found button!
+Folder 'd:\HCMUS\Data Engineer\project\data\IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station' was found!
+The file 'd:\HCMUS\Data Engineer\project\data\IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station\aqidaily.csv' now has 33 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station\pm2.5daily.csv' now has 33 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station\aqihourly.csv' now has 271 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station\pm2.5hourly.csv' now has 270 rows.
+LOADING PAGE 'Mam non Hai Au Bay' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/mam-non-hai-au-bay
+Unable to click the button agree, or not found button!
+Folder 'd:\HCMUS\Data Engineer\project\data\Mam non Hai Au Bay' was found!
+The file 'd:\HCMUS\Data Engineer\project\data\Mam non Hai Au Bay\aqidaily.csv' now has 43 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\Mam non Hai Au Bay\pm2.5daily.csv' now has 43 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\Mam non Hai Au Bay\aqihourly.csv' now has 237 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\Mam non Hai Au Bay\pm2.5hourly.csv' now has 237 rows.
+LOADING PAGE 'THCS Thanh My Loi' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/thcs-thanh-my-loi
+Unable to click the button agree, or not found button!
+Folder 'd:\HCMUS\Data Engineer\project\data\THCS Thanh My Loi' was found!
+The file 'd:\HCMUS\Data Engineer\project\data\THCS Thanh My Loi\aqidaily.csv' now has 38 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\THCS Thanh My Loi\pm2.5daily.csv' now has 38 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\THCS Thanh My Loi\aqihourly.csv' now has 186 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\THCS Thanh My Loi\pm2.5hourly.csv' now has 186 rows.
+LOADING PAGE 'US Consulate in Ho Chi Minh City' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/us-consulate-in-ho-chi-minh-city
+Unable to click the button agree, or not found button!
+Folder 'd:\HCMUS\Data Engineer\project\data\US Consulate in Ho Chi Minh City' was found!
+The file 'd:\HCMUS\Data Engineer\project\data\US Consulate in Ho Chi Minh City\aqidaily.csv' now has 37 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\US Consulate in Ho Chi Minh City\pm2.5daily.csv' now has 37 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\US Consulate in Ho Chi Minh City\aqihourly.csv' now has 267 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\US Consulate in Ho Chi Minh City\pm2.5hourly.csv' now has 267 rows.
+LOADING PAGE 'VSTARSCHOOL' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/vstarschool
+Unable to click the button agree, or not found button!
+Folder 'd:\HCMUS\Data Engineer\project\data\VSTARSCHOOL' was found!
+The file 'd:\HCMUS\Data Engineer\project\data\VSTARSCHOOL\aqidaily.csv' now has 42 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\VSTARSCHOOL\pm2.5daily.csv' now has 42 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\VSTARSCHOOL\aqihourly.csv' now has 315 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\VSTARSCHOOL\pm2.5hourly.csv' now has 315 rows.
+LOADING PAGE 'Lycee Francais International Marguerite Duras' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/lycee-francais-international-marguerite-duras
+Unable to click the button agree, or not found button!
+Folder 'd:\HCMUS\Data Engineer\project\data\Lycee Francais International Marguerite Duras' was found!
+The file 'd:\HCMUS\Data Engineer\project\data\Lycee Francais International Marguerite Duras\aqidaily.csv' now has 3 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\Lycee Francais International Marguerite Duras\pm2.5daily.csv' now has 3 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\Lycee Francais International Marguerite Duras\aqihourly.csv' now has 59 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\Lycee Francais International Marguerite Duras\pm2.5hourly.csv' now has 59 rows.
+LOADING PAGE 'Ap Xuan Thoi Dong 2' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/ap-xuan-thoi-dong-2
+Unable to click the button agree, or not found button!
+Folder 'd:\HCMUS\Data Engineer\project\data\Ap Xuan Thoi Dong 2' was found!
+The file 'd:\HCMUS\Data Engineer\project\data\Ap Xuan Thoi Dong 2\aqidaily.csv' now has 40 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\Ap Xuan Thoi Dong 2\pm2.5daily.csv' now has 40 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\Ap Xuan Thoi Dong 2\aqihourly.csv' now has 254 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\Ap Xuan Thoi Dong 2\pm2.5hourly.csv' now has 253 rows.
+LOADING PAGE 'Diamond Island' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/diamond-island
+Unable to click the button agree, or not found button!
+Folder 'd:\HCMUS\Data Engineer\project\data\Diamond Island' was found!
+The file 'd:\HCMUS\Data Engineer\project\data\Diamond Island\aqidaily.csv' now has 40 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\Diamond Island\pm2.5daily.csv' now has 40 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\Diamond Island\aqihourly.csv' now has 271 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\Diamond Island\pm2.5hourly.csv' now has 270 rows.
+LOADING PAGE 'SSIS OUTDOOR 3' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/ssis-outdoor-3
+Unable to click the button agree, or not found button!
+Folder 'd:\HCMUS\Data Engineer\project\data\SSIS OUTDOOR 3' was found!
+The file 'd:\HCMUS\Data Engineer\project\data\SSIS OUTDOOR 3\aqidaily.csv' now has 25 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\SSIS OUTDOOR 3\pm2.5daily.csv' now has 25 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\SSIS OUTDOOR 3\aqihourly.csv' now has 210 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\SSIS OUTDOOR 3\pm2.5hourly.csv' now has 210 rows.
+LOADING PAGE 'SimCity Premier District 9' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/simcity-premier-district-9
+Unable to click the button agree, or not found button!
+Folder 'd:\HCMUS\Data Engineer\project\data\SimCity Premier District 9' was found!
+The file 'd:\HCMUS\Data Engineer\project\data\SimCity Premier District 9\aqidaily.csv' now has 40 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\SimCity Premier District 9\pm2.5daily.csv' now has 40 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\SimCity Premier District 9\aqihourly.csv' now has 267 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\SimCity Premier District 9\pm2.5hourly.csv' now has 267 rows.
+LOADING PAGE 'Saigon South International School' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/saigon-south-international-school
+Unable to click the button agree, or not found button!
+Folder 'd:\HCMUS\Data Engineer\project\data\Saigon South International School' was found!
+The file 'd:\HCMUS\Data Engineer\project\data\Saigon South International School\aqidaily.csv' now has 39 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\Saigon South International School\pm2.5daily.csv' now has 39 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\Saigon South International School\aqihourly.csv' now has 136 rows.
+The file 'd:\HCMUS\Data Engineer\project\data\Saigon South International School\pm2.5hourly.csv' now has 136 rows.
+ALL DONE!
