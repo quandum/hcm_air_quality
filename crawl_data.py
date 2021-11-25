@@ -55,33 +55,31 @@ browser = webdriver.Chrome(executable_path=CHROMEDRIVER_PATH)
 # browser = webdriver.Firefox(executable_path=FIREFOX_DRIVER_PATH)
 
 
+
 browser.get(r"https://www.iqair.com/vi/vietnam/ho-chi-minh-city")
 WebDriverWait(browser, 3).until(
-            EC.presence_of_element_located((By.XPATH,r"/html/body/app-root/app-portal-container/div/app-routes-resolver/div/app-city/div[2]/div[1]/app-aqi-ranking[1]/div")))
-loc_table=browser.find_element(By.XPATH,r"/html/body/app-root/app-portal-container/div/app-routes-resolver/div/app-city/div[2]/div[1]/app-aqi-ranking[2]/div/table/tbody")
+            EC.presence_of_element_located((By.CLASS_NAME,r"station-list__item")))
+loc_table=browser.find_element(By.CLASS_NAME,'station-list')
 
 
 
 
-locs=loc_table.find_elements_by_tag_name("tr")
+locs=loc_table.find_elements_by_tag_name("a")
 print("Table locations detected")
 
-f=open(os.path.join(DATA_DIRECTORY,"locations_link.csv"),"w",encoding='utf8')
+f=open(DATA_DIRECTORY+"locations_link.csv","w")
 CRAWLING_SITE_URLS={}
 writer=csv.DictWriter(f,fieldnames=['location','url',"vn_no_accent"])
 writer.writeheader()
 for loc in locs:
-    c1,c2,c3=loc.find_elements_by_tag_name("td")
-    loc_name=c2.text.strip()
-    loc_url=c2.find_element_by_tag_name("a").get_attribute("href").strip()
+    loc_name=loc.text.strip()
+    loc_url=loc.get_attribute("href").strip()
     no_accent=unidecode(loc_name).strip()
     writer.writerow({'location':loc_name,'url':loc_url,"vn_no_accent":no_accent})
     CRAWLING_SITE_URLS[no_accent]=loc_url
     log_print("Found location '%s' at the url: '%s'"%(loc_name,loc_url))
 f.close()
 pprint(CRAWLING_SITE_URLS)
-
-
 
 def find_button_by_text(text,strictly_matched=False):
     global browser
