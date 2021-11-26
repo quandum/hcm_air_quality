@@ -67,7 +67,7 @@ loc_table=browser.find_element(By.CLASS_NAME,'station-list')
 locs=loc_table.find_elements_by_tag_name("a")
 print("Table locations detected")
 
-f=open(DATA_DIRECTORY+"locations_link.csv","w")
+f=open(os.path.join(DATA_DIRECTORY,"locations_link.csv"),"w")
 CRAWLING_SITE_URLS={}
 writer=csv.DictWriter(f,fieldnames=['location','url',"vn_no_accent"])
 writer.writeheader()
