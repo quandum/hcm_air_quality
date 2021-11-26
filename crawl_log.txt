@@ -9,6 +9,6 @@ Found location 'Mam non Hai Au Bay' at the url: 'https://www.iqair.com/vi/vietna
 Found location 'Saigon South International School' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/saigon-south-international-school'
 Found location 'Vo Thi Sau High School' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/vo-thi-sau-high-school'
 Found location 'SimCity Premier District 9' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/simcity-premier-district-9'
-Found location 'Ap Xuan Thoi Dong 2' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/ap-xuan-thoi-dong-2'
 Found location 'US Consulate in Ho Chi Minh City' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/us-consulate-in-ho-chi-minh-city'
+Found location 'Ap Xuan Thoi Dong 2' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/ap-xuan-thoi-dong-2'
 Found location 'SSIS OUTDOOR 3' at the url: 'https://www.iqair.com/vi/vietnam/ho-chi-minh-city/ssis-outdoor-3'

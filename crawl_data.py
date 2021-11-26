@@ -182,7 +182,7 @@ for SOURCE_NAME, url in CRAWLING_SITE_URLS.items():
                             new_rec={"timestamp":timestamp,"value":value,"rating":rating}
                             new_data=True
                             for ind in range(len(data)):
-                                if (data[ind]['timestamp']==timestamp):
+                                if (data[ind]['timestamp']==timestamp) and (timestamp != '') and (value != ''):
                                     data[ind]=new_rec
                                     new_data=False
                                     break
