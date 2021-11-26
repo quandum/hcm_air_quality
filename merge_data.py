@@ -55,8 +55,9 @@ for location in location_data:
                 'rating_pm2.5':rec['rating']
             })
     for row in data:
-        row['timestamp']=row['timestamp'].replace(',',' 2021,')
-        writer.writerow(row)
+        if (row["timestamp"].strip()!=''):
+            row['timestamp']=row['timestamp'].replace(',',' 2021,')
+            writer.writerow(row)
         
 hourly_data_csv.close() 
 
@@ -97,8 +98,9 @@ for location in location_data:
                 'rating_pm2.5':rec['rating']
             })
     for row in data:
-        row['date']=row['date']+" 2021"
-        writer.writerow(row)
+        if (row["date"].strip()!=''):
+            row['date']=row['date']+" 2021"
+            writer.writerow(row)
         
 daily_data_csv.close() 
 
