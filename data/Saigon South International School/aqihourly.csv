@@ -146,3 +146,6 @@ timestamp,value,rating
 "26 Nov, 10:00 AM",90,AQI US - Trung bình
 "26 Nov, 11:00 AM",107,AQI US - Không lành mạnh cho các nhóm nhạy cảm
 "26 Nov, 12:00 PM",102,AQI US - Không lành mạnh cho các nhóm nhạy cảm
+"26 Nov, 4:00 PM",67,AQI US - Trung bình
+"26 Nov, 8:00 PM",86,AQI US - Trung bình
+"26 Nov, 9:00 PM",59,AQI US - Trung bình
