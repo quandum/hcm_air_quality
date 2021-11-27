@@ -16,7 +16,7 @@ LOADING PAGE 'Long Phuoc, District 9' at: https://www.iqair.com/vi/vietnam/ho-ch
 Clicked button agree!
 Folder 'D:\HCMUS\Data Engineer\project\data\Long Phuoc, District 9' was found!
 The file 'D:\HCMUS\Data Engineer\project\data\Long Phuoc, District 9\aqidaily.csv' now has 32 rows.
-The file 'D:\HCMUS\Data Engineer\project\data\Long Phuoc, District 9\pm2.5daily.csv' now has 25 rows.
+The file 'D:\HCMUS\Data Engineer\project\data\Long Phuoc, District 9\pm2.5daily.csv' now has 26 rows.
 The file 'D:\HCMUS\Data Engineer\project\data\Long Phuoc, District 9\aqihourly.csv' now has 27 rows.
 The file 'D:\HCMUS\Data Engineer\project\data\Long Phuoc, District 9\pm2.5hourly.csv' now has 27 rows.
 LOADING PAGE 'THCS Thanh My Loi' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/thcs-thanh-my-loi
@@ -78,6 +78,29 @@ The file 'D:\HCMUS\Data Engineer\project\data\Saigon South International School\
 LOADING PAGE 'SSIS OUTDOOR 3' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/ssis-outdoor-3
 Unable to click the button agree, or not found button!
 Folder 'D:\HCMUS\Data Engineer\project\data\SSIS OUTDOOR 3' was found!
-The file 'D:\HCMUS\Data Engineer\project\data\SSIS OUTDOOR 3\aqidaily.csv' now has 25 rows.
+The file 'D:\HCMUS\Data Engineer\project\data\SSIS OUTDOOR 3\aqidaily.csv' now has 26 rows.
 The file 'D:\HCMUS\Data Engineer\project\data\SSIS OUTDOOR 3\pm2.5daily.csv' now has 25 rows.
 The file 'D:\HCMUS\Data Engineer\project\data\SSIS OUTDOOR 3\aqihourly.csv' now has 211 rows.
+The file 'D:\HCMUS\Data Engineer\project\data\SSIS OUTDOOR 3\pm2.5hourly.csv' now has 210 rows.
+LOADING PAGE 'US Consulate in Ho Chi Minh City' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/us-consulate-in-ho-chi-minh-city
+Unable to click the button agree, or not found button!
+Folder 'D:\HCMUS\Data Engineer\project\data\US Consulate in Ho Chi Minh City' was found!
+The file 'D:\HCMUS\Data Engineer\project\data\US Consulate in Ho Chi Minh City\aqidaily.csv' now has 39 rows.
+The file 'D:\HCMUS\Data Engineer\project\data\US Consulate in Ho Chi Minh City\pm2.5daily.csv' now has 39 rows.
+The file 'D:\HCMUS\Data Engineer\project\data\US Consulate in Ho Chi Minh City\aqihourly.csv' now has 303 rows.
+The file 'D:\HCMUS\Data Engineer\project\data\US Consulate in Ho Chi Minh City\pm2.5hourly.csv' now has 303 rows.
+LOADING PAGE 'Mam non Hai Au Bay' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/mam-non-hai-au-bay
+Unable to click the button agree, or not found button!
+Folder 'D:\HCMUS\Data Engineer\project\data\Mam non Hai Au Bay' was found!
+The file 'D:\HCMUS\Data Engineer\project\data\Mam non Hai Au Bay\aqidaily.csv' now has 45 rows.
+The file 'D:\HCMUS\Data Engineer\project\data\Mam non Hai Au Bay\pm2.5daily.csv' now has 45 rows.
+The file 'D:\HCMUS\Data Engineer\project\data\Mam non Hai Au Bay\aqihourly.csv' now has 268 rows.
+The file 'D:\HCMUS\Data Engineer\project\data\Mam non Hai Au Bay\pm2.5hourly.csv' now has 268 rows.
+LOADING PAGE 'Ap Xuan Thoi Dong 2' at: https://www.iqair.com/vi/vietnam/ho-chi-minh-city/ap-xuan-thoi-dong-2
+Unable to click the button agree, or not found button!
+Folder 'D:\HCMUS\Data Engineer\project\data\Ap Xuan Thoi Dong 2' was found!
+The file 'D:\HCMUS\Data Engineer\project\data\Ap Xuan Thoi Dong 2\aqidaily.csv' now has 42 rows.
+The file 'D:\HCMUS\Data Engineer\project\data\Ap Xuan Thoi Dong 2\pm2.5daily.csv' now has 42 rows.
+The file 'D:\HCMUS\Data Engineer\project\data\Ap Xuan Thoi Dong 2\aqihourly.csv' now has 290 rows.
+The file 'D:\HCMUS\Data Engineer\project\data\Ap Xuan Thoi Dong 2\pm2.5hourly.csv' now has 289 rows.
+ALL DONE!
