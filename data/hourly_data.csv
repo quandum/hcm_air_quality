@@ -23,6 +23,9 @@ station,timestamp,aqi,rating_aqi,pm2.5,rating_pm2.5
 "Long Phuoc, District 9","26 Nov 2021, 7:00 PM",4,AQI US - Tốt,1,PM2.5 µg/m³ - Tốt
 "Long Phuoc, District 9","26 Nov 2021, 8:00 PM",8,AQI US - Tốt,2,PM2.5 µg/m³ - Tốt
 "Long Phuoc, District 9","26 Nov 2021, 9:00 PM",4,AQI US - Tốt,1,PM2.5 µg/m³ - Tốt
+"Long Phuoc, District 9","27 Nov 2021, 9:00 AM",4,AQI US - Tốt,1,PM2.5 µg/m³ - Tốt
+"Long Phuoc, District 9","27 Nov 2021, 11:00 AM",4,AQI US - Tốt,1,PM2.5 µg/m³ - Tốt
+"Long Phuoc, District 9","27 Nov 2021, 12:00 PM",4,AQI US - Tốt,1,PM2.5 µg/m³ - Tốt
 THCS Thanh My Loi,"14 Nov 2021, 7:00 PM",17,AQI US - Tốt,4,PM2.5 µg/m³ - Tốt
 THCS Thanh My Loi,"14 Nov 2021, 8:00 PM",16,AQI US - Tốt,4,PM2.5 µg/m³ - Tốt
 THCS Thanh My Loi,"14 Nov 2021, 9:00 PM",57,AQI US - Trung bình,14.9,PM2.5 µg/m³ - Tốt
@@ -233,6 +236,20 @@ THCS Thanh My Loi,"26 Nov 2021, 9:00 PM",21,AQI US - Tốt,5,PM2.5 µg/m³ - T�
 THCS Thanh My Loi,"26 Nov 2021, 10:00 PM",17,AQI US - Tốt,4,PM2.5 µg/m³ - Tốt
 THCS Thanh My Loi,"26 Nov 2021, 11:00 PM",17,AQI US - Tốt,4,PM2.5 µg/m³ - Tốt
 THCS Thanh My Loi,"27 Nov 2021, 12:00 AM",17,AQI US - Tốt,4,PM2.5 µg/m³ - Tốt
+THCS Thanh My Loi,"27 Nov 2021, 1:00 AM",17,AQI US - Tốt,4,PM2.5 µg/m³ - Tốt
+THCS Thanh My Loi,"27 Nov 2021, 2:00 AM",17,AQI US - Tốt,4,PM2.5 µg/m³ - Tốt
+THCS Thanh My Loi,"27 Nov 2021, 3:00 AM",21,AQI US - Tốt,5,PM2.5 µg/m³ - Tốt
+THCS Thanh My Loi,"27 Nov 2021, 4:00 AM",25,AQI US - Tốt,6,PM2.5 µg/m³ - Tốt
+THCS Thanh My Loi,"27 Nov 2021, 5:00 AM",29,AQI US - Tốt,7,PM2.5 µg/m³ - Tốt
+THCS Thanh My Loi,"27 Nov 2021, 6:00 AM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+THCS Thanh My Loi,"27 Nov 2021, 7:00 AM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+THCS Thanh My Loi,"27 Nov 2021, 8:00 AM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+THCS Thanh My Loi,"27 Nov 2021, 9:00 AM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+THCS Thanh My Loi,"27 Nov 2021, 10:00 AM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+THCS Thanh My Loi,"27 Nov 2021, 11:00 AM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
+THCS Thanh My Loi,"27 Nov 2021, 12:00 PM",29,AQI US - Tốt,7,PM2.5 µg/m³ - Tốt
+THCS Thanh My Loi,"27 Nov 2021, 1:00 PM",29,AQI US - Tốt,7,PM2.5 µg/m³ - Tốt
+THCS Thanh My Loi,"27 Nov 2021, 2:00 PM",29,AQI US - Tốt,7,PM2.5 µg/m³ - Tốt
 Lycee Francais International Marguerite Duras,"23 Nov 2021, 2:00 PM",63,AQI US - Trung bình,18,PM2.5 µg/m³ - Tốt
 Lycee Francais International Marguerite Duras,"23 Nov 2021, 3:00 PM",82,AQI US - Trung bình,27,PM2.5 µg/m³ - Tốt
 Lycee Francais International Marguerite Duras,"23 Nov 2021, 4:00 PM",57,AQI US - Trung bình,14.9,PM2.5 µg/m³ - Tốt
@@ -316,6 +333,328 @@ Lycee Francais International Marguerite Duras,"26 Nov 2021, 9:00 PM",29,AQI US -
 Lycee Francais International Marguerite Duras,"26 Nov 2021, 10:00 PM",29,AQI US - Tốt,7,PM2.5 µg/m³ - Tốt
 Lycee Francais International Marguerite Duras,"26 Nov 2021, 11:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
 Lycee Francais International Marguerite Duras,"27 Nov 2021, 12:00 AM",29,AQI US - Tốt,7,PM2.5 µg/m³ - Tốt
+Lycee Francais International Marguerite Duras,"27 Nov 2021, 1:00 AM",29,AQI US - Tốt,7,PM2.5 µg/m³ - Tốt
+Lycee Francais International Marguerite Duras,"27 Nov 2021, 2:00 AM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+Lycee Francais International Marguerite Duras,"27 Nov 2021, 3:00 AM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+Lycee Francais International Marguerite Duras,"27 Nov 2021, 4:00 AM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+Lycee Francais International Marguerite Duras,"27 Nov 2021, 5:00 AM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
+Lycee Francais International Marguerite Duras,"27 Nov 2021, 6:00 AM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+Lycee Francais International Marguerite Duras,"27 Nov 2021, 7:00 AM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
+Lycee Francais International Marguerite Duras,"27 Nov 2021, 8:00 AM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
+Lycee Francais International Marguerite Duras,"27 Nov 2021, 9:00 AM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
+Lycee Francais International Marguerite Duras,"27 Nov 2021, 10:00 AM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+Lycee Francais International Marguerite Duras,"27 Nov 2021, 11:00 AM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+Lycee Francais International Marguerite Duras,"27 Nov 2021, 12:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+Lycee Francais International Marguerite Duras,"27 Nov 2021, 1:00 PM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
+Lycee Francais International Marguerite Duras,"27 Nov 2021, 2:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+Diamond Island,"14 Nov 2021, 7:00 PM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
+Diamond Island,"14 Nov 2021, 8:00 PM",53,AQI US - Trung bình,12.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"14 Nov 2021, 9:00 PM",75,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"14 Nov 2021, 10:00 PM",92,AQI US - Trung bình,31.6,PM2.5 µg/m³ - Tốt
+Diamond Island,"14 Nov 2021, 11:00 PM",108,AQI US - Không lành mạnh cho các nhóm nhạy cảm,38.3,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 12:00 AM",110,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.2,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 1:00 AM",105,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.3,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 2:00 AM",115,AQI US - Không lành mạnh cho các nhóm nhạy cảm,41.1,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 3:00 AM",105,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.2,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 4:00 AM",85,AQI US - Trung bình,28.6,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 5:00 AM",100,AQI US - Trung bình,35.3,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 6:00 AM",131,AQI US - Không lành mạnh cho các nhóm nhạy cảm,47.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 7:00 AM",100,AQI US - Trung bình,35.3,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 8:00 AM",96,AQI US - Trung bình,33.5,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 9:00 AM",88,AQI US - Trung bình,29.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 10:00 AM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 11:00 AM",76,AQI US - Trung bình,23.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 12:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 1:00 PM",29,AQI US - Tốt,7,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 2:00 PM",29,AQI US - Tốt,7,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 3:00 PM",29,AQI US - Tốt,7,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 4:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 5:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 6:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 7:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 8:00 PM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 9:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 10:00 PM",76,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"15 Nov 2021, 11:00 PM",55,AQI US - Trung bình,13.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 12:00 AM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 1:00 AM",69,AQI US - Trung bình,20.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 2:00 AM",86,AQI US - Trung bình,28.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 3:00 AM",108,AQI US - Không lành mạnh cho các nhóm nhạy cảm,38.4,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 4:00 AM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.4,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 5:00 AM",113,AQI US - Không lành mạnh cho các nhóm nhạy cảm,40.2,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 6:00 AM",105,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.3,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 7:00 AM",105,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.3,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 8:00 AM",97,AQI US - Trung bình,34.3,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 9:00 AM",83,AQI US - Trung bình,27.6,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 10:00 AM",82,AQI US - Trung bình,26.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 11:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 12:00 PM",57,AQI US - Trung bình,14.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 1:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 2:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 3:00 PM",29,AQI US - Tốt,7,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 4:00 PM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 5:00 PM",25,AQI US - Tốt,6,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 6:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 7:00 PM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 8:00 PM",88,AQI US - Trung bình,29.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 9:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 10:00 PM",57,AQI US - Trung bình,14.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"16 Nov 2021, 11:00 PM",55,AQI US - Trung bình,13.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"17 Nov 2021, 12:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"17 Nov 2021, 1:00 AM",57,AQI US - Trung bình,14.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"17 Nov 2021, 2:00 AM",55,AQI US - Trung bình,13.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"17 Nov 2021, 3:00 AM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"17 Nov 2021, 4:00 AM",75,AQI US - Trung bình,23.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"17 Nov 2021, 5:00 AM",77,AQI US - Trung bình,24.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"17 Nov 2021, 6:00 AM",107,AQI US - Không lành mạnh cho các nhóm nhạy cảm,38.1,PM2.5 µg/m³ - Tốt
+Diamond Island,"17 Nov 2021, 7:00 AM",156,AQI US - Không lành mạnh,64.3,PM2.5 µg/m³ - Trung bình
+Diamond Island,"17 Nov 2021, 8:00 AM",163,AQI US - Không lành mạnh,79.4,PM2.5 µg/m³ - Trung bình
+Diamond Island,"17 Nov 2021, 9:00 AM",159,AQI US - Không lành mạnh,71.5,PM2.5 µg/m³ - Trung bình
+Diamond Island,"17 Nov 2021, 10:00 AM",163,AQI US - Không lành mạnh,78.6,PM2.5 µg/m³ - Trung bình
+Diamond Island,"17 Nov 2021, 11:00 AM",121,AQI US - Không lành mạnh cho các nhóm nhạy cảm,43.6,PM2.5 µg/m³ - Tốt
+Diamond Island,"17 Nov 2021, 12:00 PM",82,AQI US - Trung bình,26.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"17 Nov 2021, 1:00 PM",88,AQI US - Trung bình,29.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"17 Nov 2021, 2:00 PM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"17 Nov 2021, 3:00 PM",96,AQI US - Trung bình,33.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"17 Nov 2021, 4:00 PM",86,AQI US - Trung bình,29,PM2.5 µg/m³ - Tốt
+Diamond Island,"17 Nov 2021, 5:00 PM",57,AQI US - Trung bình,14.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"17 Nov 2021, 6:00 PM",65,AQI US - Trung bình,18.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"17 Nov 2021, 7:00 PM",55,AQI US - Trung bình,13.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"17 Nov 2021, 8:00 PM",55,AQI US - Trung bình,13.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"17 Nov 2021, 9:00 PM",94,AQI US - Trung bình,32.5,PM2.5 µg/m³ - Tốt
+Diamond Island,"17 Nov 2021, 10:00 PM",87,AQI US - Trung bình,29.4,PM2.5 µg/m³ - Tốt
+Diamond Island,"17 Nov 2021, 11:00 PM",83,AQI US - Trung bình,27.5,PM2.5 µg/m³ - Tốt
+Diamond Island,"18 Nov 2021, 12:00 AM",151,AQI US - Không lành mạnh,55.8,PM2.5 µg/m³ - Trung bình
+Diamond Island,"18 Nov 2021, 1:00 AM",152,AQI US - Không lành mạnh,58.2,PM2.5 µg/m³ - Trung bình
+Diamond Island,"18 Nov 2021, 2:00 AM",134,AQI US - Không lành mạnh cho các nhóm nhạy cảm,49,PM2.5 µg/m³ - Tốt
+Diamond Island,"18 Nov 2021, 3:00 AM",120,AQI US - Không lành mạnh cho các nhóm nhạy cảm,43.4,PM2.5 µg/m³ - Tốt
+Diamond Island,"18 Nov 2021, 4:00 AM",102,AQI US - Không lành mạnh cho các nhóm nhạy cảm,35.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"18 Nov 2021, 5:00 AM",151,AQI US - Không lành mạnh,56.3,PM2.5 µg/m³ - Trung bình
+Diamond Island,"18 Nov 2021, 6:00 AM",148,AQI US - Không lành mạnh cho các nhóm nhạy cảm,54.5,PM2.5 µg/m³ - Trung bình
+Diamond Island,"18 Nov 2021, 7:00 AM",145,AQI US - Không lành mạnh cho các nhóm nhạy cảm,53.6,PM2.5 µg/m³ - Trung bình
+Diamond Island,"18 Nov 2021, 8:00 AM",115,AQI US - Không lành mạnh cho các nhóm nhạy cảm,41.3,PM2.5 µg/m³ - Tốt
+Diamond Island,"18 Nov 2021, 9:00 AM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.6,PM2.5 µg/m³ - Tốt
+Diamond Island,"18 Nov 2021, 10:00 AM",146,AQI US - Không lành mạnh cho các nhóm nhạy cảm,54.1,PM2.5 µg/m³ - Trung bình
+Diamond Island,"18 Nov 2021, 11:00 AM",88,AQI US - Trung bình,29.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"18 Nov 2021, 12:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"18 Nov 2021, 1:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"18 Nov 2021, 2:00 PM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"18 Nov 2021, 3:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+Diamond Island,"18 Nov 2021, 4:00 PM",29,AQI US - Tốt,7,PM2.5 µg/m³ - Tốt
+Diamond Island,"18 Nov 2021, 5:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+Diamond Island,"18 Nov 2021, 6:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+Diamond Island,"18 Nov 2021, 7:00 PM",76,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"18 Nov 2021, 8:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"18 Nov 2021, 9:00 PM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"18 Nov 2021, 10:00 PM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"18 Nov 2021, 11:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"19 Nov 2021, 12:00 AM",90,AQI US - Trung bình,30.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"19 Nov 2021, 1:00 AM",173,AQI US - Không lành mạnh,98.7,PM2.5 µg/m³ - Trung bình
+Diamond Island,"19 Nov 2021, 2:00 AM",165,AQI US - Không lành mạnh,83.2,PM2.5 µg/m³ - Trung bình
+Diamond Island,"19 Nov 2021, 3:00 AM",163,AQI US - Không lành mạnh,78.4,PM2.5 µg/m³ - Trung bình
+Diamond Island,"19 Nov 2021, 4:00 AM",167,AQI US - Không lành mạnh,85.7,PM2.5 µg/m³ - Trung bình
+Diamond Island,"19 Nov 2021, 5:00 AM",143,AQI US - Không lành mạnh cho các nhóm nhạy cảm,52.7,PM2.5 µg/m³ - Trung bình
+Diamond Island,"19 Nov 2021, 6:00 AM",128,AQI US - Không lành mạnh cho các nhóm nhạy cảm,46.4,PM2.5 µg/m³ - Tốt
+Diamond Island,"19 Nov 2021, 7:00 AM",112,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"19 Nov 2021, 8:00 AM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.4,PM2.5 µg/m³ - Tốt
+Diamond Island,"19 Nov 2021, 9:00 AM",88,AQI US - Trung bình,29.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"19 Nov 2021, 10:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"19 Nov 2021, 11:00 AM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"19 Nov 2021, 12:00 PM",84,AQI US - Trung bình,27.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"19 Nov 2021, 1:00 PM",107,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"19 Nov 2021, 2:00 PM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"19 Nov 2021, 3:00 PM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"19 Nov 2021, 4:00 PM",92,AQI US - Trung bình,31.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"19 Nov 2021, 5:00 PM",140,AQI US - Không lành mạnh cho các nhóm nhạy cảm,51.3,PM2.5 µg/m³ - Trung bình
+Diamond Island,"19 Nov 2021, 6:00 PM",98,AQI US - Trung bình,34.6,PM2.5 µg/m³ - Tốt
+Diamond Island,"19 Nov 2021, 7:00 PM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
+Diamond Island,"19 Nov 2021, 8:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+Diamond Island,"19 Nov 2021, 9:00 PM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
+Diamond Island,"19 Nov 2021, 10:00 PM",57,AQI US - Trung bình,14.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"19 Nov 2021, 11:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"20 Nov 2021, 12:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"20 Nov 2021, 1:00 AM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"20 Nov 2021, 2:00 AM",65,AQI US - Trung bình,18.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"20 Nov 2021, 3:00 AM",94,AQI US - Trung bình,32.5,PM2.5 µg/m³ - Tốt
+Diamond Island,"20 Nov 2021, 4:00 AM",131,AQI US - Không lành mạnh cho các nhóm nhạy cảm,47.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"20 Nov 2021, 5:00 AM",87,AQI US - Trung bình,29.5,PM2.5 µg/m³ - Tốt
+Diamond Island,"20 Nov 2021, 6:00 AM",84,AQI US - Trung bình,27.6,PM2.5 µg/m³ - Tốt
+Diamond Island,"20 Nov 2021, 7:00 AM",75,AQI US - Trung bình,23.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"20 Nov 2021, 8:00 AM",78,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"20 Nov 2021, 9:00 AM",154,AQI US - Không lành mạnh,61.5,PM2.5 µg/m³ - Trung bình
+Diamond Island,"20 Nov 2021, 10:00 AM",157,AQI US - Không lành mạnh,67.6,PM2.5 µg/m³ - Trung bình
+Diamond Island,"20 Nov 2021, 11:00 AM",155,AQI US - Không lành mạnh,63,PM2.5 µg/m³ - Trung bình
+Diamond Island,"20 Nov 2021, 12:00 PM",145,AQI US - Không lành mạnh cho các nhóm nhạy cảm,53.3,PM2.5 µg/m³ - Trung bình
+Diamond Island,"20 Nov 2021, 1:00 PM",152,AQI US - Không lành mạnh,58.2,PM2.5 µg/m³ - Trung bình
+Diamond Island,"20 Nov 2021, 2:00 PM",155,AQI US - Không lành mạnh,62.8,PM2.5 µg/m³ - Trung bình
+Diamond Island,"20 Nov 2021, 3:00 PM",154,AQI US - Không lành mạnh,61.5,PM2.5 µg/m³ - Trung bình
+Diamond Island,"20 Nov 2021, 4:00 PM",131,AQI US - Không lành mạnh cho các nhóm nhạy cảm,47.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"20 Nov 2021, 5:00 PM",81,AQI US - Trung bình,26.4,PM2.5 µg/m³ - Tốt
+Diamond Island,"20 Nov 2021, 6:00 PM",91,AQI US - Trung bình,31.2,PM2.5 µg/m³ - Tốt
+Diamond Island,"20 Nov 2021, 7:00 PM",69,AQI US - Trung bình,20.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"20 Nov 2021, 8:00 PM",79,AQI US - Trung bình,25.6,PM2.5 µg/m³ - Tốt
+Diamond Island,"20 Nov 2021, 9:00 PM",71,AQI US - Trung bình,21.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"20 Nov 2021, 10:00 PM",65,AQI US - Trung bình,18.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"20 Nov 2021, 11:00 PM",63,AQI US - Trung bình,17.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"21 Nov 2021, 12:00 AM",63,AQI US - Trung bình,17.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"21 Nov 2021, 1:00 AM",73,AQI US - Trung bình,22.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"21 Nov 2021, 2:00 AM",85,AQI US - Trung bình,28.6,PM2.5 µg/m³ - Tốt
+Diamond Island,"21 Nov 2021, 3:00 AM",112,AQI US - Không lành mạnh cho các nhóm nhạy cảm,40.1,PM2.5 µg/m³ - Tốt
+Diamond Island,"21 Nov 2021, 4:00 AM",155,AQI US - Không lành mạnh,62.7,PM2.5 µg/m³ - Trung bình
+Diamond Island,"21 Nov 2021, 5:00 AM",158,AQI US - Không lành mạnh,69,PM2.5 µg/m³ - Trung bình
+Diamond Island,"21 Nov 2021, 6:00 AM",167,AQI US - Không lành mạnh,86.6,PM2.5 µg/m³ - Trung bình
+Diamond Island,"21 Nov 2021, 7:00 AM",168,AQI US - Không lành mạnh,88.3,PM2.5 µg/m³ - Trung bình
+Diamond Island,"21 Nov 2021, 8:00 AM",160,AQI US - Không lành mạnh,72.8,PM2.5 µg/m³ - Trung bình
+Diamond Island,"21 Nov 2021, 9:00 AM",158,AQI US - Không lành mạnh,69.9,PM2.5 µg/m³ - Trung bình
+Diamond Island,"21 Nov 2021, 10:00 AM",164,AQI US - Không lành mạnh,80.7,PM2.5 µg/m³ - Trung bình
+Diamond Island,"21 Nov 2021, 11:00 AM",135,AQI US - Không lành mạnh cho các nhóm nhạy cảm,49.5,PM2.5 µg/m³ - Tốt
+Diamond Island,"21 Nov 2021, 12:00 PM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"21 Nov 2021, 1:00 PM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"21 Nov 2021, 2:00 PM",76,AQI US - Trung bình,23.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"21 Nov 2021, 3:00 PM",59,AQI US - Trung bình,16,PM2.5 µg/m³ - Tốt
+Diamond Island,"21 Nov 2021, 4:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+Diamond Island,"21 Nov 2021, 5:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
+Diamond Island,"21 Nov 2021, 6:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+Diamond Island,"21 Nov 2021, 7:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"21 Nov 2021, 8:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"21 Nov 2021, 9:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"21 Nov 2021, 10:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"21 Nov 2021, 11:00 PM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 12:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 1:00 AM",76,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 2:00 AM",76,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 3:00 AM",90,AQI US - Trung bình,30.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 4:00 AM",82,AQI US - Trung bình,26.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 5:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 6:00 AM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 7:00 AM",57,AQI US - Trung bình,14.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 8:00 AM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 9:00 AM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 10:00 AM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 11:00 AM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 12:00 PM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 1:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 2:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 3:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 4:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 5:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 6:00 PM",49,AQI US - Tốt,11.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 7:00 PM",71,AQI US - Trung bình,21.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 8:00 PM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 9:00 PM",69,AQI US - Trung bình,20.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 10:00 PM",67,AQI US - Trung bình,19.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"22 Nov 2021, 11:00 PM",57,AQI US - Trung bình,14.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 12:00 AM",73,AQI US - Trung bình,22.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 1:00 AM",77,AQI US - Trung bình,24.6,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 2:00 AM",105,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.1,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 3:00 AM",105,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.3,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 4:00 AM",75,AQI US - Trung bình,23.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 5:00 AM",96,AQI US - Trung bình,33.5,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 6:00 AM",150,AQI US - Không lành mạnh cho các nhóm nhạy cảm,55.4,PM2.5 µg/m³ - Trung bình
+Diamond Island,"23 Nov 2021, 7:00 AM",152,AQI US - Không lành mạnh,57.4,PM2.5 µg/m³ - Trung bình
+Diamond Island,"23 Nov 2021, 8:00 AM",128,AQI US - Không lành mạnh cho các nhóm nhạy cảm,46.4,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 9:00 AM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 10:00 AM",82,AQI US - Trung bình,26.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 11:00 AM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 12:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 1:00 PM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 2:00 PM",86,AQI US - Trung bình,28.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 3:00 PM",71,AQI US - Trung bình,21.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 4:00 PM",81,AQI US - Trung bình,26.6,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 5:00 PM",96,AQI US - Trung bình,33.5,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 6:00 PM",92,AQI US - Trung bình,31.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 7:00 PM",115,AQI US - Không lành mạnh cho các nhóm nhạy cảm,41.4,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 8:00 PM",115,AQI US - Không lành mạnh cho các nhóm nhạy cảm,41.3,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 9:00 PM",81,AQI US - Trung bình,26.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 10:00 PM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"23 Nov 2021, 11:00 PM",82,AQI US - Trung bình,26.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 12:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 1:00 AM",53,AQI US - Trung bình,12.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 2:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 3:00 AM",77,AQI US - Trung bình,24.6,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 4:00 AM",128,AQI US - Không lành mạnh cho các nhóm nhạy cảm,46.6,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 5:00 AM",152,AQI US - Không lành mạnh,57.3,PM2.5 µg/m³ - Trung bình
+Diamond Island,"24 Nov 2021, 6:00 AM",84,AQI US - Trung bình,27.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 7:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 8:00 AM",76,AQI US - Trung bình,23.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 9:00 AM",102,AQI US - Không lành mạnh cho các nhóm nhạy cảm,35.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 10:00 AM",63,AQI US - Trung bình,18,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 11:00 AM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 12:00 PM",50,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 1:00 PM",61,AQI US - Trung bình,17,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 2:00 PM",61,AQI US - Trung bình,17,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 3:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 4:00 PM",65,AQI US - Trung bình,19,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 5:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 6:00 PM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 7:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 8:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 9:00 PM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 10:00 PM",84,AQI US - Trung bình,27.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"24 Nov 2021, 11:00 PM",96,AQI US - Trung bình,33.6,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 12:00 AM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.5,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 1:00 AM",113,AQI US - Không lành mạnh cho các nhóm nhạy cảm,40.4,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 2:00 AM",132,AQI US - Không lành mạnh cho các nhóm nhạy cảm,48.2,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 3:00 AM",148,AQI US - Không lành mạnh cho các nhóm nhạy cảm,54.6,PM2.5 µg/m³ - Trung bình
+Diamond Island,"25 Nov 2021, 4:00 AM",103,AQI US - Không lành mạnh cho các nhóm nhạy cảm,36.5,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 5:00 AM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 6:00 AM",90,AQI US - Trung bình,30.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 7:00 AM",76,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 8:00 AM",82,AQI US - Trung bình,26.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 9:00 AM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 10:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 11:00 AM",86,AQI US - Trung bình,28.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 12:00 PM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.7,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 1:00 PM",82,AQI US - Trung bình,26.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 2:00 PM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 3:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 4:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 5:00 PM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 6:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 7:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 8:00 PM",88,AQI US - Trung bình,29.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 9:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 10:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+Diamond Island,"25 Nov 2021, 11:00 PM",71,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 12:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 1:00 AM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 2:00 AM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 3:00 AM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 4:00 AM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 5:00 AM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 6:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 7:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 8:00 AM",76,AQI US - Trung bình,23.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 9:00 AM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 10:00 AM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 11:00 AM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 12:00 PM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 1:00 PM",76,AQI US - Trung bình,23.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 2:00 PM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 3:00 PM",59,AQI US - Trung bình,16,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 4:00 PM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 5:00 PM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 6:00 PM",88,AQI US - Trung bình,29.8,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 7:00 PM",118,AQI US - Không lành mạnh cho các nhóm nhạy cảm,42.6,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 8:00 PM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 9:00 PM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 10:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+Diamond Island,"26 Nov 2021, 11:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+Diamond Island,"27 Nov 2021, 12:00 AM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+Diamond Island,"27 Nov 2021, 1:00 AM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+Diamond Island,"27 Nov 2021, 2:00 AM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
+Diamond Island,"27 Nov 2021, 3:00 AM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
+Diamond Island,"27 Nov 2021, 4:00 AM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"27 Nov 2021, 5:00 AM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"27 Nov 2021, 6:00 AM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"27 Nov 2021, 7:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"27 Nov 2021, 8:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"27 Nov 2021, 9:00 AM",76,AQI US - Trung bình,23.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"27 Nov 2021, 10:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"27 Nov 2021, 11:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+Diamond Island,"27 Nov 2021, 12:00 PM",59,AQI US - Trung bình,16,PM2.5 µg/m³ - Tốt
+Diamond Island,"27 Nov 2021, 1:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+Diamond Island,"27 Nov 2021, 2:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
 VSTARSCHOOL,"12 Nov 2021, 10:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
 VSTARSCHOOL,"12 Nov 2021, 11:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
 VSTARSCHOOL,"13 Nov 2021, 12:00 AM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
@@ -655,398 +994,20 @@ VSTARSCHOOL,"26 Nov 2021, 9:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
 VSTARSCHOOL,"26 Nov 2021, 10:00 PM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
 VSTARSCHOOL,"26 Nov 2021, 11:00 PM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
 VSTARSCHOOL,"27 Nov 2021, 12:00 AM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"22 Nov 2021, 5:00 PM",25,AQI US - Tốt,6,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"22 Nov 2021, 6:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"22 Nov 2021, 7:00 PM",94,AQI US - Trung bình,32.7,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"22 Nov 2021, 8:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"22 Nov 2021, 9:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"22 Nov 2021, 10:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"22 Nov 2021, 11:00 PM",55,AQI US - Trung bình,13.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"23 Nov 2021, 12:00 AM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"23 Nov 2021, 1:00 AM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"23 Nov 2021, 2:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"23 Nov 2021, 3:00 AM",76,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"23 Nov 2021, 4:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"23 Nov 2021, 5:00 AM",82,AQI US - Trung bình,26.8,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"23 Nov 2021, 6:00 AM",90,AQI US - Trung bình,30.7,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"23 Nov 2021, 7:00 AM",132,AQI US - Không lành mạnh cho các nhóm nhạy cảm,48.2,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"23 Nov 2021, 8:00 AM",135,AQI US - Không lành mạnh cho các nhóm nhạy cảm,49.2,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"23 Nov 2021, 9:00 AM",157,AQI US - Không lành mạnh,66.8,PM2.5 µg/m³ - Trung bình
-Vo Thi Sau High School,"23 Nov 2021, 10:00 AM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.7,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"23 Nov 2021, 11:00 AM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"23 Nov 2021, 12:00 PM",114,AQI US - Không lành mạnh cho các nhóm nhạy cảm,40.7,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"23 Nov 2021, 1:00 PM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"23 Nov 2021, 2:00 PM",82,AQI US - Trung bình,26.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"23 Nov 2021, 3:00 PM",76,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"23 Nov 2021, 4:00 PM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"23 Nov 2021, 5:00 PM",90,AQI US - Trung bình,30.7,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"23 Nov 2021, 6:00 PM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.5,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"23 Nov 2021, 7:00 PM",160,AQI US - Không lành mạnh,72.6,PM2.5 µg/m³ - Trung bình
-Vo Thi Sau High School,"23 Nov 2021, 8:00 PM",146,AQI US - Không lành mạnh cho các nhóm nhạy cảm,54.1,PM2.5 µg/m³ - Trung bình
-Vo Thi Sau High School,"23 Nov 2021, 9:00 PM",141,AQI US - Không lành mạnh cho các nhóm nhạy cảm,52,PM2.5 µg/m³ - Trung bình
-Vo Thi Sau High School,"24 Nov 2021, 1:00 AM",53,AQI US - Trung bình,12.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"24 Nov 2021, 2:00 AM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"24 Nov 2021, 3:00 AM",53,AQI US - Trung bình,12.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"24 Nov 2021, 4:00 AM",75,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"24 Nov 2021, 5:00 AM",154,AQI US - Không lành mạnh,60.7,PM2.5 µg/m³ - Trung bình
-Vo Thi Sau High School,"24 Nov 2021, 6:00 AM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.5,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"24 Nov 2021, 7:00 AM",86,AQI US - Trung bình,28.8,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"24 Nov 2021, 8:00 AM",90,AQI US - Trung bình,30.8,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"24 Nov 2021, 9:00 AM",116,AQI US - Không lành mạnh cho các nhóm nhạy cảm,41.6,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"24 Nov 2021, 10:00 AM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.7,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"24 Nov 2021, 11:00 AM",121,AQI US - Không lành mạnh cho các nhóm nhạy cảm,43.7,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"24 Nov 2021, 12:00 PM",152,AQI US - Không lành mạnh,57.5,PM2.5 µg/m³ - Trung bình
-Vo Thi Sau High School,"24 Nov 2021, 1:00 PM",65,AQI US - Trung bình,19,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"24 Nov 2021, 2:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"24 Nov 2021, 3:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"24 Nov 2021, 5:00 PM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.7,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"24 Nov 2021, 6:00 PM",76,AQI US - Trung bình,23.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"24 Nov 2021, 7:00 PM",123,AQI US - Không lành mạnh cho các nhóm nhạy cảm,44.5,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"24 Nov 2021, 8:00 PM",82,AQI US - Trung bình,26.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"24 Nov 2021, 9:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"24 Nov 2021, 10:00 PM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"24 Nov 2021, 11:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 12:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 1:00 AM",78,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 2:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 3:00 AM",78,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 4:00 AM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 5:00 AM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 6:00 AM",101,AQI US - Không lành mạnh cho các nhóm nhạy cảm,35.6,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 7:00 AM",92,AQI US - Trung bình,31.7,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 8:00 AM",92,AQI US - Trung bình,31.8,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 9:00 AM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 10:00 AM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 11:00 AM",82,AQI US - Trung bình,26.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 12:00 PM",121,AQI US - Không lành mạnh cho các nhóm nhạy cảm,43.7,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 1:00 PM",107,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.8,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 2:00 PM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 3:00 PM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 4:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 5:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 6:00 PM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 7:00 PM",96,AQI US - Trung bình,33.8,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 8:00 PM",96,AQI US - Trung bình,33.8,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 9:00 PM",59,AQI US - Trung bình,16,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 10:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"25 Nov 2021, 11:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"26 Nov 2021, 12:00 AM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"26 Nov 2021, 1:00 AM",21,AQI US - Tốt,5,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"26 Nov 2021, 2:00 AM",21,AQI US - Tốt,5,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"26 Nov 2021, 3:00 AM",29,AQI US - Tốt,7,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"26 Nov 2021, 4:00 AM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"26 Nov 2021, 7:00 AM",109,AQI US - Không lành mạnh cho các nhóm nhạy cảm,38.6,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"26 Nov 2021, 8:00 AM",92,AQI US - Trung bình,31.8,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"26 Nov 2021, 9:00 AM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"26 Nov 2021, 10:00 AM",82,AQI US - Trung bình,26.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"26 Nov 2021, 11:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"26 Nov 2021, 12:00 PM",152,AQI US - Không lành mạnh,57.5,PM2.5 µg/m³ - Trung bình
-Vo Thi Sau High School,"26 Nov 2021, 1:00 PM",84,AQI US - Trung bình,27.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"26 Nov 2021, 2:00 PM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"26 Nov 2021, 3:00 PM",70,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"26 Nov 2021, 4:00 PM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"26 Nov 2021, 5:00 PM",92,AQI US - Trung bình,31.8,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"26 Nov 2021, 6:00 PM",86,AQI US - Trung bình,28.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"26 Nov 2021, 7:00 PM",135,AQI US - Không lành mạnh cho các nhóm nhạy cảm,49.5,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"26 Nov 2021, 8:00 PM",82,AQI US - Trung bình,26.9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"26 Nov 2021, 9:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"26 Nov 2021, 10:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"26 Nov 2021, 11:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
-Vo Thi Sau High School,"27 Nov 2021, 12:00 AM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
-Diamond Island,"14 Nov 2021, 7:00 PM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
-Diamond Island,"14 Nov 2021, 8:00 PM",53,AQI US - Trung bình,12.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"14 Nov 2021, 9:00 PM",75,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"14 Nov 2021, 10:00 PM",92,AQI US - Trung bình,31.6,PM2.5 µg/m³ - Tốt
-Diamond Island,"14 Nov 2021, 11:00 PM",108,AQI US - Không lành mạnh cho các nhóm nhạy cảm,38.3,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 12:00 AM",110,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.2,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 1:00 AM",105,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.3,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 2:00 AM",115,AQI US - Không lành mạnh cho các nhóm nhạy cảm,41.1,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 3:00 AM",105,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.2,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 4:00 AM",85,AQI US - Trung bình,28.6,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 5:00 AM",100,AQI US - Trung bình,35.3,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 6:00 AM",131,AQI US - Không lành mạnh cho các nhóm nhạy cảm,47.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 7:00 AM",100,AQI US - Trung bình,35.3,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 8:00 AM",96,AQI US - Trung bình,33.5,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 9:00 AM",88,AQI US - Trung bình,29.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 10:00 AM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 11:00 AM",76,AQI US - Trung bình,23.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 12:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 1:00 PM",29,AQI US - Tốt,7,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 2:00 PM",29,AQI US - Tốt,7,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 3:00 PM",29,AQI US - Tốt,7,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 4:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 5:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 6:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 7:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 8:00 PM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 9:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 10:00 PM",76,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"15 Nov 2021, 11:00 PM",55,AQI US - Trung bình,13.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 12:00 AM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 1:00 AM",69,AQI US - Trung bình,20.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 2:00 AM",86,AQI US - Trung bình,28.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 3:00 AM",108,AQI US - Không lành mạnh cho các nhóm nhạy cảm,38.4,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 4:00 AM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.4,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 5:00 AM",113,AQI US - Không lành mạnh cho các nhóm nhạy cảm,40.2,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 6:00 AM",105,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.3,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 7:00 AM",105,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.3,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 8:00 AM",97,AQI US - Trung bình,34.3,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 9:00 AM",83,AQI US - Trung bình,27.6,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 10:00 AM",82,AQI US - Trung bình,26.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 11:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 12:00 PM",57,AQI US - Trung bình,14.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 1:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 2:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 3:00 PM",29,AQI US - Tốt,7,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 4:00 PM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 5:00 PM",25,AQI US - Tốt,6,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 6:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 7:00 PM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 8:00 PM",88,AQI US - Trung bình,29.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 9:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 10:00 PM",57,AQI US - Trung bình,14.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"16 Nov 2021, 11:00 PM",55,AQI US - Trung bình,13.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"17 Nov 2021, 12:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"17 Nov 2021, 1:00 AM",57,AQI US - Trung bình,14.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"17 Nov 2021, 2:00 AM",55,AQI US - Trung bình,13.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"17 Nov 2021, 3:00 AM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"17 Nov 2021, 4:00 AM",75,AQI US - Trung bình,23.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"17 Nov 2021, 5:00 AM",77,AQI US - Trung bình,24.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"17 Nov 2021, 6:00 AM",107,AQI US - Không lành mạnh cho các nhóm nhạy cảm,38.1,PM2.5 µg/m³ - Tốt
-Diamond Island,"17 Nov 2021, 7:00 AM",156,AQI US - Không lành mạnh,64.3,PM2.5 µg/m³ - Trung bình
-Diamond Island,"17 Nov 2021, 8:00 AM",163,AQI US - Không lành mạnh,79.4,PM2.5 µg/m³ - Trung bình
-Diamond Island,"17 Nov 2021, 9:00 AM",159,AQI US - Không lành mạnh,71.5,PM2.5 µg/m³ - Trung bình
-Diamond Island,"17 Nov 2021, 10:00 AM",163,AQI US - Không lành mạnh,78.6,PM2.5 µg/m³ - Trung bình
-Diamond Island,"17 Nov 2021, 11:00 AM",121,AQI US - Không lành mạnh cho các nhóm nhạy cảm,43.6,PM2.5 µg/m³ - Tốt
-Diamond Island,"17 Nov 2021, 12:00 PM",82,AQI US - Trung bình,26.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"17 Nov 2021, 1:00 PM",88,AQI US - Trung bình,29.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"17 Nov 2021, 2:00 PM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"17 Nov 2021, 3:00 PM",96,AQI US - Trung bình,33.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"17 Nov 2021, 4:00 PM",86,AQI US - Trung bình,29,PM2.5 µg/m³ - Tốt
-Diamond Island,"17 Nov 2021, 5:00 PM",57,AQI US - Trung bình,14.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"17 Nov 2021, 6:00 PM",65,AQI US - Trung bình,18.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"17 Nov 2021, 7:00 PM",55,AQI US - Trung bình,13.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"17 Nov 2021, 8:00 PM",55,AQI US - Trung bình,13.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"17 Nov 2021, 9:00 PM",94,AQI US - Trung bình,32.5,PM2.5 µg/m³ - Tốt
-Diamond Island,"17 Nov 2021, 10:00 PM",87,AQI US - Trung bình,29.4,PM2.5 µg/m³ - Tốt
-Diamond Island,"17 Nov 2021, 11:00 PM",83,AQI US - Trung bình,27.5,PM2.5 µg/m³ - Tốt
-Diamond Island,"18 Nov 2021, 12:00 AM",151,AQI US - Không lành mạnh,55.8,PM2.5 µg/m³ - Trung bình
-Diamond Island,"18 Nov 2021, 1:00 AM",152,AQI US - Không lành mạnh,58.2,PM2.5 µg/m³ - Trung bình
-Diamond Island,"18 Nov 2021, 2:00 AM",134,AQI US - Không lành mạnh cho các nhóm nhạy cảm,49,PM2.5 µg/m³ - Tốt
-Diamond Island,"18 Nov 2021, 3:00 AM",120,AQI US - Không lành mạnh cho các nhóm nhạy cảm,43.4,PM2.5 µg/m³ - Tốt
-Diamond Island,"18 Nov 2021, 4:00 AM",102,AQI US - Không lành mạnh cho các nhóm nhạy cảm,35.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"18 Nov 2021, 5:00 AM",151,AQI US - Không lành mạnh,56.3,PM2.5 µg/m³ - Trung bình
-Diamond Island,"18 Nov 2021, 6:00 AM",148,AQI US - Không lành mạnh cho các nhóm nhạy cảm,54.5,PM2.5 µg/m³ - Trung bình
-Diamond Island,"18 Nov 2021, 7:00 AM",145,AQI US - Không lành mạnh cho các nhóm nhạy cảm,53.6,PM2.5 µg/m³ - Trung bình
-Diamond Island,"18 Nov 2021, 8:00 AM",115,AQI US - Không lành mạnh cho các nhóm nhạy cảm,41.3,PM2.5 µg/m³ - Tốt
-Diamond Island,"18 Nov 2021, 9:00 AM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.6,PM2.5 µg/m³ - Tốt
-Diamond Island,"18 Nov 2021, 10:00 AM",146,AQI US - Không lành mạnh cho các nhóm nhạy cảm,54.1,PM2.5 µg/m³ - Trung bình
-Diamond Island,"18 Nov 2021, 11:00 AM",88,AQI US - Trung bình,29.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"18 Nov 2021, 12:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"18 Nov 2021, 1:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"18 Nov 2021, 2:00 PM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"18 Nov 2021, 3:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-Diamond Island,"18 Nov 2021, 4:00 PM",29,AQI US - Tốt,7,PM2.5 µg/m³ - Tốt
-Diamond Island,"18 Nov 2021, 5:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
-Diamond Island,"18 Nov 2021, 6:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
-Diamond Island,"18 Nov 2021, 7:00 PM",76,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"18 Nov 2021, 8:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"18 Nov 2021, 9:00 PM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"18 Nov 2021, 10:00 PM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"18 Nov 2021, 11:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"19 Nov 2021, 12:00 AM",90,AQI US - Trung bình,30.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"19 Nov 2021, 1:00 AM",173,AQI US - Không lành mạnh,98.7,PM2.5 µg/m³ - Trung bình
-Diamond Island,"19 Nov 2021, 2:00 AM",165,AQI US - Không lành mạnh,83.2,PM2.5 µg/m³ - Trung bình
-Diamond Island,"19 Nov 2021, 3:00 AM",163,AQI US - Không lành mạnh,78.4,PM2.5 µg/m³ - Trung bình
-Diamond Island,"19 Nov 2021, 4:00 AM",167,AQI US - Không lành mạnh,85.7,PM2.5 µg/m³ - Trung bình
-Diamond Island,"19 Nov 2021, 5:00 AM",143,AQI US - Không lành mạnh cho các nhóm nhạy cảm,52.7,PM2.5 µg/m³ - Trung bình
-Diamond Island,"19 Nov 2021, 6:00 AM",128,AQI US - Không lành mạnh cho các nhóm nhạy cảm,46.4,PM2.5 µg/m³ - Tốt
-Diamond Island,"19 Nov 2021, 7:00 AM",112,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"19 Nov 2021, 8:00 AM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.4,PM2.5 µg/m³ - Tốt
-Diamond Island,"19 Nov 2021, 9:00 AM",88,AQI US - Trung bình,29.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"19 Nov 2021, 10:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"19 Nov 2021, 11:00 AM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"19 Nov 2021, 12:00 PM",84,AQI US - Trung bình,27.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"19 Nov 2021, 1:00 PM",107,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"19 Nov 2021, 2:00 PM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"19 Nov 2021, 3:00 PM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"19 Nov 2021, 4:00 PM",92,AQI US - Trung bình,31.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"19 Nov 2021, 5:00 PM",140,AQI US - Không lành mạnh cho các nhóm nhạy cảm,51.3,PM2.5 µg/m³ - Trung bình
-Diamond Island,"19 Nov 2021, 6:00 PM",98,AQI US - Trung bình,34.6,PM2.5 µg/m³ - Tốt
-Diamond Island,"19 Nov 2021, 7:00 PM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
-Diamond Island,"19 Nov 2021, 8:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
-Diamond Island,"19 Nov 2021, 9:00 PM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
-Diamond Island,"19 Nov 2021, 10:00 PM",57,AQI US - Trung bình,14.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"19 Nov 2021, 11:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"20 Nov 2021, 12:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"20 Nov 2021, 1:00 AM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"20 Nov 2021, 2:00 AM",65,AQI US - Trung bình,18.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"20 Nov 2021, 3:00 AM",94,AQI US - Trung bình,32.5,PM2.5 µg/m³ - Tốt
-Diamond Island,"20 Nov 2021, 4:00 AM",131,AQI US - Không lành mạnh cho các nhóm nhạy cảm,47.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"20 Nov 2021, 5:00 AM",87,AQI US - Trung bình,29.5,PM2.5 µg/m³ - Tốt
-Diamond Island,"20 Nov 2021, 6:00 AM",84,AQI US - Trung bình,27.6,PM2.5 µg/m³ - Tốt
-Diamond Island,"20 Nov 2021, 7:00 AM",75,AQI US - Trung bình,23.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"20 Nov 2021, 8:00 AM",78,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"20 Nov 2021, 9:00 AM",154,AQI US - Không lành mạnh,61.5,PM2.5 µg/m³ - Trung bình
-Diamond Island,"20 Nov 2021, 10:00 AM",157,AQI US - Không lành mạnh,67.6,PM2.5 µg/m³ - Trung bình
-Diamond Island,"20 Nov 2021, 11:00 AM",155,AQI US - Không lành mạnh,63,PM2.5 µg/m³ - Trung bình
-Diamond Island,"20 Nov 2021, 12:00 PM",145,AQI US - Không lành mạnh cho các nhóm nhạy cảm,53.3,PM2.5 µg/m³ - Trung bình
-Diamond Island,"20 Nov 2021, 1:00 PM",152,AQI US - Không lành mạnh,58.2,PM2.5 µg/m³ - Trung bình
-Diamond Island,"20 Nov 2021, 2:00 PM",155,AQI US - Không lành mạnh,62.8,PM2.5 µg/m³ - Trung bình
-Diamond Island,"20 Nov 2021, 3:00 PM",154,AQI US - Không lành mạnh,61.5,PM2.5 µg/m³ - Trung bình
-Diamond Island,"20 Nov 2021, 4:00 PM",131,AQI US - Không lành mạnh cho các nhóm nhạy cảm,47.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"20 Nov 2021, 5:00 PM",81,AQI US - Trung bình,26.4,PM2.5 µg/m³ - Tốt
-Diamond Island,"20 Nov 2021, 6:00 PM",91,AQI US - Trung bình,31.2,PM2.5 µg/m³ - Tốt
-Diamond Island,"20 Nov 2021, 7:00 PM",69,AQI US - Trung bình,20.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"20 Nov 2021, 8:00 PM",79,AQI US - Trung bình,25.6,PM2.5 µg/m³ - Tốt
-Diamond Island,"20 Nov 2021, 9:00 PM",71,AQI US - Trung bình,21.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"20 Nov 2021, 10:00 PM",65,AQI US - Trung bình,18.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"20 Nov 2021, 11:00 PM",63,AQI US - Trung bình,17.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"21 Nov 2021, 12:00 AM",63,AQI US - Trung bình,17.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"21 Nov 2021, 1:00 AM",73,AQI US - Trung bình,22.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"21 Nov 2021, 2:00 AM",85,AQI US - Trung bình,28.6,PM2.5 µg/m³ - Tốt
-Diamond Island,"21 Nov 2021, 3:00 AM",112,AQI US - Không lành mạnh cho các nhóm nhạy cảm,40.1,PM2.5 µg/m³ - Tốt
-Diamond Island,"21 Nov 2021, 4:00 AM",155,AQI US - Không lành mạnh,62.7,PM2.5 µg/m³ - Trung bình
-Diamond Island,"21 Nov 2021, 5:00 AM",158,AQI US - Không lành mạnh,69,PM2.5 µg/m³ - Trung bình
-Diamond Island,"21 Nov 2021, 6:00 AM",167,AQI US - Không lành mạnh,86.6,PM2.5 µg/m³ - Trung bình
-Diamond Island,"21 Nov 2021, 7:00 AM",168,AQI US - Không lành mạnh,88.3,PM2.5 µg/m³ - Trung bình
-Diamond Island,"21 Nov 2021, 8:00 AM",160,AQI US - Không lành mạnh,72.8,PM2.5 µg/m³ - Trung bình
-Diamond Island,"21 Nov 2021, 9:00 AM",158,AQI US - Không lành mạnh,69.9,PM2.5 µg/m³ - Trung bình
-Diamond Island,"21 Nov 2021, 10:00 AM",164,AQI US - Không lành mạnh,80.7,PM2.5 µg/m³ - Trung bình
-Diamond Island,"21 Nov 2021, 11:00 AM",135,AQI US - Không lành mạnh cho các nhóm nhạy cảm,49.5,PM2.5 µg/m³ - Tốt
-Diamond Island,"21 Nov 2021, 12:00 PM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"21 Nov 2021, 1:00 PM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"21 Nov 2021, 2:00 PM",76,AQI US - Trung bình,23.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"21 Nov 2021, 3:00 PM",59,AQI US - Trung bình,16,PM2.5 µg/m³ - Tốt
-Diamond Island,"21 Nov 2021, 4:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
-Diamond Island,"21 Nov 2021, 5:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
-Diamond Island,"21 Nov 2021, 6:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
-Diamond Island,"21 Nov 2021, 7:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"21 Nov 2021, 8:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"21 Nov 2021, 9:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"21 Nov 2021, 10:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"21 Nov 2021, 11:00 PM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 12:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 1:00 AM",76,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 2:00 AM",76,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 3:00 AM",90,AQI US - Trung bình,30.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 4:00 AM",82,AQI US - Trung bình,26.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 5:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 6:00 AM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 7:00 AM",57,AQI US - Trung bình,14.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 8:00 AM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 9:00 AM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 10:00 AM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 11:00 AM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 12:00 PM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 1:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 2:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 3:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 4:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 5:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 6:00 PM",49,AQI US - Tốt,11.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 7:00 PM",71,AQI US - Trung bình,21.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 8:00 PM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 9:00 PM",69,AQI US - Trung bình,20.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 10:00 PM",67,AQI US - Trung bình,19.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"22 Nov 2021, 11:00 PM",57,AQI US - Trung bình,14.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 12:00 AM",73,AQI US - Trung bình,22.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 1:00 AM",77,AQI US - Trung bình,24.6,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 2:00 AM",105,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.1,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 3:00 AM",105,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.3,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 4:00 AM",75,AQI US - Trung bình,23.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 5:00 AM",96,AQI US - Trung bình,33.5,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 6:00 AM",150,AQI US - Không lành mạnh cho các nhóm nhạy cảm,55.4,PM2.5 µg/m³ - Trung bình
-Diamond Island,"23 Nov 2021, 7:00 AM",152,AQI US - Không lành mạnh,57.4,PM2.5 µg/m³ - Trung bình
-Diamond Island,"23 Nov 2021, 8:00 AM",128,AQI US - Không lành mạnh cho các nhóm nhạy cảm,46.4,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 9:00 AM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 10:00 AM",82,AQI US - Trung bình,26.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 11:00 AM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 12:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 1:00 PM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 2:00 PM",86,AQI US - Trung bình,28.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 3:00 PM",71,AQI US - Trung bình,21.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 4:00 PM",81,AQI US - Trung bình,26.6,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 5:00 PM",96,AQI US - Trung bình,33.5,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 6:00 PM",92,AQI US - Trung bình,31.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 7:00 PM",115,AQI US - Không lành mạnh cho các nhóm nhạy cảm,41.4,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 8:00 PM",115,AQI US - Không lành mạnh cho các nhóm nhạy cảm,41.3,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 9:00 PM",81,AQI US - Trung bình,26.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 10:00 PM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"23 Nov 2021, 11:00 PM",82,AQI US - Trung bình,26.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 12:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 1:00 AM",53,AQI US - Trung bình,12.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 2:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 3:00 AM",77,AQI US - Trung bình,24.6,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 4:00 AM",128,AQI US - Không lành mạnh cho các nhóm nhạy cảm,46.6,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 5:00 AM",152,AQI US - Không lành mạnh,57.3,PM2.5 µg/m³ - Trung bình
-Diamond Island,"24 Nov 2021, 6:00 AM",84,AQI US - Trung bình,27.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 7:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 8:00 AM",76,AQI US - Trung bình,23.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 9:00 AM",102,AQI US - Không lành mạnh cho các nhóm nhạy cảm,35.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 10:00 AM",63,AQI US - Trung bình,18,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 11:00 AM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 12:00 PM",50,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 1:00 PM",61,AQI US - Trung bình,17,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 2:00 PM",61,AQI US - Trung bình,17,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 3:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 4:00 PM",65,AQI US - Trung bình,19,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 5:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 6:00 PM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 7:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 8:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 9:00 PM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 10:00 PM",84,AQI US - Trung bình,27.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"24 Nov 2021, 11:00 PM",96,AQI US - Trung bình,33.6,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 12:00 AM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.5,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 1:00 AM",113,AQI US - Không lành mạnh cho các nhóm nhạy cảm,40.4,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 2:00 AM",132,AQI US - Không lành mạnh cho các nhóm nhạy cảm,48.2,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 3:00 AM",148,AQI US - Không lành mạnh cho các nhóm nhạy cảm,54.6,PM2.5 µg/m³ - Trung bình
-Diamond Island,"25 Nov 2021, 4:00 AM",103,AQI US - Không lành mạnh cho các nhóm nhạy cảm,36.5,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 5:00 AM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 6:00 AM",90,AQI US - Trung bình,30.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 7:00 AM",76,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 8:00 AM",82,AQI US - Trung bình,26.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 9:00 AM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 10:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 11:00 AM",86,AQI US - Trung bình,28.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 12:00 PM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.7,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 1:00 PM",82,AQI US - Trung bình,26.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 2:00 PM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 3:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 4:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 5:00 PM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 6:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 7:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 8:00 PM",88,AQI US - Trung bình,29.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 9:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 10:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
-Diamond Island,"25 Nov 2021, 11:00 PM",71,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 12:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 1:00 AM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 2:00 AM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 3:00 AM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 4:00 AM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 5:00 AM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 6:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 7:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 8:00 AM",76,AQI US - Trung bình,23.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 9:00 AM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 10:00 AM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 11:00 AM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 12:00 PM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 1:00 PM",76,AQI US - Trung bình,23.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 2:00 PM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 3:00 PM",59,AQI US - Trung bình,16,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 4:00 PM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 5:00 PM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 6:00 PM",88,AQI US - Trung bình,29.8,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 7:00 PM",118,AQI US - Không lành mạnh cho các nhóm nhạy cảm,42.6,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 8:00 PM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 9:00 PM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 10:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
-Diamond Island,"26 Nov 2021, 11:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
-Diamond Island,"27 Nov 2021, 12:00 AM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+VSTARSCHOOL,"27 Nov 2021, 1:00 AM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+VSTARSCHOOL,"27 Nov 2021, 2:00 AM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+VSTARSCHOOL,"27 Nov 2021, 3:00 AM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+VSTARSCHOOL,"27 Nov 2021, 4:00 AM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+VSTARSCHOOL,"27 Nov 2021, 5:00 AM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+VSTARSCHOOL,"27 Nov 2021, 6:00 AM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+VSTARSCHOOL,"27 Nov 2021, 7:00 AM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+VSTARSCHOOL,"27 Nov 2021, 8:00 AM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+VSTARSCHOOL,"27 Nov 2021, 9:00 AM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
+VSTARSCHOOL,"27 Nov 2021, 10:00 AM",63,AQI US - Trung bình,18,PM2.5 µg/m³ - Tốt
+VSTARSCHOOL,"27 Nov 2021, 11:00 AM",63,AQI US - Trung bình,18,PM2.5 µg/m³ - Tốt
+VSTARSCHOOL,"27 Nov 2021, 12:00 PM",61,AQI US - Trung bình,17,PM2.5 µg/m³ - Tốt
+VSTARSCHOOL,"27 Nov 2021, 1:00 PM",59,AQI US - Trung bình,16,PM2.5 µg/m³ - Tốt
+VSTARSCHOOL,"27 Nov 2021, 2:00 PM",50,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
 IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station,"14 Nov 2021, 7:00 PM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
 IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station,"14 Nov 2021, 8:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
 IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station,"14 Nov 2021, 9:00 PM",118,AQI US - Không lành mạnh cho các nhóm nhạy cảm,42.5,PM2.5 µg/m³ - Tốt
@@ -1341,159 +1302,20 @@ IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station,"26 Nov 2
 IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station,"26 Nov 2021, 10:00 PM",25,AQI US - Tốt,6,PM2.5 µg/m³ - Tốt
 IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station,"26 Nov 2021, 11:00 PM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
 IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station,"27 Nov 2021, 12:00 AM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
-Saigon South International School,"14 Nov 2021, 5:00 PM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"14 Nov 2021, 6:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"14 Nov 2021, 7:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-Saigon South International School,"14 Nov 2021, 8:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"14 Nov 2021, 9:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"14 Nov 2021, 10:00 PM",84,AQI US - Trung bình,27.7,PM2.5 µg/m³ - Tốt
-Saigon South International School,"14 Nov 2021, 11:00 PM",84,AQI US - Trung bình,27.7,PM2.5 µg/m³ - Tốt
-Saigon South International School,"15 Nov 2021, 12:00 AM",96,AQI US - Trung bình,33.5,PM2.5 µg/m³ - Tốt
-Saigon South International School,"15 Nov 2021, 2:00 AM",151,AQI US - Không lành mạnh,55.6,PM2.5 µg/m³ - Trung bình
-Saigon South International School,"15 Nov 2021, 3:00 AM",117,AQI US - Không lành mạnh cho các nhóm nhạy cảm,42.2,PM2.5 µg/m³ - Tốt
-Saigon South International School,"15 Nov 2021, 4:00 AM",103,AQI US - Không lành mạnh cho các nhóm nhạy cảm,36.4,PM2.5 µg/m³ - Tốt
-Saigon South International School,"15 Nov 2021, 5:00 AM",67,AQI US - Trung bình,19.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"15 Nov 2021, 6:00 AM",110,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.4,PM2.5 µg/m³ - Tốt
-Saigon South International School,"15 Nov 2021, 7:00 AM",151,AQI US - Không lành mạnh,55.7,PM2.5 µg/m³ - Trung bình
-Saigon South International School,"15 Nov 2021, 8:00 AM",129,AQI US - Không lành mạnh cho các nhóm nhạy cảm,47,PM2.5 µg/m³ - Tốt
-Saigon South International School,"15 Nov 2021, 9:00 AM",108,AQI US - Không lành mạnh cho các nhóm nhạy cảm,38.4,PM2.5 µg/m³ - Tốt
-Saigon South International School,"15 Nov 2021, 10:00 AM",78,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"15 Nov 2021, 11:00 AM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"15 Nov 2021, 12:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
-Saigon South International School,"15 Nov 2021, 1:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"15 Nov 2021, 2:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
-Saigon South International School,"15 Nov 2021, 3:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
-Saigon South International School,"15 Nov 2021, 4:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-Saigon South International School,"15 Nov 2021, 5:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
-Saigon South International School,"15 Nov 2021, 6:00 PM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
-Saigon South International School,"15 Nov 2021, 7:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
-Saigon South International School,"15 Nov 2021, 8:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"15 Nov 2021, 9:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"15 Nov 2021, 10:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-Saigon South International School,"15 Nov 2021, 11:00 PM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"16 Nov 2021, 12:00 AM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"16 Nov 2021, 1:00 AM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"16 Nov 2021, 2:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"16 Nov 2021, 3:00 AM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"16 Nov 2021, 4:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"16 Nov 2021, 5:00 AM",92,AQI US - Trung bình,31.6,PM2.5 µg/m³ - Tốt
-Saigon South International School,"16 Nov 2021, 6:00 AM",98,AQI US - Trung bình,34.5,PM2.5 µg/m³ - Tốt
-Saigon South International School,"16 Nov 2021, 7:00 AM",96,AQI US - Trung bình,33.5,PM2.5 µg/m³ - Tốt
-Saigon South International School,"16 Nov 2021, 8:00 AM",105,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.3,PM2.5 µg/m³ - Tốt
-Saigon South International School,"16 Nov 2021, 9:00 AM",94,AQI US - Trung bình,32.5,PM2.5 µg/m³ - Tốt
-Saigon South International School,"16 Nov 2021, 2:00 PM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"16 Nov 2021, 3:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"16 Nov 2021, 4:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-Saigon South International School,"17 Nov 2021, 7:00 AM",122,AQI US - Không lành mạnh cho các nhóm nhạy cảm,44.1,PM2.5 µg/m³ - Tốt
-Saigon South International School,"17 Nov 2021, 8:00 AM",151,AQI US - Không lành mạnh,56.5,PM2.5 µg/m³ - Trung bình
-Saigon South International School,"17 Nov 2021, 9:00 AM",152,AQI US - Không lành mạnh,57.5,PM2.5 µg/m³ - Trung bình
-Saigon South International School,"18 Nov 2021, 3:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"18 Nov 2021, 4:00 PM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"18 Nov 2021, 5:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
-Saigon South International School,"18 Nov 2021, 6:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"18 Nov 2021, 7:00 PM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"18 Nov 2021, 8:00 PM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"18 Nov 2021, 9:00 PM",71,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"18 Nov 2021, 10:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"18 Nov 2021, 11:00 PM",78,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"19 Nov 2021, 12:00 AM",71,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"19 Nov 2021, 1:00 AM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"19 Nov 2021, 2:00 AM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"19 Nov 2021, 10:00 AM",78,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"21 Nov 2021, 10:00 AM",121,AQI US - Không lành mạnh cho các nhóm nhạy cảm,43.5,PM2.5 µg/m³ - Tốt
-Saigon South International School,"21 Nov 2021, 11:00 AM",126,AQI US - Không lành mạnh cho các nhóm nhạy cảm,45.5,PM2.5 µg/m³ - Tốt
-Saigon South International School,"21 Nov 2021, 12:00 PM",92,AQI US - Trung bình,31.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"21 Nov 2021, 1:00 PM",96,AQI US - Trung bình,33.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"21 Nov 2021, 2:00 PM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"21 Nov 2021, 3:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"21 Nov 2021, 4:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
-Saigon South International School,"21 Nov 2021, 5:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
-Saigon South International School,"21 Nov 2021, 6:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
-Saigon South International School,"21 Nov 2021, 7:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
-Saigon South International School,"21 Nov 2021, 8:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"21 Nov 2021, 9:00 PM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"21 Nov 2021, 10:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"21 Nov 2021, 11:00 PM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 12:00 AM",82,AQI US - Trung bình,26.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 1:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 2:00 AM",78,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 3:00 AM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 4:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 5:00 AM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 6:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 7:00 AM",71,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 8:00 AM",71,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 9:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 10:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 11:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 12:00 PM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 1:00 PM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 2:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 3:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 4:00 PM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 5:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 6:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 7:00 PM",71,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 8:00 PM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 9:00 PM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 10:00 PM",69,AQI US - Trung bình,20.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"22 Nov 2021, 11:00 PM",67,AQI US - Trung bình,19.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 12:00 AM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 1:00 AM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 2:00 AM",81,AQI US - Trung bình,26.6,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 3:00 AM",98,AQI US - Trung bình,34.5,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 4:00 AM",144,AQI US - Không lành mạnh cho các nhóm nhạy cảm,52.9,PM2.5 µg/m³ - Trung bình
-Saigon South International School,"23 Nov 2021, 5:00 AM",129,AQI US - Không lành mạnh cho các nhóm nhạy cảm,47.1,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 6:00 AM",108,AQI US - Không lành mạnh cho các nhóm nhạy cảm,38.4,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 7:00 AM",113,AQI US - Không lành mạnh cho các nhóm nhạy cảm,40.4,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 8:00 AM",154,AQI US - Không lành mạnh,61.6,PM2.5 µg/m³ - Trung bình
-Saigon South International School,"23 Nov 2021, 9:00 AM",113,AQI US - Không lành mạnh cho các nhóm nhạy cảm,40.5,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 10:00 AM",98,AQI US - Trung bình,34.7,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 11:00 AM",82,AQI US - Trung bình,26.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 12:00 PM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 1:00 PM",99,AQI US - Trung bình,34.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 2:00 PM",98,AQI US - Trung bình,34.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 3:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 4:00 PM",77,AQI US - Trung bình,24.7,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 5:00 PM",77,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 6:00 PM",86,AQI US - Trung bình,28.7,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 7:00 PM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.5,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 8:00 PM",120,AQI US - Không lành mạnh cho các nhóm nhạy cảm,43.2,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 9:00 PM",108,AQI US - Không lành mạnh cho các nhóm nhạy cảm,38.3,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 10:00 PM",90,AQI US - Trung bình,30.6,PM2.5 µg/m³ - Tốt
-Saigon South International School,"23 Nov 2021, 11:00 PM",75,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"24 Nov 2021, 12:00 AM",69,AQI US - Trung bình,20.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"24 Nov 2021, 1:00 AM",77,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"24 Nov 2021, 2:00 AM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"24 Nov 2021, 3:00 AM",75,AQI US - Trung bình,23.7,PM2.5 µg/m³ - Tốt
-Saigon South International School,"24 Nov 2021, 4:00 AM",88,AQI US - Trung bình,29.6,PM2.5 µg/m³ - Tốt
-Saigon South International School,"24 Nov 2021, 5:00 AM",113,AQI US - Không lành mạnh cho các nhóm nhạy cảm,40.3,PM2.5 µg/m³ - Tốt
-Saigon South International School,"24 Nov 2021, 6:00 AM",146,AQI US - Không lành mạnh cho các nhóm nhạy cảm,53.9,PM2.5 µg/m³ - Trung bình
-Saigon South International School,"24 Nov 2021, 7:00 AM",98,AQI US - Trung bình,34.6,PM2.5 µg/m³ - Tốt
-Saigon South International School,"24 Nov 2021, 8:00 AM",96,AQI US - Trung bình,33.7,PM2.5 µg/m³ - Tốt
-Saigon South International School,"24 Nov 2021, 9:00 AM",104,AQI US - Không lành mạnh cho các nhóm nhạy cảm,36.7,PM2.5 µg/m³ - Tốt
-Saigon South International School,"24 Nov 2021, 10:00 AM",84,AQI US - Trung bình,27.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"24 Nov 2021, 11:00 AM",61,AQI US - Trung bình,17,PM2.5 µg/m³ - Tốt
-Saigon South International School,"24 Nov 2021, 12:00 PM",61,AQI US - Trung bình,17,PM2.5 µg/m³ - Tốt
-Saigon South International School,"26 Nov 2021, 12:00 AM",88,AQI US - Trung bình,29.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"26 Nov 2021, 1:00 AM",84,AQI US - Trung bình,27.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"26 Nov 2021, 2:00 AM",57,AQI US - Trung bình,14.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"26 Nov 2021, 3:00 AM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
-Saigon South International School,"26 Nov 2021, 4:00 AM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"26 Nov 2021, 5:00 AM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"26 Nov 2021, 6:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"26 Nov 2021, 7:00 AM",78,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"26 Nov 2021, 8:00 AM",86,AQI US - Trung bình,28.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"26 Nov 2021, 9:00 AM",90,AQI US - Trung bình,30.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"26 Nov 2021, 10:00 AM",90,AQI US - Trung bình,30.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"26 Nov 2021, 11:00 AM",107,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"26 Nov 2021, 12:00 PM",102,AQI US - Không lành mạnh cho các nhóm nhạy cảm,35.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"26 Nov 2021, 4:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-Saigon South International School,"26 Nov 2021, 8:00 PM",86,AQI US - Trung bình,28.8,PM2.5 µg/m³ - Tốt
-Saigon South International School,"26 Nov 2021, 9:00 PM",59,AQI US - Trung bình,16,PM2.5 µg/m³ - Tốt
-Saigon South International School,"26 Nov 2021, 10:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-Saigon South International School,"26 Nov 2021, 11:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
-Saigon South International School,"27 Nov 2021, 12:00 AM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station,"27 Nov 2021, 1:00 AM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station,"27 Nov 2021, 2:00 AM",50,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station,"27 Nov 2021, 3:00 AM",61,AQI US - Trung bình,17,PM2.5 µg/m³ - Tốt
+IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station,"27 Nov 2021, 4:00 AM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
+IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station,"27 Nov 2021, 5:00 AM",76,AQI US - Trung bình,23.9,PM2.5 µg/m³ - Tốt
+IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station,"27 Nov 2021, 6:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station,"27 Nov 2021, 7:00 AM",82,AQI US - Trung bình,26.9,PM2.5 µg/m³ - Tốt
+IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station,"27 Nov 2021, 8:00 AM",96,AQI US - Trung bình,33.8,PM2.5 µg/m³ - Tốt
+IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station,"27 Nov 2021, 9:00 AM",90,AQI US - Trung bình,30.8,PM2.5 µg/m³ - Tốt
+IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station,"27 Nov 2021, 10:00 AM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
+IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station,"27 Nov 2021, 11:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station,"27 Nov 2021, 12:00 PM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station,"27 Nov 2021, 1:00 PM",59,AQI US - Trung bình,16,PM2.5 µg/m³ - Tốt
+IQAir Showroom - Saigon Pearl - Outdoor Air Quality Monitoring Station,"27 Nov 2021, 2:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
 SimCity Premier District 9,"14 Nov 2021, 7:00 PM",71,AQI US - Trung bình,21.8,PM2.5 µg/m³ - Tốt
 SimCity Premier District 9,"14 Nov 2021, 8:00 PM",82,AQI US - Trung bình,26.7,PM2.5 µg/m³ - Tốt
 SimCity Premier District 9,"14 Nov 2021, 9:00 PM",90,AQI US - Trung bình,30.6,PM2.5 µg/m³ - Tốt
@@ -1784,6 +1606,509 @@ SimCity Premier District 9,"26 Nov 2021, 9:00 PM",37,AQI US - Tốt,9,PM2.5 µg/
 SimCity Premier District 9,"26 Nov 2021, 10:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
 SimCity Premier District 9,"26 Nov 2021, 11:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
 SimCity Premier District 9,"27 Nov 2021, 12:00 AM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+SimCity Premier District 9,"27 Nov 2021, 1:00 AM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+SimCity Premier District 9,"27 Nov 2021, 2:00 AM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+SimCity Premier District 9,"27 Nov 2021, 3:00 AM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+SimCity Premier District 9,"27 Nov 2021, 4:00 AM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+SimCity Premier District 9,"27 Nov 2021, 5:00 AM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+SimCity Premier District 9,"27 Nov 2021, 6:00 AM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+SimCity Premier District 9,"27 Nov 2021, 7:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+SimCity Premier District 9,"27 Nov 2021, 8:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+SimCity Premier District 9,"27 Nov 2021, 9:00 AM",82,AQI US - Trung bình,26.8,PM2.5 µg/m³ - Tốt
+SimCity Premier District 9,"27 Nov 2021, 10:00 AM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+SimCity Premier District 9,"27 Nov 2021, 11:00 AM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
+SimCity Premier District 9,"27 Nov 2021, 12:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
+SimCity Premier District 9,"27 Nov 2021, 1:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
+SimCity Premier District 9,"27 Nov 2021, 2:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"22 Nov 2021, 5:00 PM",25,AQI US - Tốt,6,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"22 Nov 2021, 6:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"22 Nov 2021, 7:00 PM",94,AQI US - Trung bình,32.7,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"22 Nov 2021, 8:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"22 Nov 2021, 9:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"22 Nov 2021, 10:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"22 Nov 2021, 11:00 PM",55,AQI US - Trung bình,13.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"23 Nov 2021, 12:00 AM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"23 Nov 2021, 1:00 AM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"23 Nov 2021, 2:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"23 Nov 2021, 3:00 AM",76,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"23 Nov 2021, 4:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"23 Nov 2021, 5:00 AM",82,AQI US - Trung bình,26.8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"23 Nov 2021, 6:00 AM",90,AQI US - Trung bình,30.7,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"23 Nov 2021, 7:00 AM",132,AQI US - Không lành mạnh cho các nhóm nhạy cảm,48.2,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"23 Nov 2021, 8:00 AM",135,AQI US - Không lành mạnh cho các nhóm nhạy cảm,49.2,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"23 Nov 2021, 9:00 AM",157,AQI US - Không lành mạnh,66.8,PM2.5 µg/m³ - Trung bình
+Vo Thi Sau High School,"23 Nov 2021, 10:00 AM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.7,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"23 Nov 2021, 11:00 AM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"23 Nov 2021, 12:00 PM",114,AQI US - Không lành mạnh cho các nhóm nhạy cảm,40.7,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"23 Nov 2021, 1:00 PM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"23 Nov 2021, 2:00 PM",82,AQI US - Trung bình,26.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"23 Nov 2021, 3:00 PM",76,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"23 Nov 2021, 4:00 PM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"23 Nov 2021, 5:00 PM",90,AQI US - Trung bình,30.7,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"23 Nov 2021, 6:00 PM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.5,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"23 Nov 2021, 7:00 PM",160,AQI US - Không lành mạnh,72.6,PM2.5 µg/m³ - Trung bình
+Vo Thi Sau High School,"23 Nov 2021, 8:00 PM",146,AQI US - Không lành mạnh cho các nhóm nhạy cảm,54.1,PM2.5 µg/m³ - Trung bình
+Vo Thi Sau High School,"23 Nov 2021, 9:00 PM",141,AQI US - Không lành mạnh cho các nhóm nhạy cảm,52,PM2.5 µg/m³ - Trung bình
+Vo Thi Sau High School,"24 Nov 2021, 1:00 AM",53,AQI US - Trung bình,12.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"24 Nov 2021, 2:00 AM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"24 Nov 2021, 3:00 AM",53,AQI US - Trung bình,12.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"24 Nov 2021, 4:00 AM",75,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"24 Nov 2021, 5:00 AM",154,AQI US - Không lành mạnh,60.7,PM2.5 µg/m³ - Trung bình
+Vo Thi Sau High School,"24 Nov 2021, 6:00 AM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.5,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"24 Nov 2021, 7:00 AM",86,AQI US - Trung bình,28.8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"24 Nov 2021, 8:00 AM",90,AQI US - Trung bình,30.8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"24 Nov 2021, 9:00 AM",116,AQI US - Không lành mạnh cho các nhóm nhạy cảm,41.6,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"24 Nov 2021, 10:00 AM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.7,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"24 Nov 2021, 11:00 AM",121,AQI US - Không lành mạnh cho các nhóm nhạy cảm,43.7,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"24 Nov 2021, 12:00 PM",152,AQI US - Không lành mạnh,57.5,PM2.5 µg/m³ - Trung bình
+Vo Thi Sau High School,"24 Nov 2021, 1:00 PM",65,AQI US - Trung bình,19,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"24 Nov 2021, 2:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"24 Nov 2021, 3:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"24 Nov 2021, 5:00 PM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.7,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"24 Nov 2021, 6:00 PM",76,AQI US - Trung bình,23.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"24 Nov 2021, 7:00 PM",123,AQI US - Không lành mạnh cho các nhóm nhạy cảm,44.5,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"24 Nov 2021, 8:00 PM",82,AQI US - Trung bình,26.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"24 Nov 2021, 9:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"24 Nov 2021, 10:00 PM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"24 Nov 2021, 11:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 12:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 1:00 AM",78,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 2:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 3:00 AM",78,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 4:00 AM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 5:00 AM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 6:00 AM",101,AQI US - Không lành mạnh cho các nhóm nhạy cảm,35.6,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 7:00 AM",92,AQI US - Trung bình,31.7,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 8:00 AM",92,AQI US - Trung bình,31.8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 9:00 AM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 10:00 AM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 11:00 AM",82,AQI US - Trung bình,26.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 12:00 PM",121,AQI US - Không lành mạnh cho các nhóm nhạy cảm,43.7,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 1:00 PM",107,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 2:00 PM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 3:00 PM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 4:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 5:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 6:00 PM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 7:00 PM",96,AQI US - Trung bình,33.8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 8:00 PM",96,AQI US - Trung bình,33.8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 9:00 PM",59,AQI US - Trung bình,16,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 10:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"25 Nov 2021, 11:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"26 Nov 2021, 12:00 AM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"26 Nov 2021, 1:00 AM",21,AQI US - Tốt,5,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"26 Nov 2021, 2:00 AM",21,AQI US - Tốt,5,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"26 Nov 2021, 3:00 AM",29,AQI US - Tốt,7,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"26 Nov 2021, 4:00 AM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"26 Nov 2021, 7:00 AM",109,AQI US - Không lành mạnh cho các nhóm nhạy cảm,38.6,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"26 Nov 2021, 8:00 AM",92,AQI US - Trung bình,31.8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"26 Nov 2021, 9:00 AM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"26 Nov 2021, 10:00 AM",82,AQI US - Trung bình,26.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"26 Nov 2021, 11:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"26 Nov 2021, 12:00 PM",152,AQI US - Không lành mạnh,57.5,PM2.5 µg/m³ - Trung bình
+Vo Thi Sau High School,"26 Nov 2021, 1:00 PM",84,AQI US - Trung bình,27.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"26 Nov 2021, 2:00 PM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"26 Nov 2021, 3:00 PM",70,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"26 Nov 2021, 4:00 PM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"26 Nov 2021, 5:00 PM",92,AQI US - Trung bình,31.8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"26 Nov 2021, 6:00 PM",86,AQI US - Trung bình,28.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"26 Nov 2021, 7:00 PM",135,AQI US - Không lành mạnh cho các nhóm nhạy cảm,49.5,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"26 Nov 2021, 8:00 PM",82,AQI US - Trung bình,26.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"26 Nov 2021, 9:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"26 Nov 2021, 10:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"26 Nov 2021, 11:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"27 Nov 2021, 12:00 AM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"27 Nov 2021, 1:00 AM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"27 Nov 2021, 2:00 AM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"27 Nov 2021, 3:00 AM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"27 Nov 2021, 4:00 AM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"27 Nov 2021, 5:00 AM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"27 Nov 2021, 6:00 AM",59,AQI US - Trung bình,16,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"27 Nov 2021, 7:00 AM",82,AQI US - Trung bình,26.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"27 Nov 2021, 8:00 AM",82,AQI US - Trung bình,26.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"27 Nov 2021, 9:00 AM",82,AQI US - Trung bình,26.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"27 Nov 2021, 10:00 AM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"27 Nov 2021, 11:00 AM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"27 Nov 2021, 12:00 PM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"27 Nov 2021, 1:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+Vo Thi Sau High School,"27 Nov 2021, 2:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+Saigon South International School,"14 Nov 2021, 5:00 PM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"14 Nov 2021, 6:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"14 Nov 2021, 7:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+Saigon South International School,"14 Nov 2021, 8:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"14 Nov 2021, 9:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"14 Nov 2021, 10:00 PM",84,AQI US - Trung bình,27.7,PM2.5 µg/m³ - Tốt
+Saigon South International School,"14 Nov 2021, 11:00 PM",84,AQI US - Trung bình,27.7,PM2.5 µg/m³ - Tốt
+Saigon South International School,"15 Nov 2021, 12:00 AM",96,AQI US - Trung bình,33.5,PM2.5 µg/m³ - Tốt
+Saigon South International School,"15 Nov 2021, 2:00 AM",151,AQI US - Không lành mạnh,55.6,PM2.5 µg/m³ - Trung bình
+Saigon South International School,"15 Nov 2021, 3:00 AM",117,AQI US - Không lành mạnh cho các nhóm nhạy cảm,42.2,PM2.5 µg/m³ - Tốt
+Saigon South International School,"15 Nov 2021, 4:00 AM",103,AQI US - Không lành mạnh cho các nhóm nhạy cảm,36.4,PM2.5 µg/m³ - Tốt
+Saigon South International School,"15 Nov 2021, 5:00 AM",67,AQI US - Trung bình,19.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"15 Nov 2021, 6:00 AM",110,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.4,PM2.5 µg/m³ - Tốt
+Saigon South International School,"15 Nov 2021, 7:00 AM",151,AQI US - Không lành mạnh,55.7,PM2.5 µg/m³ - Trung bình
+Saigon South International School,"15 Nov 2021, 8:00 AM",129,AQI US - Không lành mạnh cho các nhóm nhạy cảm,47,PM2.5 µg/m³ - Tốt
+Saigon South International School,"15 Nov 2021, 9:00 AM",108,AQI US - Không lành mạnh cho các nhóm nhạy cảm,38.4,PM2.5 µg/m³ - Tốt
+Saigon South International School,"15 Nov 2021, 10:00 AM",78,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"15 Nov 2021, 11:00 AM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"15 Nov 2021, 12:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+Saigon South International School,"15 Nov 2021, 1:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"15 Nov 2021, 2:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+Saigon South International School,"15 Nov 2021, 3:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+Saigon South International School,"15 Nov 2021, 4:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+Saigon South International School,"15 Nov 2021, 5:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+Saigon South International School,"15 Nov 2021, 6:00 PM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
+Saigon South International School,"15 Nov 2021, 7:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+Saigon South International School,"15 Nov 2021, 8:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"15 Nov 2021, 9:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"15 Nov 2021, 10:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+Saigon South International School,"15 Nov 2021, 11:00 PM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"16 Nov 2021, 12:00 AM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"16 Nov 2021, 1:00 AM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"16 Nov 2021, 2:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"16 Nov 2021, 3:00 AM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"16 Nov 2021, 4:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"16 Nov 2021, 5:00 AM",92,AQI US - Trung bình,31.6,PM2.5 µg/m³ - Tốt
+Saigon South International School,"16 Nov 2021, 6:00 AM",98,AQI US - Trung bình,34.5,PM2.5 µg/m³ - Tốt
+Saigon South International School,"16 Nov 2021, 7:00 AM",96,AQI US - Trung bình,33.5,PM2.5 µg/m³ - Tốt
+Saigon South International School,"16 Nov 2021, 8:00 AM",105,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.3,PM2.5 µg/m³ - Tốt
+Saigon South International School,"16 Nov 2021, 9:00 AM",94,AQI US - Trung bình,32.5,PM2.5 µg/m³ - Tốt
+Saigon South International School,"16 Nov 2021, 2:00 PM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"16 Nov 2021, 3:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"16 Nov 2021, 4:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+Saigon South International School,"17 Nov 2021, 7:00 AM",122,AQI US - Không lành mạnh cho các nhóm nhạy cảm,44.1,PM2.5 µg/m³ - Tốt
+Saigon South International School,"17 Nov 2021, 8:00 AM",151,AQI US - Không lành mạnh,56.5,PM2.5 µg/m³ - Trung bình
+Saigon South International School,"17 Nov 2021, 9:00 AM",152,AQI US - Không lành mạnh,57.5,PM2.5 µg/m³ - Trung bình
+Saigon South International School,"18 Nov 2021, 3:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"18 Nov 2021, 4:00 PM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"18 Nov 2021, 5:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+Saigon South International School,"18 Nov 2021, 6:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"18 Nov 2021, 7:00 PM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"18 Nov 2021, 8:00 PM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"18 Nov 2021, 9:00 PM",71,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"18 Nov 2021, 10:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"18 Nov 2021, 11:00 PM",78,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"19 Nov 2021, 12:00 AM",71,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"19 Nov 2021, 1:00 AM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"19 Nov 2021, 2:00 AM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"19 Nov 2021, 10:00 AM",78,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"21 Nov 2021, 10:00 AM",121,AQI US - Không lành mạnh cho các nhóm nhạy cảm,43.5,PM2.5 µg/m³ - Tốt
+Saigon South International School,"21 Nov 2021, 11:00 AM",126,AQI US - Không lành mạnh cho các nhóm nhạy cảm,45.5,PM2.5 µg/m³ - Tốt
+Saigon South International School,"21 Nov 2021, 12:00 PM",92,AQI US - Trung bình,31.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"21 Nov 2021, 1:00 PM",96,AQI US - Trung bình,33.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"21 Nov 2021, 2:00 PM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"21 Nov 2021, 3:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"21 Nov 2021, 4:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
+Saigon South International School,"21 Nov 2021, 5:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+Saigon South International School,"21 Nov 2021, 6:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
+Saigon South International School,"21 Nov 2021, 7:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+Saigon South International School,"21 Nov 2021, 8:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"21 Nov 2021, 9:00 PM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"21 Nov 2021, 10:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"21 Nov 2021, 11:00 PM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 12:00 AM",82,AQI US - Trung bình,26.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 1:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 2:00 AM",78,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 3:00 AM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 4:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 5:00 AM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 6:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 7:00 AM",71,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 8:00 AM",71,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 9:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 10:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 11:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 12:00 PM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 1:00 PM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 2:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 3:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 4:00 PM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 5:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 6:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 7:00 PM",71,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 8:00 PM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 9:00 PM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 10:00 PM",69,AQI US - Trung bình,20.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"22 Nov 2021, 11:00 PM",67,AQI US - Trung bình,19.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 12:00 AM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 1:00 AM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 2:00 AM",81,AQI US - Trung bình,26.6,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 3:00 AM",98,AQI US - Trung bình,34.5,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 4:00 AM",144,AQI US - Không lành mạnh cho các nhóm nhạy cảm,52.9,PM2.5 µg/m³ - Trung bình
+Saigon South International School,"23 Nov 2021, 5:00 AM",129,AQI US - Không lành mạnh cho các nhóm nhạy cảm,47.1,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 6:00 AM",108,AQI US - Không lành mạnh cho các nhóm nhạy cảm,38.4,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 7:00 AM",113,AQI US - Không lành mạnh cho các nhóm nhạy cảm,40.4,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 8:00 AM",154,AQI US - Không lành mạnh,61.6,PM2.5 µg/m³ - Trung bình
+Saigon South International School,"23 Nov 2021, 9:00 AM",113,AQI US - Không lành mạnh cho các nhóm nhạy cảm,40.5,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 10:00 AM",98,AQI US - Trung bình,34.7,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 11:00 AM",82,AQI US - Trung bình,26.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 12:00 PM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 1:00 PM",99,AQI US - Trung bình,34.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 2:00 PM",98,AQI US - Trung bình,34.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 3:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 4:00 PM",77,AQI US - Trung bình,24.7,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 5:00 PM",77,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 6:00 PM",86,AQI US - Trung bình,28.7,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 7:00 PM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.5,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 8:00 PM",120,AQI US - Không lành mạnh cho các nhóm nhạy cảm,43.2,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 9:00 PM",108,AQI US - Không lành mạnh cho các nhóm nhạy cảm,38.3,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 10:00 PM",90,AQI US - Trung bình,30.6,PM2.5 µg/m³ - Tốt
+Saigon South International School,"23 Nov 2021, 11:00 PM",75,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"24 Nov 2021, 12:00 AM",69,AQI US - Trung bình,20.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"24 Nov 2021, 1:00 AM",77,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"24 Nov 2021, 2:00 AM",73,AQI US - Trung bình,22.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"24 Nov 2021, 3:00 AM",75,AQI US - Trung bình,23.7,PM2.5 µg/m³ - Tốt
+Saigon South International School,"24 Nov 2021, 4:00 AM",88,AQI US - Trung bình,29.6,PM2.5 µg/m³ - Tốt
+Saigon South International School,"24 Nov 2021, 5:00 AM",113,AQI US - Không lành mạnh cho các nhóm nhạy cảm,40.3,PM2.5 µg/m³ - Tốt
+Saigon South International School,"24 Nov 2021, 6:00 AM",146,AQI US - Không lành mạnh cho các nhóm nhạy cảm,53.9,PM2.5 µg/m³ - Trung bình
+Saigon South International School,"24 Nov 2021, 7:00 AM",98,AQI US - Trung bình,34.6,PM2.5 µg/m³ - Tốt
+Saigon South International School,"24 Nov 2021, 8:00 AM",96,AQI US - Trung bình,33.7,PM2.5 µg/m³ - Tốt
+Saigon South International School,"24 Nov 2021, 9:00 AM",104,AQI US - Không lành mạnh cho các nhóm nhạy cảm,36.7,PM2.5 µg/m³ - Tốt
+Saigon South International School,"24 Nov 2021, 10:00 AM",84,AQI US - Trung bình,27.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"24 Nov 2021, 11:00 AM",61,AQI US - Trung bình,17,PM2.5 µg/m³ - Tốt
+Saigon South International School,"24 Nov 2021, 12:00 PM",61,AQI US - Trung bình,17,PM2.5 µg/m³ - Tốt
+Saigon South International School,"26 Nov 2021, 12:00 AM",88,AQI US - Trung bình,29.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"26 Nov 2021, 1:00 AM",84,AQI US - Trung bình,27.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"26 Nov 2021, 2:00 AM",57,AQI US - Trung bình,14.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"26 Nov 2021, 3:00 AM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
+Saigon South International School,"26 Nov 2021, 4:00 AM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"26 Nov 2021, 5:00 AM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"26 Nov 2021, 6:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"26 Nov 2021, 7:00 AM",78,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"26 Nov 2021, 8:00 AM",86,AQI US - Trung bình,28.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"26 Nov 2021, 9:00 AM",90,AQI US - Trung bình,30.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"26 Nov 2021, 10:00 AM",90,AQI US - Trung bình,30.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"26 Nov 2021, 11:00 AM",107,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"26 Nov 2021, 12:00 PM",102,AQI US - Không lành mạnh cho các nhóm nhạy cảm,35.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"26 Nov 2021, 4:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"26 Nov 2021, 8:00 PM",86,AQI US - Trung bình,28.8,PM2.5 µg/m³ - Tốt
+Saigon South International School,"26 Nov 2021, 9:00 PM",59,AQI US - Trung bình,16,PM2.5 µg/m³ - Tốt
+Saigon South International School,"26 Nov 2021, 10:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+Saigon South International School,"26 Nov 2021, 11:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+Saigon South International School,"27 Nov 2021, 12:00 AM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+Saigon South International School,"27 Nov 2021, 1:00 AM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+Saigon South International School,"27 Nov 2021, 2:00 AM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+Saigon South International School,"27 Nov 2021, 3:00 AM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+Saigon South International School,"27 Nov 2021, 4:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"27 Nov 2021, 5:00 AM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"27 Nov 2021, 6:00 AM",59,AQI US - Trung bình,16,PM2.5 µg/m³ - Tốt
+Saigon South International School,"27 Nov 2021, 7:00 AM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"27 Nov 2021, 8:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"27 Nov 2021, 9:00 AM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"27 Nov 2021, 10:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"27 Nov 2021, 11:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"27 Nov 2021, 12:00 PM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"27 Nov 2021, 1:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+Saigon South International School,"27 Nov 2021, 2:00 PM",59,AQI US - Trung bình,16,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"14 Nov 2021, 7:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"14 Nov 2021, 8:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"14 Nov 2021, 9:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"14 Nov 2021, 10:00 PM",84,AQI US - Trung bình,27.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"14 Nov 2021, 11:00 PM",90,AQI US - Trung bình,30.7,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"15 Nov 2021, 12:00 AM",98,AQI US - Trung bình,34.6,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"15 Nov 2021, 1:00 AM",155,AQI US - Không lành mạnh,62.8,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"15 Nov 2021, 2:00 AM",151,AQI US - Không lành mạnh,56.1,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"15 Nov 2021, 3:00 AM",120,AQI US - Không lành mạnh cho các nhóm nhạy cảm,43.4,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"15 Nov 2021, 4:00 AM",101,AQI US - Không lành mạnh cho các nhóm nhạy cảm,35.6,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"15 Nov 2021, 5:00 AM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"15 Nov 2021, 6:00 AM",101,AQI US - Không lành mạnh cho các nhóm nhạy cảm,35.6,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"15 Nov 2021, 7:00 AM",142,AQI US - Không lành mạnh cho các nhóm nhạy cảm,52.2,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"15 Nov 2021, 8:00 AM",128,AQI US - Không lành mạnh cho các nhóm nhạy cảm,46.4,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"15 Nov 2021, 9:00 AM",116,AQI US - Không lành mạnh cho các nhóm nhạy cảm,41.5,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"15 Nov 2021, 10:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"15 Nov 2021, 11:00 AM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"15 Nov 2021, 12:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"15 Nov 2021, 1:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"15 Nov 2021, 2:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"15 Nov 2021, 3:00 PM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"15 Nov 2021, 4:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"15 Nov 2021, 5:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"15 Nov 2021, 6:00 PM",59,AQI US - Trung bình,16,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"15 Nov 2021, 7:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"15 Nov 2021, 8:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"15 Nov 2021, 9:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"15 Nov 2021, 10:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"15 Nov 2021, 11:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 12:00 AM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 1:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 2:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 3:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 4:00 AM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 5:00 AM",94,AQI US - Trung bình,32.7,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 6:00 AM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.5,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 7:00 AM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.6,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 8:00 AM",101,AQI US - Không lành mạnh cho các nhóm nhạy cảm,35.6,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 9:00 AM",96,AQI US - Trung bình,33.6,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 10:00 AM",90,AQI US - Trung bình,30.7,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 11:00 AM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 12:00 PM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 1:00 PM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 2:00 PM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 3:00 PM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 4:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 5:00 PM",29,AQI US - Tốt,7,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 6:00 PM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 7:00 PM",59,AQI US - Trung bình,16,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 8:00 PM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 9:00 PM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 10:00 PM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"16 Nov 2021, 11:00 PM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"17 Nov 2021, 12:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"17 Nov 2021, 1:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"17 Nov 2021, 2:00 AM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"17 Nov 2021, 3:00 AM",71,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"17 Nov 2021, 4:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"17 Nov 2021, 5:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"17 Nov 2021, 6:00 AM",84,AQI US - Trung bình,27.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"17 Nov 2021, 7:00 AM",104,AQI US - Không lành mạnh cho các nhóm nhạy cảm,36.6,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"17 Nov 2021, 8:00 AM",154,AQI US - Không lành mạnh,61.8,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"17 Nov 2021, 9:00 AM",155,AQI US - Không lành mạnh,63.7,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"17 Nov 2021, 10:00 AM",147,AQI US - Không lành mạnh cho các nhóm nhạy cảm,54.4,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"17 Nov 2021, 11:00 AM",138,AQI US - Không lành mạnh cho các nhóm nhạy cảm,50.5,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"17 Nov 2021, 12:00 PM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.7,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"17 Nov 2021, 1:00 PM",104,AQI US - Không lành mạnh cho các nhóm nhạy cảm,36.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"17 Nov 2021, 2:00 PM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"17 Nov 2021, 3:00 PM",131,AQI US - Không lành mạnh cho các nhóm nhạy cảm,47.6,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"17 Nov 2021, 4:00 PM",82,AQI US - Trung bình,27,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"17 Nov 2021, 5:00 PM",76,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"17 Nov 2021, 6:00 PM",84,AQI US - Trung bình,27.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"17 Nov 2021, 7:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"17 Nov 2021, 8:00 PM",57,AQI US - Trung bình,14.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"17 Nov 2021, 9:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"17 Nov 2021, 10:00 PM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"17 Nov 2021, 11:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"18 Nov 2021, 12:00 AM",90,AQI US - Trung bình,30.7,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"18 Nov 2021, 1:00 AM",154,AQI US - Không lành mạnh,61.7,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"18 Nov 2021, 2:00 AM",146,AQI US - Không lành mạnh cho các nhóm nhạy cảm,54,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"18 Nov 2021, 3:00 AM",153,AQI US - Không lành mạnh,58.8,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"18 Nov 2021, 4:00 AM",118,AQI US - Không lành mạnh cho các nhóm nhạy cảm,42.4,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"18 Nov 2021, 5:00 AM",104,AQI US - Không lành mạnh cho các nhóm nhạy cảm,36.6,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"18 Nov 2021, 6:00 AM",123,AQI US - Không lành mạnh cho các nhóm nhạy cảm,44.3,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"18 Nov 2021, 7:00 AM",156,AQI US - Không lành mạnh,64.6,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"18 Nov 2021, 8:00 AM",155,AQI US - Không lành mạnh,62.7,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"18 Nov 2021, 9:00 AM",149,AQI US - Không lành mạnh cho các nhóm nhạy cảm,55,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"18 Nov 2021, 10:00 AM",152,AQI US - Không lành mạnh,58.1,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"18 Nov 2021, 11:00 AM",155,AQI US - Không lành mạnh,63.9,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"18 Nov 2021, 12:00 PM",86,AQI US - Trung bình,28.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"18 Nov 2021, 1:00 PM",86,AQI US - Trung bình,28.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"18 Nov 2021, 2:00 PM",86,AQI US - Trung bình,28.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"18 Nov 2021, 3:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"18 Nov 2021, 4:00 PM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"18 Nov 2021, 5:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"18 Nov 2021, 6:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"18 Nov 2021, 7:00 PM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"18 Nov 2021, 8:00 PM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"18 Nov 2021, 9:00 PM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"18 Nov 2021, 10:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"18 Nov 2021, 11:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"19 Nov 2021, 12:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"19 Nov 2021, 1:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"19 Nov 2021, 2:00 AM",135,AQI US - Không lành mạnh cho các nhóm nhạy cảm,49.2,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"19 Nov 2021, 3:00 AM",163,AQI US - Không lành mạnh,79,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"19 Nov 2021, 4:00 AM",174,AQI US - Không lành mạnh,100.5,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"19 Nov 2021, 5:00 AM",160,AQI US - Không lành mạnh,73.2,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"19 Nov 2021, 6:00 AM",154,AQI US - Không lành mạnh,60.7,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"19 Nov 2021, 7:00 AM",127,AQI US - Không lành mạnh cho các nhóm nhạy cảm,46.3,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"19 Nov 2021, 8:00 AM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.5,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"19 Nov 2021, 9:00 AM",98,AQI US - Trung bình,34.6,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"19 Nov 2021, 10:00 AM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"19 Nov 2021, 11:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"19 Nov 2021, 12:00 PM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"19 Nov 2021, 1:00 PM",90,AQI US - Trung bình,30.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"19 Nov 2021, 2:00 PM",82,AQI US - Trung bình,26.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"19 Nov 2021, 3:00 PM",88,AQI US - Trung bình,29.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"19 Nov 2021, 4:00 PM",102,AQI US - Không lành mạnh cho các nhóm nhạy cảm,35.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"19 Nov 2021, 5:00 PM",138,AQI US - Không lành mạnh cho các nhóm nhạy cảm,50.5,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"19 Nov 2021, 6:00 PM",90,AQI US - Trung bình,30.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"19 Nov 2021, 7:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"19 Nov 2021, 8:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"19 Nov 2021, 9:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"19 Nov 2021, 10:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"19 Nov 2021, 11:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"20 Nov 2021, 12:00 AM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"20 Nov 2021, 1:00 AM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"20 Nov 2021, 2:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"20 Nov 2021, 3:00 AM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"20 Nov 2021, 4:00 AM",92,AQI US - Trung bình,31.7,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"20 Nov 2021, 5:00 AM",101,AQI US - Không lành mạnh cho các nhóm nhạy cảm,35.6,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"20 Nov 2021, 6:00 AM",116,AQI US - Không lành mạnh cho các nhóm nhạy cảm,41.5,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"20 Nov 2021, 7:00 AM",120,AQI US - Không lành mạnh cho các nhóm nhạy cảm,43.4,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"20 Nov 2021, 8:00 AM",113,AQI US - Không lành mạnh cho các nhóm nhạy cảm,40.5,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"20 Nov 2021, 9:00 AM",123,AQI US - Không lành mạnh cho các nhóm nhạy cảm,44.5,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"20 Nov 2021, 10:00 AM",130,AQI US - Không lành mạnh cho các nhóm nhạy cảm,47.5,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"20 Nov 2021, 11:00 AM",165,AQI US - Không lành mạnh,82.5,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"20 Nov 2021, 12:00 PM",157,AQI US - Không lành mạnh,67.1,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"20 Nov 2021, 1:00 PM",166,AQI US - Không lành mạnh,84.5,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"20 Nov 2021, 2:00 PM",172,AQI US - Không lành mạnh,96.9,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"20 Nov 2021, 3:00 PM",163,AQI US - Không lành mạnh,78.6,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"20 Nov 2021, 4:00 PM",153,AQI US - Không lành mạnh,58.9,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"20 Nov 2021, 5:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"20 Nov 2021, 6:00 PM",78,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"20 Nov 2021, 7:00 PM",82,AQI US - Trung bình,26.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"20 Nov 2021, 8:00 PM",125,AQI US - Không lành mạnh cho các nhóm nhạy cảm,45.4,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"20 Nov 2021, 9:00 PM",118,AQI US - Không lành mạnh cho các nhóm nhạy cảm,42.4,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"20 Nov 2021, 10:00 PM",113,AQI US - Không lành mạnh cho các nhóm nhạy cảm,40.5,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"20 Nov 2021, 11:00 PM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.5,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"21 Nov 2021, 12:00 AM",104,AQI US - Không lành mạnh cho các nhóm nhạy cảm,36.5,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"21 Nov 2021, 1:00 AM",120,AQI US - Không lành mạnh cho các nhóm nhạy cảm,43.4,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"21 Nov 2021, 2:00 AM",118,AQI US - Không lành mạnh cho các nhóm nhạy cảm,42.4,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"21 Nov 2021, 3:00 AM",149,AQI US - Không lành mạnh cho các nhóm nhạy cảm,55,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"21 Nov 2021, 4:00 AM",156,AQI US - Không lành mạnh,65.5,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"21 Nov 2021, 5:00 AM",156,AQI US - Không lành mạnh,65.4,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"21 Nov 2021, 6:00 AM",165,AQI US - Không lành mạnh,82.5,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"21 Nov 2021, 7:00 AM",168,AQI US - Không lành mạnh,89.2,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"21 Nov 2021, 8:00 AM",174,AQI US - Không lành mạnh,100.5,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"21 Nov 2021, 9:00 AM",161,AQI US - Không lành mạnh,75.6,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"21 Nov 2021, 10:00 AM",128,AQI US - Không lành mạnh cho các nhóm nhạy cảm,46.5,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"21 Nov 2021, 11:00 AM",133,AQI US - Không lành mạnh cho các nhóm nhạy cảm,48.6,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"21 Nov 2021, 12:00 PM",97,AQI US - Trung bình,33.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"21 Nov 2021, 1:00 PM",94,AQI US - Trung bình,32.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"21 Nov 2021, 2:00 PM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"21 Nov 2021, 3:00 PM",61,AQI US - Trung bình,17,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"21 Nov 2021, 4:00 PM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"21 Nov 2021, 5:00 PM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"21 Nov 2021, 6:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"21 Nov 2021, 7:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"21 Nov 2021, 8:00 PM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"21 Nov 2021, 9:00 PM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"21 Nov 2021, 10:00 PM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"21 Nov 2021, 11:00 PM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 12:00 AM",84,AQI US - Trung bình,27.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 1:00 AM",82,AQI US - Trung bình,26.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 2:00 AM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 3:00 AM",76,AQI US - Trung bình,23.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 4:00 AM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 5:00 AM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 6:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 7:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 8:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 9:00 AM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 10:00 AM",61,AQI US - Trung bình,17,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 11:00 AM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 12:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 1:00 PM",59,AQI US - Trung bình,16,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 2:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 3:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 4:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 5:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 6:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 7:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 8:00 PM",71,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 9:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 10:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"22 Nov 2021, 11:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"23 Nov 2021, 12:00 AM",71,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"23 Nov 2021, 1:00 AM",71,AQI US - Trung bình,21.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"23 Nov 2021, 2:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"23 Nov 2021, 3:00 AM",96,AQI US - Trung bình,33.7,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"23 Nov 2021, 4:00 AM",132,AQI US - Không lành mạnh cho các nhóm nhạy cảm,48.3,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"23 Nov 2021, 5:00 AM",123,AQI US - Không lành mạnh cho các nhóm nhạy cảm,44.4,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"23 Nov 2021, 6:00 AM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.6,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"23 Nov 2021, 7:00 AM",116,AQI US - Không lành mạnh cho các nhóm nhạy cảm,41.5,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"23 Nov 2021, 8:00 AM",154,AQI US - Không lành mạnh,62,PM2.5 µg/m³ - Trung bình
+SSIS OUTDOOR 3,"23 Nov 2021, 9:00 AM",121,AQI US - Không lành mạnh cho các nhóm nhạy cảm,43.6,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"23 Nov 2021, 10:00 AM",98,AQI US - Trung bình,34.8,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"23 Nov 2021, 11:00 AM",84,AQI US - Trung bình,27.9,PM2.5 µg/m³ - Tốt
+SSIS OUTDOOR 3,"23 Nov 2021, 12:00 PM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
 US Consulate in Ho Chi Minh City,"14 Nov 2021, 7:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
 US Consulate in Ho Chi Minh City,"14 Nov 2021, 8:00 PM",59,AQI US - Trung bình,16,PM2.5 µg/m³ - Tốt
 US Consulate in Ho Chi Minh City,"14 Nov 2021, 9:00 PM",91,AQI US - Trung bình,31,PM2.5 µg/m³ - Tốt
@@ -2610,213 +2935,3 @@ Ap Xuan Thoi Dong 2,"26 Nov 2021, 9:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µ
 Ap Xuan Thoi Dong 2,"26 Nov 2021, 10:00 PM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
 Ap Xuan Thoi Dong 2,"26 Nov 2021, 11:00 PM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
 Ap Xuan Thoi Dong 2,"27 Nov 2021, 12:00 AM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"14 Nov 2021, 7:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"14 Nov 2021, 8:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"14 Nov 2021, 9:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"14 Nov 2021, 10:00 PM",84,AQI US - Trung bình,27.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"14 Nov 2021, 11:00 PM",90,AQI US - Trung bình,30.7,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"15 Nov 2021, 12:00 AM",98,AQI US - Trung bình,34.6,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"15 Nov 2021, 1:00 AM",155,AQI US - Không lành mạnh,62.8,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"15 Nov 2021, 2:00 AM",151,AQI US - Không lành mạnh,56.1,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"15 Nov 2021, 3:00 AM",120,AQI US - Không lành mạnh cho các nhóm nhạy cảm,43.4,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"15 Nov 2021, 4:00 AM",101,AQI US - Không lành mạnh cho các nhóm nhạy cảm,35.6,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"15 Nov 2021, 5:00 AM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"15 Nov 2021, 6:00 AM",101,AQI US - Không lành mạnh cho các nhóm nhạy cảm,35.6,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"15 Nov 2021, 7:00 AM",142,AQI US - Không lành mạnh cho các nhóm nhạy cảm,52.2,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"15 Nov 2021, 8:00 AM",128,AQI US - Không lành mạnh cho các nhóm nhạy cảm,46.4,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"15 Nov 2021, 9:00 AM",116,AQI US - Không lành mạnh cho các nhóm nhạy cảm,41.5,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"15 Nov 2021, 10:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"15 Nov 2021, 11:00 AM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"15 Nov 2021, 12:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"15 Nov 2021, 1:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"15 Nov 2021, 2:00 PM",41,AQI US - Tốt,10,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"15 Nov 2021, 3:00 PM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"15 Nov 2021, 4:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"15 Nov 2021, 5:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"15 Nov 2021, 6:00 PM",59,AQI US - Trung bình,16,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"15 Nov 2021, 7:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"15 Nov 2021, 8:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"15 Nov 2021, 9:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"15 Nov 2021, 10:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"15 Nov 2021, 11:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 12:00 AM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 1:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 2:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 3:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 4:00 AM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 5:00 AM",94,AQI US - Trung bình,32.7,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 6:00 AM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.5,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 7:00 AM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.6,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 8:00 AM",101,AQI US - Không lành mạnh cho các nhóm nhạy cảm,35.6,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 9:00 AM",96,AQI US - Trung bình,33.6,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 10:00 AM",90,AQI US - Trung bình,30.7,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 11:00 AM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 12:00 PM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 1:00 PM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 2:00 PM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 3:00 PM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 4:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 5:00 PM",29,AQI US - Tốt,7,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 6:00 PM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 7:00 PM",59,AQI US - Trung bình,16,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 8:00 PM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 9:00 PM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 10:00 PM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"16 Nov 2021, 11:00 PM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"17 Nov 2021, 12:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"17 Nov 2021, 1:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"17 Nov 2021, 2:00 AM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"17 Nov 2021, 3:00 AM",71,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"17 Nov 2021, 4:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"17 Nov 2021, 5:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"17 Nov 2021, 6:00 AM",84,AQI US - Trung bình,27.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"17 Nov 2021, 7:00 AM",104,AQI US - Không lành mạnh cho các nhóm nhạy cảm,36.6,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"17 Nov 2021, 8:00 AM",154,AQI US - Không lành mạnh,61.8,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"17 Nov 2021, 9:00 AM",155,AQI US - Không lành mạnh,63.7,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"17 Nov 2021, 10:00 AM",147,AQI US - Không lành mạnh cho các nhóm nhạy cảm,54.4,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"17 Nov 2021, 11:00 AM",138,AQI US - Không lành mạnh cho các nhóm nhạy cảm,50.5,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"17 Nov 2021, 12:00 PM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.7,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"17 Nov 2021, 1:00 PM",104,AQI US - Không lành mạnh cho các nhóm nhạy cảm,36.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"17 Nov 2021, 2:00 PM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"17 Nov 2021, 3:00 PM",131,AQI US - Không lành mạnh cho các nhóm nhạy cảm,47.6,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"17 Nov 2021, 4:00 PM",82,AQI US - Trung bình,27,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"17 Nov 2021, 5:00 PM",76,AQI US - Trung bình,23.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"17 Nov 2021, 6:00 PM",84,AQI US - Trung bình,27.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"17 Nov 2021, 7:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"17 Nov 2021, 8:00 PM",57,AQI US - Trung bình,14.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"17 Nov 2021, 9:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"17 Nov 2021, 10:00 PM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"17 Nov 2021, 11:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"18 Nov 2021, 12:00 AM",90,AQI US - Trung bình,30.7,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"18 Nov 2021, 1:00 AM",154,AQI US - Không lành mạnh,61.7,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"18 Nov 2021, 2:00 AM",146,AQI US - Không lành mạnh cho các nhóm nhạy cảm,54,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"18 Nov 2021, 3:00 AM",153,AQI US - Không lành mạnh,58.8,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"18 Nov 2021, 4:00 AM",118,AQI US - Không lành mạnh cho các nhóm nhạy cảm,42.4,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"18 Nov 2021, 5:00 AM",104,AQI US - Không lành mạnh cho các nhóm nhạy cảm,36.6,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"18 Nov 2021, 6:00 AM",123,AQI US - Không lành mạnh cho các nhóm nhạy cảm,44.3,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"18 Nov 2021, 7:00 AM",156,AQI US - Không lành mạnh,64.6,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"18 Nov 2021, 8:00 AM",155,AQI US - Không lành mạnh,62.7,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"18 Nov 2021, 9:00 AM",149,AQI US - Không lành mạnh cho các nhóm nhạy cảm,55,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"18 Nov 2021, 10:00 AM",152,AQI US - Không lành mạnh,58.1,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"18 Nov 2021, 11:00 AM",155,AQI US - Không lành mạnh,63.9,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"18 Nov 2021, 12:00 PM",86,AQI US - Trung bình,28.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"18 Nov 2021, 1:00 PM",86,AQI US - Trung bình,28.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"18 Nov 2021, 2:00 PM",86,AQI US - Trung bình,28.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"18 Nov 2021, 3:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"18 Nov 2021, 4:00 PM",33,AQI US - Tốt,8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"18 Nov 2021, 5:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"18 Nov 2021, 6:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"18 Nov 2021, 7:00 PM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"18 Nov 2021, 8:00 PM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"18 Nov 2021, 9:00 PM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"18 Nov 2021, 10:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"18 Nov 2021, 11:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"19 Nov 2021, 12:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"19 Nov 2021, 1:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"19 Nov 2021, 2:00 AM",135,AQI US - Không lành mạnh cho các nhóm nhạy cảm,49.2,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"19 Nov 2021, 3:00 AM",163,AQI US - Không lành mạnh,79,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"19 Nov 2021, 4:00 AM",174,AQI US - Không lành mạnh,100.5,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"19 Nov 2021, 5:00 AM",160,AQI US - Không lành mạnh,73.2,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"19 Nov 2021, 6:00 AM",154,AQI US - Không lành mạnh,60.7,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"19 Nov 2021, 7:00 AM",127,AQI US - Không lành mạnh cho các nhóm nhạy cảm,46.3,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"19 Nov 2021, 8:00 AM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.5,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"19 Nov 2021, 9:00 AM",98,AQI US - Trung bình,34.6,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"19 Nov 2021, 10:00 AM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"19 Nov 2021, 11:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"19 Nov 2021, 12:00 PM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"19 Nov 2021, 1:00 PM",90,AQI US - Trung bình,30.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"19 Nov 2021, 2:00 PM",82,AQI US - Trung bình,26.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"19 Nov 2021, 3:00 PM",88,AQI US - Trung bình,29.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"19 Nov 2021, 4:00 PM",102,AQI US - Không lành mạnh cho các nhóm nhạy cảm,35.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"19 Nov 2021, 5:00 PM",138,AQI US - Không lành mạnh cho các nhóm nhạy cảm,50.5,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"19 Nov 2021, 6:00 PM",90,AQI US - Trung bình,30.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"19 Nov 2021, 7:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"19 Nov 2021, 8:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"19 Nov 2021, 9:00 PM",55,AQI US - Trung bình,14,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"19 Nov 2021, 10:00 PM",57,AQI US - Trung bình,15,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"19 Nov 2021, 11:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"20 Nov 2021, 12:00 AM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"20 Nov 2021, 1:00 AM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"20 Nov 2021, 2:00 AM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"20 Nov 2021, 3:00 AM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"20 Nov 2021, 4:00 AM",92,AQI US - Trung bình,31.7,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"20 Nov 2021, 5:00 AM",101,AQI US - Không lành mạnh cho các nhóm nhạy cảm,35.6,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"20 Nov 2021, 6:00 AM",116,AQI US - Không lành mạnh cho các nhóm nhạy cảm,41.5,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"20 Nov 2021, 7:00 AM",120,AQI US - Không lành mạnh cho các nhóm nhạy cảm,43.4,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"20 Nov 2021, 8:00 AM",113,AQI US - Không lành mạnh cho các nhóm nhạy cảm,40.5,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"20 Nov 2021, 9:00 AM",123,AQI US - Không lành mạnh cho các nhóm nhạy cảm,44.5,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"20 Nov 2021, 10:00 AM",130,AQI US - Không lành mạnh cho các nhóm nhạy cảm,47.5,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"20 Nov 2021, 11:00 AM",165,AQI US - Không lành mạnh,82.5,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"20 Nov 2021, 12:00 PM",157,AQI US - Không lành mạnh,67.1,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"20 Nov 2021, 1:00 PM",166,AQI US - Không lành mạnh,84.5,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"20 Nov 2021, 2:00 PM",172,AQI US - Không lành mạnh,96.9,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"20 Nov 2021, 3:00 PM",163,AQI US - Không lành mạnh,78.6,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"20 Nov 2021, 4:00 PM",153,AQI US - Không lành mạnh,58.9,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"20 Nov 2021, 5:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"20 Nov 2021, 6:00 PM",78,AQI US - Trung bình,24.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"20 Nov 2021, 7:00 PM",82,AQI US - Trung bình,26.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"20 Nov 2021, 8:00 PM",125,AQI US - Không lành mạnh cho các nhóm nhạy cảm,45.4,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"20 Nov 2021, 9:00 PM",118,AQI US - Không lành mạnh cho các nhóm nhạy cảm,42.4,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"20 Nov 2021, 10:00 PM",113,AQI US - Không lành mạnh cho các nhóm nhạy cảm,40.5,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"20 Nov 2021, 11:00 PM",111,AQI US - Không lành mạnh cho các nhóm nhạy cảm,39.5,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"21 Nov 2021, 12:00 AM",104,AQI US - Không lành mạnh cho các nhóm nhạy cảm,36.5,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"21 Nov 2021, 1:00 AM",120,AQI US - Không lành mạnh cho các nhóm nhạy cảm,43.4,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"21 Nov 2021, 2:00 AM",118,AQI US - Không lành mạnh cho các nhóm nhạy cảm,42.4,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"21 Nov 2021, 3:00 AM",149,AQI US - Không lành mạnh cho các nhóm nhạy cảm,55,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"21 Nov 2021, 4:00 AM",156,AQI US - Không lành mạnh,65.5,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"21 Nov 2021, 5:00 AM",156,AQI US - Không lành mạnh,65.4,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"21 Nov 2021, 6:00 AM",165,AQI US - Không lành mạnh,82.5,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"21 Nov 2021, 7:00 AM",168,AQI US - Không lành mạnh,89.2,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"21 Nov 2021, 8:00 AM",174,AQI US - Không lành mạnh,100.5,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"21 Nov 2021, 9:00 AM",161,AQI US - Không lành mạnh,75.6,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"21 Nov 2021, 10:00 AM",128,AQI US - Không lành mạnh cho các nhóm nhạy cảm,46.5,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"21 Nov 2021, 11:00 AM",133,AQI US - Không lành mạnh cho các nhóm nhạy cảm,48.6,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"21 Nov 2021, 12:00 PM",97,AQI US - Trung bình,33.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"21 Nov 2021, 1:00 PM",94,AQI US - Trung bình,32.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"21 Nov 2021, 2:00 PM",80,AQI US - Trung bình,25.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"21 Nov 2021, 3:00 PM",61,AQI US - Trung bình,17,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"21 Nov 2021, 4:00 PM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"21 Nov 2021, 5:00 PM",53,AQI US - Trung bình,13,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"21 Nov 2021, 6:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"21 Nov 2021, 7:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"21 Nov 2021, 8:00 PM",61,AQI US - Trung bình,16.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"21 Nov 2021, 9:00 PM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"21 Nov 2021, 10:00 PM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"21 Nov 2021, 11:00 PM",74,AQI US - Trung bình,22.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 12:00 AM",84,AQI US - Trung bình,27.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 1:00 AM",82,AQI US - Trung bình,26.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 2:00 AM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 3:00 AM",76,AQI US - Trung bình,23.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 4:00 AM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 5:00 AM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 6:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 7:00 AM",69,AQI US - Trung bình,20.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 8:00 AM",72,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 9:00 AM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 10:00 AM",61,AQI US - Trung bình,17,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 11:00 AM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 12:00 PM",65,AQI US - Trung bình,18.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 1:00 PM",59,AQI US - Trung bình,16,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 2:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 3:00 PM",49,AQI US - Tốt,12,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 4:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 5:00 PM",45,AQI US - Tốt,11,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 6:00 PM",37,AQI US - Tốt,9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 7:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 8:00 PM",71,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 9:00 PM",59,AQI US - Trung bình,15.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 10:00 PM",67,AQI US - Trung bình,19.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"22 Nov 2021, 11:00 PM",63,AQI US - Trung bình,17.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"23 Nov 2021, 12:00 AM",71,AQI US - Trung bình,21.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"23 Nov 2021, 1:00 AM",71,AQI US - Trung bình,21.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"23 Nov 2021, 2:00 AM",80,AQI US - Trung bình,25.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"23 Nov 2021, 3:00 AM",96,AQI US - Trung bình,33.7,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"23 Nov 2021, 4:00 AM",132,AQI US - Không lành mạnh cho các nhóm nhạy cảm,48.3,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"23 Nov 2021, 5:00 AM",123,AQI US - Không lành mạnh cho các nhóm nhạy cảm,44.4,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"23 Nov 2021, 6:00 AM",106,AQI US - Không lành mạnh cho các nhóm nhạy cảm,37.6,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"23 Nov 2021, 7:00 AM",116,AQI US - Không lành mạnh cho các nhóm nhạy cảm,41.5,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"23 Nov 2021, 8:00 AM",154,AQI US - Không lành mạnh,62,PM2.5 µg/m³ - Trung bình
-SSIS OUTDOOR 3,"23 Nov 2021, 9:00 AM",121,AQI US - Không lành mạnh cho các nhóm nhạy cảm,43.6,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"23 Nov 2021, 10:00 AM",98,AQI US - Trung bình,34.8,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"23 Nov 2021, 11:00 AM",84,AQI US - Trung bình,27.9,PM2.5 µg/m³ - Tốt
-SSIS OUTDOOR 3,"23 Nov 2021, 12:00 PM",78,AQI US - Trung bình,24.9,PM2.5 µg/m³ - Tốt
