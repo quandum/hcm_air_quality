@@ -3,3 +3,4 @@ geckodriver*
 .dist
 .ipynb_checkpoints
 crawl_data.py
+.git/index.lock
